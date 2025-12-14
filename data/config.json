@@ -1,26 +1,36 @@
 {
-  "version": 1765730516103,
-  "updatedAt": "2025-12-14T16:41:56.103Z",
+  "version": 1765730647679,
+  "updatedAt": "2025-12-14T16:44:07.679Z",
   "settings": {
+    "configVersion": 1765715807569,
     "githubParams": {
-      "username": "YM0527140225",
-      "repo": "Makdimi-Shabbat-storage"
+      "repo": "Makdimi-Shabbat-storage",
+      "username": "YM0527140225"
     },
-    "dataVersion": 1765730516104,
-    "lastPublished": "14.12.2025, 18:41:56",
+    "alertTitles": [
+      "הדלקת נרות | בעוד 20 דקות.",
+      "הדלקת נרות | בעוד 10 דקות",
+      "הדלקת נרות:"
+    ],
     "genres": [
       "ashkenazi",
       "ספרדי",
       "*אופקים"
     ],
-    "configVersion": 1765715807569,
-    "alertTitles": [
-      "הדלקת נרות | בעוד 20 דקות.",
-      "הדלקת נרות | בעוד 10 דקות",
-      "הדלקת נרות:"
-    ]
+    "dataVersion": 1765730647679,
+    "lastPublished": "14.12.2025, 18:44:07"
   },
   "songs": [
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "*אופקים",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765507522434_Ben_Zur______________-____________.mp3",
+      "fileName": "הבת של המלך!",
+      "displayTitle": null,
+      "imageUrl": null,
+      "isDefault": false
+    },
     {
       "id": "rosh_hashana",
       "alertIndex": 0,
@@ -33,21 +43,31 @@
     },
     {
       "id": "shabbat",
-      "alertIndex": 2,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765547996929_LatinHype_-_Duncan_Laurence_-_Arcade.mp3",
-      "fileName": "1765547996929_LatinHype_-_Duncan_Laurence_-_Arcade.mp3",
-      "displayTitle": "לב שבור ",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
       "alertIndex": 0,
       "genre": "ספרדי",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765547887659_Audio_2025_05_18_20_24_43.mp3",
       "fileName": "1765547887659_Audio_2025_05_18_20_24_43.mp3",
       "displayTitle": "יום חדש יעלה",
+      "imageUrl": null,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765507522434_Ben_Zur______________-____________.mp3",
+      "fileName": "Ben Zur, יאיר אלייצו - הבת של המלך.mp3",
+      "displayTitle": "הבת של המלך.",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765507622936_Screenshot_20251212-174348.png",
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 2,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765547996929_LatinHype_-_Duncan_Laurence_-_Arcade.mp3",
+      "fileName": "1765547996929_LatinHype_-_Duncan_Laurence_-_Arcade.mp3",
+      "displayTitle": "לב שבור ",
       "imageUrl": null,
       "isDefault": false
     },
@@ -72,36 +92,6 @@
       "isDefault": false
     },
     {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765507522434_Ben_Zur______________-____________.mp3",
-      "fileName": "Ben Zur, יאיר אלייצו - הבת של המלך.mp3",
-      "displayTitle": "הבת של המלך.",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765507622936_Screenshot_20251212-174348.png",
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "*אופקים",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765507522434_Ben_Zur______________-____________.mp3",
-      "fileName": "הבת של המלך!",
-      "displayTitle": null,
-      "imageUrl": null,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765547887659_Audio_2025_05_18_20_24_43.mp3",
-      "fileName": "1765547887659_Audio_2025_05_18_20_24_43.mp3",
-      "displayTitle": "יום חדש יפציע",
-      "imageUrl": null,
-      "isDefault": false
-    },
-    {
       "id": "chanukah",
       "alertIndex": 0,
       "genre": "ashkenazi",
@@ -118,11 +108,21 @@
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765547996929_LatinHype_-_Duncan_Laurence_-_Arcade.mp3",
       "fileName": "1765547996929_LatinHype_-_Duncan_Laurence_-_Arcade.mp3",
       "displayTitle": "לב שבור ",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765547887659_Audio_2025_05_18_20_24_43.mp3",
+      "fileName": "1765547887659_Audio_2025_05_18_20_24_43.mp3",
+      "displayTitle": "יום חדש יפציע",
       "imageUrl": null,
       "isDefault": false
     }
   ],
-  "dashboardText": "<div style=\"text-align: center;\">לבדוק שהכל תקין בסתם שבת, בחג, בשבת חול המועד, שלא מפעיל התראה ביומיים רצופים, לבדוק שהוא מתעדכן וטוען שנה קדימה תמיד, וכן תמיד מדליק את ההתראה לפי מה שהוגדר לו כגון חג או ספציפי לתאריך הזה ולוודאות גם שהוא מסיים את הניגון השיר בזמן ההתראה,</div><div style=\"text-align: center;\">ולבדוק גם זאנרים.</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">לדאוג שהרטט יעבוד</div><div style=\"text-align: center;\"><div style=\"font-style: italic; text-align: center;\"><br></div><div style=\"text-align: center;\"><b style=\"\">ב 2 בלילה בשבת משתנה הטיימר וההתראה הקרובה לבדוק אם זה משתנה גם ללא ריענון או נגיעה באתר.</b></div></div>",
+  "dashboardText": "<div style=\"text-align: center;\">לבדוק שהכל תקין בסתם שבת, בחג, בשבת חול המועד, שלא מפעיל התראה ביומיים רצופים, לבדוק שהוא מתעדכן וטוען שנה קדימה תמיד, וכן תמיד מדליק את ההתראה לפי מה שהוגדר לו כגון חג או ספציפי לתאריך הזה ולוודאות גם שהוא מסיים את הניגון השיר בזמן ההתראה,</div><div style=\"text-align: center;\">ולבדוק גם זאנרים.</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">לדאוג שהרטט יעבוד!</div><div style=\"text-align: center;\"><div style=\"font-style: italic; text-align: center;\"><br></div><div style=\"text-align: center;\"><b style=\"\">ב 2 בלילה בשבת משתנה הטיימר וההתראה הקרובה לבדוק אם זה משתנה גם ללא ריענון או נגיעה באתר.</b></div></div>",
   "availableCities": [
     {
       "id": "אופקים",
