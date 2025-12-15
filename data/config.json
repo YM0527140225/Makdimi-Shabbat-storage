@@ -1,27 +1,77 @@
 {
-  "version": 1765758448677,
-  "updatedAt": "2025-12-15T00:27:28.677Z",
+  "version": 1765758711506,
+  "updatedAt": "2025-12-15T00:31:51.506Z",
   "settings": {
-    "dataVersion": 1765758448677,
-    "configVersion": 1765715807569,
     "githubParams": {
       "username": "YM0527140225",
       "repo": "Makdimi-Shabbat-storage"
     },
-    "lastPublished": "15.12.2025, 2:27:28",
-    "genres": [
-      "ashkenazi",
-      "ספרדי",
-      "*אופקים"
-    ],
     "alertTitles": [
       "הדלקת נרות | בעוד 20 דקות.",
       "הדלקת נרות | בעוד 10 דקות",
       "הדלקת נרות:"
     ],
-    "hasPendingChanges": false
+    "hasPendingChanges": false,
+    "configVersion": 1765715807569,
+    "lastPublished": "15.12.2025, 2:31:51",
+    "dataVersion": 1765758711506,
+    "genres": [
+      "ashkenazi",
+      "ספרדי",
+      "*אופקים"
+    ]
   },
   "songs": [
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "ספרדי",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765746359314_03_____.mp3",
+      "fileName": "03 חמול.mp3",
+      "displayTitle": "יום חדש יעלה חמול",
+      "imageUrl": null,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 2,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765547996929_LatinHype_-_Duncan_Laurence_-_Arcade.mp3",
+      "fileName": "1765547996929_LatinHype_-_Duncan_Laurence_-_Arcade.mp3",
+      "displayTitle": "לב שבור ",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765547887659_Audio_2025_05_18_20_24_43.mp3",
+      "fileName": "1765547887659_Audio_2025_05_18_20_24_43.mp3",
+      "displayTitle": "יום חדש יפציע",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "isDefault": false
+    },
+    {
+      "id": "chanukah",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/audio%2F1765225647223_Ben_Zur___________________________.mp3?alt=media&token=3f6f5d11-9a9c-4a04-af8a-9d515e1ef532",
+      "fileName": "1765225647223_Ben_Zur___________________________.mp3",
+      "displayTitle": null,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/images%2F1765186345837_IMG_20240128_WA0012__1___1_.jpg?alt=media&token=d49553ea-a4f6-4281-8915-e211d6f277ff",
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "*אופקים",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765507522434_Ben_Zur______________-____________.mp3",
+      "fileName": "הבת של המלך!",
+      "displayTitle": null,
+      "imageUrl": null,
+      "isDefault": false
+    },
     {
       "id": "shabbat",
       "alertIndex": 2,
@@ -38,8 +88,18 @@
       "genre": "ashkenazi",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765507522434_Ben_Zur______________-____________.mp3",
       "fileName": "Ben Zur, יאיר אלייצו - הבת של המלך.mp3",
-      "displayTitle": "בדיקה",
+      "displayTitle": "הבת של המלך.",
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765507622936_Screenshot_20251212-174348.png",
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765507522434_Ben_Zur______________-____________.mp3",
+      "fileName": "Ben Zur, יאיר אלייצו - הבת של המלך.mp3",
+      "displayTitle": "חמול על מעשיך",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
       "isDefault": false
     },
     {
@@ -60,66 +120,6 @@
       "fileName": "אמת שיר שני.mp3",
       "displayTitle": null,
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/images%2F%D7%94_%D7%A1%D7%A4%D7%A8_%D7%A9%D7%A0%D7%9B%D7%AA%D7%91_%D7%91%D7%90%D7%99%D7%A8%D7%90%D7%9F_%D7%95%D7%99%D7%A6%D7%90_%D7%9C%D7%90%D7%95%D7%A8_%D7%A2__%D7%99_%D7%9E%D7%9B%D7%95%D7%9F_%D7%94%D7%93%D7%A8%D7%AA_%D7%A7%D7%95%D7%93%D7%A9.jpg?alt=media&token=4f65094d-7195-4f13-8f16-ac1021b5a7a1",
-      "isDefault": false
-    },
-    {
-      "id": "chanukah",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/audio%2F1765225647223_Ben_Zur___________________________.mp3?alt=media&token=3f6f5d11-9a9c-4a04-af8a-9d515e1ef532",
-      "fileName": "1765225647223_Ben_Zur___________________________.mp3",
-      "displayTitle": null,
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/images%2F1765186345837_IMG_20240128_WA0012__1___1_.jpg?alt=media&token=d49553ea-a4f6-4281-8915-e211d6f277ff",
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765507522434_Ben_Zur______________-____________.mp3",
-      "fileName": "Ben Zur, יאיר אלייצו - הבת של המלך.mp3",
-      "displayTitle": "הבת של המלך.",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765507622936_Screenshot_20251212-174348.png",
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765547887659_Audio_2025_05_18_20_24_43.mp3",
-      "fileName": "1765547887659_Audio_2025_05_18_20_24_43.mp3",
-      "displayTitle": "יום חדש יפציע",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 2,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765547996929_LatinHype_-_Duncan_Laurence_-_Arcade.mp3",
-      "fileName": "1765547996929_LatinHype_-_Duncan_Laurence_-_Arcade.mp3",
-      "displayTitle": "לב שבור ",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "ספרדי",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765746359314_03_____.mp3",
-      "fileName": "03 חמול.mp3",
-      "displayTitle": "יום חדש יעלה חמול",
-      "imageUrl": null,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "*אופקים",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765507522434_Ben_Zur______________-____________.mp3",
-      "fileName": "הבת של המלך!",
-      "displayTitle": null,
-      "imageUrl": null,
       "isDefault": false
     }
   ],
