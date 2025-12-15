@@ -1,65 +1,26 @@
 {
-  "version": 1765814925320,
-  "updatedAt": "2025-12-15T16:08:45.320Z",
+  "version": 1765817790698,
+  "updatedAt": "2025-12-15T16:56:30.698Z",
   "settings": {
-    "dataVersion": 1765814925321,
-    "hasPendingChanges": false,
-    "alertTitles": [
-      "הדלקת נרות | בעוד 20 דקות.",
-      "הדלקת נרות | בעוד 10 דקות",
-      "הדלקת נרות:"
-    ],
     "githubParams": {
-      "repo": "Makdimi-Shabbat-storage",
-      "username": "YM0527140225"
+      "username": "YM0527140225",
+      "repo": "Makdimi-Shabbat-storage"
     },
+    "lastPublished": "15.12.2025, 18:56:30",
     "genres": [
-      "ashkenazi"
+      "ashkenazi",
+      "*מודיעין עילית"
     ],
     "configVersion": 1765715807569,
-    "lastPublished": "15.12.2025, 18:08:45"
+    "hasPendingChanges": false,
+    "dataVersion": 1765817790698,
+    "alertTitles": [
+      "הדלקת נרות | בעוד 20 דקות",
+      "הדלקת נרות | בעוד 10 דקות",
+      "הדלקת נרות:"
+    ]
   },
   "songs": [
-    {
-      "id": "rosh_hashana",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": null,
-      "fileName": "קובץ",
-      "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "isDefault": false
-    },
-    {
-      "id": "chanukah",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/audio%2F1765225647223_Ben_Zur___________________________.mp3?alt=media&token=3f6f5d11-9a9c-4a04-af8a-9d515e1ef532",
-      "fileName": "1765225647223_Ben_Zur___________________________.mp3",
-      "displayTitle": null,
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/images%2F1765186345837_IMG_20240128_WA0012__1___1_.jpg?alt=media&token=d49553ea-a4f6-4281-8915-e211d6f277ff",
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765746359314_03_____.mp3",
-      "fileName": "03 חמול.mp3",
-      "displayTitle": "יום חדש יפציע",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "ספרדי",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765746359314_03_____.mp3",
-      "fileName": "03 חמול.mp3",
-      "displayTitle": "יום חדש יעלה חמול קמפה",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765507597132_brit-invitation-4K__1_.png",
-      "isDefault": false
-    },
     {
       "id": "shabbat",
       "alertIndex": 0,
@@ -68,6 +29,16 @@
       "fileName": "הבת של המלך!",
       "displayTitle": null,
       "imageUrl": null,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765746359314_03_____.mp3",
+      "fileName": "03 חמול.mp3",
+      "displayTitle": "חמול נפתלי קמפה",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
       "isDefault": false
     },
     {
@@ -83,10 +54,40 @@
     {
       "id": "shabbat",
       "alertIndex": 0,
+      "genre": "ספרדי",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765746359314_03_____.mp3",
+      "fileName": "03 חמול.mp3",
+      "displayTitle": "יום חדש יעלה חמול קמפה",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765507597132_brit-invitation-4K__1_.png",
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 1,
       "genre": "ashkenazi",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/1765746359314_03_____.mp3",
       "fileName": "03 חמול.mp3",
-      "displayTitle": "חמול נפתלי קמפה",
+      "displayTitle": "יום חדש יפציע",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "isDefault": false
+    },
+    {
+      "id": "chanukah",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/audio%2F1765225647223_Ben_Zur___________________________.mp3?alt=media&token=3f6f5d11-9a9c-4a04-af8a-9d515e1ef532",
+      "fileName": "1765225647223_Ben_Zur___________________________.mp3",
+      "displayTitle": null,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/images%2F1765186345837_IMG_20240128_WA0012__1___1_.jpg?alt=media&token=d49553ea-a4f6-4281-8915-e211d6f277ff",
+      "isDefault": false
+    },
+    {
+      "id": "rosh_hashana",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": null,
+      "fileName": "קובץ",
+      "displayTitle": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
       "isDefault": false
     }
