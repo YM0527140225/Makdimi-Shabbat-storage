@@ -1,660 +1,660 @@
 {
   "events": [
     {
-      "requiresAlert": true,
+      "name": "שבת פרשת וארא",
       "id": "shabbat",
       "isSecondDay": false,
-      "name": "שבת פרשת וארא",
-      "date": "2032-12-31",
-      "type": "SHABBAT"
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "date": "2032-12-31"
     },
     {
-      "isSecondDay": false,
+      "name": "שבת פרשת בא",
       "date": "2033-01-07",
       "type": "SHABBAT",
-      "id": "shabbat",
       "requiresAlert": true,
-      "name": "שבת פרשת בא"
+      "isSecondDay": false,
+      "id": "shabbat"
     },
     {
-      "name": "שבת פרשת בשלח",
       "isSecondDay": false,
-      "id": "shabbat",
+      "requiresAlert": true,
+      "name": "שבת פרשת בשלח",
       "type": "SHABBAT",
       "date": "2033-01-14",
-      "requiresAlert": true
+      "id": "shabbat"
     },
     {
+      "type": "SHABBAT",
+      "name": "שבת פרשת יתרו",
+      "isSecondDay": false,
       "requiresAlert": true,
       "id": "shabbat",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת יתרו",
       "date": "2033-01-21"
     },
     {
-      "id": "shabbat",
       "date": "2033-01-28",
-      "name": "שבת פרשת משפטים",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false
-    },
-    {
       "id": "shabbat",
-      "date": "2033-02-04",
-      "name": "שבת פרשת תרומה",
-      "requiresAlert": true,
       "isSecondDay": false,
+      "requiresAlert": true,
+      "name": "שבת פרשת משפטים",
       "type": "SHABBAT"
     },
     {
       "isSecondDay": false,
-      "requiresAlert": true,
+      "date": "2033-02-04",
+      "type": "SHABBAT",
+      "name": "שבת פרשת תרומה",
+      "id": "shabbat",
+      "requiresAlert": true
+    },
+    {
+      "isSecondDay": false,
+      "type": "SHABBAT",
       "date": "2033-02-11",
       "name": "שבת פרשת תצוה",
-      "id": "shabbat",
-      "type": "SHABBAT"
-    },
-    {
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "name": "Purim Katan",
-      "date": "2033-02-12",
-      "id": "Purim_Katan",
-      "type": "HOLIDAY"
+      "requiresAlert": true,
+      "id": "shabbat"
     },
     {
       "type": "HOLIDAY",
-      "id": "Shushan_Purim_Katan",
-      "name": "Shushan Purim Katan",
-      "isSecondDay": false,
-      "date": "2033-02-13",
-      "requiresAlert": false
+      "id": "Purim_Katan",
+      "requiresAlert": false,
+      "date": "2033-02-12",
+      "name": "Purim Katan",
+      "isSecondDay": false
     },
     {
-      "date": "2033-02-18",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "requiresAlert": true,
+      "requiresAlert": false,
+      "date": "2033-02-13",
+      "name": "Shushan Purim Katan",
+      "type": "HOLIDAY",
       "isSecondDay": false,
+      "id": "Shushan_Purim_Katan"
+    },
+    {
+      "id": "shabbat",
+      "date": "2033-02-18",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "type": "SHABBAT",
       "name": "שבת פרשת כי תשא"
     },
     {
-      "isSecondDay": false,
-      "id": "shabbat",
       "date": "2033-02-25",
       "requiresAlert": true,
+      "id": "shabbat",
+      "isSecondDay": false,
       "type": "SHABBAT",
       "name": "שבת פרשת ויקהל"
     },
     {
-      "date": "2033-03-04",
-      "id": "shabbat",
       "isSecondDay": false,
-      "requiresAlert": true,
+      "date": "2033-03-04",
+      "name": "שבת פרשת פקודי",
       "type": "SHABBAT",
-      "name": "שבת פרשת פקודי"
+      "requiresAlert": true,
+      "id": "shabbat"
     },
     {
-      "id": "shabbat",
-      "name": "שבת פרשת ויקרא",
-      "requiresAlert": true,
-      "type": "SHABBAT",
       "date": "2033-03-11",
-      "isSecondDay": false
+      "name": "שבת פרשת ויקרא",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "type": "SHABBAT"
     },
     {
-      "date": "2033-03-14",
+      "type": "HOLIDAY",
+      "id": "פורים",
+      "isSecondDay": false,
+      "requiresAlert": false,
       "name": "פורים",
+      "date": "2033-03-14"
+    },
+    {
+      "id": "שושן_פורים",
       "type": "HOLIDAY",
       "isSecondDay": false,
       "requiresAlert": false,
-      "id": "פורים"
+      "name": "שושן פורים",
+      "date": "2033-03-15"
+    },
+    {
+      "requiresAlert": true,
+      "name": "שבת פרשת צו",
+      "date": "2033-03-18",
+      "id": "shabbat",
+      "isSecondDay": false,
+      "type": "SHABBAT"
+    },
+    {
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "date": "2033-03-25",
+      "name": "שבת פרשת שמיני"
     },
     {
       "isSecondDay": false,
-      "requiresAlert": false,
-      "id": "שושן_פורים",
-      "date": "2033-03-15",
-      "name": "שושן פורים",
+      "date": "2033-04-01",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "name": "שבת פרשת תזריע",
+      "type": "SHABBAT"
+    },
+    {
+      "name": "שבת פרשת מצרע",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "id": "shabbat",
+      "date": "2033-04-08"
+    },
+    {
+      "isSecondDay": false,
+      "name": "חג הפסח (ליל הסדר)",
+      "id": "חג_הפסח_(ליל_הסדר)",
+      "requiresAlert": true,
+      "date": "2033-04-13",
       "type": "HOLIDAY"
     },
     {
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "id": "shabbat",
-      "name": "שבת פרשת צו",
-      "date": "2033-03-18"
-    },
-    {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "date": "2033-03-25",
-      "name": "שבת פרשת שמיני",
-      "id": "shabbat"
-    },
-    {
-      "name": "שבת פרשת תזריע",
-      "date": "2033-04-01",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "date": "2033-04-08",
-      "requiresAlert": true,
-      "name": "שבת פרשת מצרע",
-      "id": "shabbat"
-    },
-    {
-      "requiresAlert": true,
-      "name": "חג הפסח (ליל הסדר)",
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "id": "חג_הפסח_(ליל_הסדר)",
-      "date": "2033-04-13"
-    },
-    {
-      "type": "HOLIDAY",
-      "isSecondDay": false,
       "requiresAlert": false,
-      "date": "2033-04-14",
+      "id": "Pesach_II",
+      "type": "HOLIDAY",
       "name": "Pesach II",
-      "id": "Pesach_II"
+      "isSecondDay": false,
+      "date": "2033-04-14"
     },
     {
+      "id": "שבת_-_חול_המועד_פסח",
+      "requiresAlert": true,
       "date": "2033-04-15",
       "isSecondDay": false,
       "name": "שבת - חול המועד פסח",
-      "type": "HOLIDAY",
-      "requiresAlert": true,
-      "id": "שבת_-_חול_המועד_פסח"
-    },
-    {
-      "type": "HOLIDAY",
-      "requiresAlert": false,
-      "id": "חול_המועד_פסח",
-      "name": "חול המועד פסח",
-      "date": "2033-04-16",
-      "isSecondDay": false
-    },
-    {
-      "name": "חול המועד פסח",
-      "date": "2033-04-17",
-      "id": "חול_המועד_פסח",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "requiresAlert": false
-    },
-    {
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "name": "חול המועד פסח",
-      "date": "2033-04-18",
-      "id": "חול_המועד_פסח"
-    },
-    {
-      "name": "שביעי של פסח",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "date": "2033-04-19",
-      "id": "שביעי_של_פסח",
       "type": "HOLIDAY"
     },
     {
-      "isSecondDay": false,
-      "name": "שבת פרשת אחרי מות",
-      "date": "2033-04-22",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "requiresAlert": true
+      "date": "2033-04-16",
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "name": "חול המועד פסח",
+      "id": "חול_המועד_פסח",
+      "isSecondDay": false
     },
     {
-      "date": "2033-04-29",
+      "requiresAlert": false,
+      "date": "2033-04-17",
+      "isSecondDay": false,
+      "name": "חול המועד פסח",
+      "type": "HOLIDAY",
+      "id": "חול_המועד_פסח"
+    },
+    {
+      "date": "2033-04-18",
+      "name": "חול המועד פסח",
+      "requiresAlert": false,
+      "id": "חול_המועד_פסח",
+      "type": "HOLIDAY",
+      "isSecondDay": false
+    },
+    {
+      "isSecondDay": false,
+      "name": "שביעי של פסח",
+      "id": "שביעי_של_פסח",
+      "requiresAlert": true,
+      "date": "2033-04-19",
+      "type": "HOLIDAY"
+    },
+    {
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "name": "שבת פרשת אחרי מות",
+      "isSecondDay": false,
       "id": "shabbat",
+      "date": "2033-04-22"
+    },
+    {
+      "type": "SHABBAT",
       "isSecondDay": false,
       "requiresAlert": true,
       "name": "שבת פרשת קדשים",
-      "type": "SHABBAT"
-    },
-    {
-      "name": "שבת פרשת אמור",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "date": "2033-05-06"
-    },
-    {
-      "name": "שבת פרשת בהר",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "date": "2033-05-13",
-      "requiresAlert": true,
-      "isSecondDay": false
-    },
-    {
-      "requiresAlert": true,
-      "name": "שבת פרשת בחקתי",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "date": "2033-05-20",
-      "type": "SHABBAT"
-    },
-    {
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "date": "2033-05-27",
-      "name": "שבת פרשת במדבר"
-    },
-    {
-      "id": "חג_השבועות",
-      "name": "חג השבועות",
-      "type": "HOLIDAY",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "date": "2033-06-02"
-    },
-    {
-      "date": "2033-06-03",
-      "isSecondDay": true,
-      "requiresAlert": false,
-      "type": "SHABBAT",
-      "id": "שבת_-_Shavuot_II",
-      "name": "שבת - Shavuot II"
-    },
-    {
-      "date": "2033-06-10",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "name": "שבת פרשת נשא",
-      "requiresAlert": true,
-      "isSecondDay": false
-    },
-    {
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "name": "שבת פרשת בהעלתך",
-      "type": "SHABBAT",
-      "date": "2033-06-17"
-    },
-    {
-      "date": "2033-06-24",
-      "id": "shabbat",
-      "name": "שבת פרשת שלח־לך",
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "isSecondDay": false
-    },
-    {
-      "name": "שבת פרשת קורח",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "date": "2033-07-01"
-    },
-    {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "id": "shabbat",
-      "date": "2033-07-08",
-      "name": "שבת פרשת חוקת-בלק",
-      "type": "SHABBAT"
-    },
-    {
-      "isSecondDay": false,
-      "name": "שבת פרשת פינחס",
-      "requiresAlert": true,
-      "date": "2033-07-15",
-      "id": "shabbat",
-      "type": "SHABBAT"
-    },
-    {
-      "name": "שבת פרשת מטות-מסעי",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "date": "2033-07-22",
-      "isSecondDay": false,
-      "type": "SHABBAT"
-    },
-    {
-      "type": "SHABBAT",
-      "date": "2033-07-29",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "isSecondDay": false,
-      "name": "שבת פרשת דברים"
-    },
-    {
-      "id": "Tish’a_B’Av",
-      "type": "HOLIDAY",
-      "name": "Tish’a B’Av",
-      "isSecondDay": false,
-      "date": "2033-08-03",
-      "requiresAlert": false
-    },
-    {
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "date": "2033-08-05",
-      "isSecondDay": false,
-      "name": "שבת פרשת ואתחנן"
-    },
-    {
-      "id": "Tu_B’Av",
-      "type": "HOLIDAY",
-      "date": "2033-08-09",
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "name": "Tu B’Av"
-    },
-    {
-      "name": "שבת פרשת עקב",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "id": "shabbat",
-      "date": "2033-08-12",
-      "requiresAlert": true
-    },
-    {
-      "isSecondDay": false,
-      "date": "2033-08-19",
-      "name": "שבת פרשת ראה",
-      "requiresAlert": true,
-      "type": "SHABBAT",
+      "date": "2033-04-29",
       "id": "shabbat"
     },
     {
+      "isSecondDay": false,
       "id": "shabbat",
-      "name": "שבת פרשת שופטים",
-      "date": "2033-08-26",
+      "requiresAlert": true,
+      "date": "2033-05-06",
+      "type": "SHABBAT",
+      "name": "שבת פרשת אמור"
+    },
+    {
+      "date": "2033-05-13",
+      "name": "שבת פרשת בהר",
+      "id": "shabbat",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "type": "SHABBAT"
+    },
+    {
+      "date": "2033-05-20",
+      "isSecondDay": false,
+      "name": "שבת פרשת בחקתי",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "id": "shabbat"
+    },
+    {
+      "isSecondDay": false,
+      "name": "שבת פרשת במדבר",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "date": "2033-05-27"
+    },
+    {
+      "name": "חג השבועות",
+      "type": "HOLIDAY",
+      "date": "2033-06-02",
+      "id": "חג_השבועות",
+      "isSecondDay": false,
+      "requiresAlert": true
+    },
+    {
+      "isSecondDay": true,
+      "id": "שבת_-_Shavuot_II",
+      "type": "SHABBAT",
+      "requiresAlert": false,
+      "name": "שבת - Shavuot II",
+      "date": "2033-06-03"
+    },
+    {
+      "requiresAlert": true,
       "isSecondDay": false,
       "type": "SHABBAT",
+      "id": "shabbat",
+      "date": "2033-06-10",
+      "name": "שבת פרשת נשא"
+    },
+    {
+      "isSecondDay": false,
+      "id": "shabbat",
+      "date": "2033-06-17",
+      "type": "SHABBAT",
+      "name": "שבת פרשת בהעלתך",
       "requiresAlert": true
+    },
+    {
+      "id": "shabbat",
+      "date": "2033-06-24",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת שלח־לך",
+      "type": "SHABBAT"
+    },
+    {
+      "name": "שבת פרשת קורח",
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "date": "2033-07-01"
+    },
+    {
+      "date": "2033-07-08",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "name": "שבת פרשת חוקת-בלק",
+      "id": "shabbat"
+    },
+    {
+      "name": "שבת פרשת פינחס",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "id": "shabbat",
+      "date": "2033-07-15"
+    },
+    {
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "id": "shabbat",
+      "date": "2033-07-22",
+      "requiresAlert": true,
+      "name": "שבת פרשת מטות-מסעי"
+    },
+    {
+      "requiresAlert": true,
+      "date": "2033-07-29",
+      "isSecondDay": false,
+      "name": "שבת פרשת דברים",
+      "id": "shabbat",
+      "type": "SHABBAT"
+    },
+    {
+      "type": "HOLIDAY",
+      "id": "Tish’a_B’Av",
+      "requiresAlert": false,
+      "date": "2033-08-03",
+      "name": "Tish’a B’Av",
+      "isSecondDay": false
+    },
+    {
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "name": "שבת פרשת ואתחנן",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "date": "2033-08-05"
+    },
+    {
+      "isSecondDay": false,
+      "date": "2033-08-09",
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "id": "Tu_B’Av",
+      "name": "Tu B’Av"
+    },
+    {
+      "date": "2033-08-12",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "name": "שבת פרשת עקב"
+    },
+    {
+      "name": "שבת פרשת ראה",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "id": "shabbat",
+      "date": "2033-08-19"
+    },
+    {
+      "id": "shabbat",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "date": "2033-08-26",
+      "name": "שבת פרשת שופטים"
     },
     {
       "id": "shabbat",
       "name": "שבת פרשת כי־תצא",
-      "type": "SHABBAT",
+      "requiresAlert": true,
       "isSecondDay": false,
-      "date": "2033-09-02",
-      "requiresAlert": true
+      "type": "SHABBAT",
+      "date": "2033-09-02"
     },
     {
       "requiresAlert": true,
-      "date": "2033-09-09",
-      "id": "shabbat",
-      "type": "SHABBAT",
       "isSecondDay": false,
+      "date": "2033-09-09",
+      "type": "SHABBAT",
+      "id": "shabbat",
       "name": "שבת פרשת כי־תבוא"
     },
     {
-      "id": "shabbat",
-      "name": "שבת פרשת נצבים-וילך",
-      "type": "SHABBAT",
-      "requiresAlert": true,
       "date": "2033-09-16",
-      "isSecondDay": false
+      "type": "SHABBAT",
+      "name": "שבת פרשת נצבים-וילך",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "id": "shabbat"
     },
     {
-      "date": "2033-09-23",
-      "id": "שבת_-_ראש_השנה",
       "requiresAlert": true,
-      "name": "שבת - ראש השנה",
       "type": "HOLIDAY",
-      "isSecondDay": false
+      "name": "שבת - ראש השנה",
+      "isSecondDay": false,
+      "id": "שבת_-_ראש_השנה",
+      "date": "2033-09-23"
     },
     {
       "id": "ראש_השנה_(יום_ב')",
-      "date": "2033-09-24",
       "name": "ראש השנה (יום ב')",
-      "type": "HOLIDAY",
       "requiresAlert": false,
+      "date": "2033-09-24",
+      "type": "HOLIDAY",
       "isSecondDay": true
     },
     {
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true,
       "name": "שבת פרשת האזינו",
-      "date": "2033-09-30"
+      "isSecondDay": false,
+      "date": "2033-09-30",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "type": "SHABBAT"
     },
     {
       "type": "HOLIDAY",
-      "isSecondDay": false,
-      "id": "יום_הכיפורים",
-      "name": "יום הכיפורים",
+      "requiresAlert": true,
       "date": "2033-10-02",
-      "requiresAlert": true
+      "isSecondDay": false,
+      "name": "יום הכיפורים",
+      "id": "יום_הכיפורים"
     },
     {
       "date": "2033-10-07",
+      "requiresAlert": true,
       "type": "HOLIDAY",
       "isSecondDay": false,
-      "name": "שבת - חג הסוכות",
       "id": "שבת_-_חג_הסוכות",
-      "requiresAlert": true
+      "name": "שבת - חג הסוכות"
     },
     {
       "requiresAlert": false,
+      "id": "Sukkot_II",
+      "isSecondDay": false,
+      "type": "HOLIDAY",
       "date": "2033-10-08",
-      "type": "HOLIDAY",
-      "name": "Sukkot II",
-      "isSecondDay": false,
-      "id": "Sukkot_II"
+      "name": "Sukkot II"
     },
     {
-      "name": "חול המועד סוכות",
       "date": "2033-10-09",
-      "isSecondDay": false,
-      "id": "חול_המועד_סוכות",
       "type": "HOLIDAY",
-      "requiresAlert": false
+      "isSecondDay": false,
+      "name": "חול המועד סוכות",
+      "requiresAlert": false,
+      "id": "חול_המועד_סוכות"
     },
     {
       "isSecondDay": false,
-      "type": "HOLIDAY",
-      "requiresAlert": false,
-      "name": "חול המועד סוכות",
       "id": "חול_המועד_סוכות",
+      "name": "חול המועד סוכות",
+      "requiresAlert": false,
+      "type": "HOLIDAY",
       "date": "2033-10-10"
     },
     {
-      "type": "HOLIDAY",
-      "isSecondDay": false,
       "date": "2033-10-11",
-      "requiresAlert": false,
       "name": "חול המועד סוכות",
-      "id": "חול_המועד_סוכות"
+      "requiresAlert": false,
+      "isSecondDay": false,
+      "id": "חול_המועד_סוכות",
+      "type": "HOLIDAY"
     },
     {
       "date": "2033-10-12",
       "isSecondDay": false,
-      "name": "חול המועד סוכות",
+      "requiresAlert": false,
       "id": "חול_המועד_סוכות",
       "type": "HOLIDAY",
-      "requiresAlert": false
+      "name": "חול המועד סוכות"
     },
     {
-      "date": "2033-10-13",
       "type": "HOLIDAY",
       "name": "Sukkot VII (Hoshana Raba)",
-      "id": "Sukkot_VII_(Hoshana_Raba)",
+      "date": "2033-10-13",
+      "isSecondDay": false,
       "requiresAlert": false,
-      "isSecondDay": false
+      "id": "Sukkot_VII_(Hoshana_Raba)"
     },
     {
+      "name": "שבת - שמיני עצרת - שמחת תורה",
       "id": "שבת_-_שמיני_עצרת_-_שמחת_תורה",
       "isSecondDay": false,
-      "name": "שבת - שמיני עצרת - שמחת תורה",
       "date": "2033-10-14",
+      "requiresAlert": true,
+      "type": "HOLIDAY"
+    },
+    {
+      "requiresAlert": false,
+      "id": "שמחת_תורה",
+      "isSecondDay": true,
+      "date": "2033-10-15",
       "type": "HOLIDAY",
+      "name": "שמחת תורה"
+    },
+    {
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת בראשית",
+      "date": "2033-10-21"
+    },
+    {
+      "date": "2033-10-28",
+      "name": "שבת פרשת נח",
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "isSecondDay": false,
       "requiresAlert": true
     },
     {
-      "isSecondDay": true,
-      "name": "שמחת תורה",
-      "type": "HOLIDAY",
-      "requiresAlert": false,
-      "id": "שמחת_תורה",
-      "date": "2033-10-15"
-    },
-    {
-      "name": "שבת פרשת בראשית",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "date": "2033-10-21",
       "id": "shabbat",
-      "isSecondDay": false
-    },
-    {
-      "requiresAlert": true,
-      "name": "שבת פרשת נח",
-      "date": "2033-10-28",
+      "name": "שבת פרשת לך־לך",
+      "date": "2033-11-04",
       "isSecondDay": false,
       "type": "SHABBAT",
+      "requiresAlert": true
+    },
+    {
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "name": "שבת פרשת וירא",
+      "date": "2033-11-11",
       "id": "shabbat"
     },
     {
-      "name": "שבת פרשת לך־לך",
-      "type": "SHABBAT",
+      "date": "2033-11-18",
+      "isSecondDay": false,
       "requiresAlert": true,
-      "date": "2033-11-04",
+      "type": "SHABBAT",
       "id": "shabbat",
+      "name": "שבת פרשת חיי שרה"
+    },
+    {
+      "requiresAlert": true,
+      "id": "shabbat",
+      "date": "2033-11-25",
+      "type": "SHABBAT",
+      "name": "שבת פרשת תולדות",
       "isSecondDay": false
     },
     {
-      "date": "2033-11-11",
-      "name": "שבת פרשת וירא",
-      "id": "shabbat",
-      "isSecondDay": false,
       "requiresAlert": true,
-      "type": "SHABBAT"
-    },
-    {
-      "name": "שבת פרשת חיי שרה",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "date": "2033-11-18"
-    },
-    {
-      "id": "shabbat",
-      "date": "2033-11-25",
-      "name": "שבת פרשת תולדות",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "type": "SHABBAT"
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
       "date": "2033-12-02",
+      "id": "shabbat",
       "isSecondDay": false,
       "type": "SHABBAT",
       "name": "שבת פרשת ויצא"
     },
     {
       "date": "2033-12-09",
-      "id": "shabbat",
       "type": "SHABBAT",
-      "isSecondDay": false,
       "requiresAlert": true,
+      "id": "shabbat",
+      "isSecondDay": false,
       "name": "שבת פרשת וישלח"
     },
     {
-      "id": "חנוכה_(נר_ראשון)",
-      "isSecondDay": false,
       "requiresAlert": false,
+      "isSecondDay": false,
       "type": "HOLIDAY",
       "name": "חנוכה (נר ראשון)",
-      "date": "2033-12-15"
+      "date": "2033-12-15",
+      "id": "חנוכה_(נר_ראשון)"
     },
     {
-      "date": "2033-12-16",
+      "name": "שבת פרשת וישב",
+      "id": "shabbat",
       "requiresAlert": true,
       "type": "SHABBAT",
-      "name": "שבת פרשת וישב",
-      "isSecondDay": false,
-      "id": "shabbat"
-    },
-    {
-      "name": "חנוכה",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "requiresAlert": false,
-      "id": "חנוכה",
-      "date": "2033-12-17"
-    },
-    {
-      "id": "חנוכה",
-      "name": "חנוכה",
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "date": "2033-12-18",
-      "type": "HOLIDAY"
-    },
-    {
-      "date": "2033-12-19",
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "name": "חנוכה",
-      "id": "חנוכה",
-      "requiresAlert": false
-    },
-    {
-      "isSecondDay": false,
-      "id": "חנוכה",
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "date": "2033-12-20",
-      "name": "חנוכה"
-    },
-    {
-      "requiresAlert": false,
-      "id": "חנוכה",
-      "name": "חנוכה",
-      "type": "HOLIDAY",
-      "date": "2033-12-21",
+      "date": "2033-12-16",
       "isSecondDay": false
     },
     {
-      "date": "2033-12-22",
+      "date": "2033-12-17",
       "type": "HOLIDAY",
+      "id": "חנוכה",
+      "requiresAlert": false,
+      "name": "חנוכה",
+      "isSecondDay": false
+    },
+    {
+      "name": "חנוכה",
+      "type": "HOLIDAY",
+      "id": "חנוכה",
       "requiresAlert": false,
       "isSecondDay": false,
+      "date": "2033-12-18"
+    },
+    {
       "name": "חנוכה",
-      "id": "חנוכה"
-    },
-    {
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "name": "שבת פרשת מקץ",
-      "date": "2033-12-23",
+      "requiresAlert": false,
+      "id": "חנוכה",
       "isSecondDay": false,
-      "id": "shabbat"
+      "type": "HOLIDAY",
+      "date": "2033-12-19"
     },
     {
+      "name": "חנוכה",
+      "requiresAlert": false,
+      "isSecondDay": false,
+      "id": "חנוכה",
+      "date": "2033-12-20",
+      "type": "HOLIDAY"
+    },
+    {
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "name": "חנוכה",
+      "id": "חנוכה",
+      "date": "2033-12-21"
+    },
+    {
+      "id": "חנוכה",
+      "isSecondDay": false,
+      "name": "חנוכה",
+      "date": "2033-12-22",
+      "requiresAlert": false,
+      "type": "HOLIDAY"
+    },
+    {
+      "date": "2033-12-23",
+      "name": "שבת פרשת מקץ",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false
+    },
+    {
+      "name": "שבת פרשת ויגש",
+      "requiresAlert": true,
       "id": "shabbat",
       "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "name": "שבת פרשת ויגש",
-      "date": "2033-12-30"
+      "date": "2033-12-30",
+      "isSecondDay": false
     }
   ],
   "year": 2033,
