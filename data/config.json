@@ -1,15 +1,8 @@
 {
-  "version": 1766012759730,
-  "updatedAt": "2025-12-17T23:05:59.730Z",
+  "version": 1766016410604,
+  "updatedAt": "2025-12-18T00:06:50.604Z",
   "settings": {
-    "dataVersion": 1766012759730,
     "hasPendingChanges": false,
-    "alertTitles": [
-      "הדלקת נרות | בעוד 20 דקות",
-      "הדלקת נרות | בעוד 10 דקות",
-      "הדלקת נרות:"
-    ],
-    "lastPublished": "18.12.2025, 1:05:59",
     "genres": [
       "ashkenazi",
       "*מודיעין עילית"
@@ -18,9 +11,26 @@
       "username": "YM0527140225",
       "repo": "Makdimi-Shabbat-storage"
     },
-    "configVersion": 1765715807569
+    "alertTitles": [
+      "הדלקת נרות | בעוד 20 דקות",
+      "הדלקת נרות | בעוד 10 דקות",
+      "הדלקת נרות:"
+    ],
+    "configVersion": 1765715807569,
+    "lastPublished": "18.12.2025, 2:06:50",
+    "dataVersion": 1766016410604
   },
   "songs": [
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766001511039_g731t9.mp3",
+      "fileName": "אמת שיר שני יו''כ .mp3",
+      "displayTitle": "כי אתה יודע יצרם חדש",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "isDefault": false
+    },
     {
       "id": "chanukah",
       "alertIndex": 0,
@@ -37,16 +47,6 @@
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766001563711_0ddwh.wav",
       "fileName": "050.wav",
       "displayTitle": "מודיעין עילית חדש",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766001511039_g731t9.mp3",
-      "fileName": "אמת שיר שני יו''כ .mp3",
-      "displayTitle": "כי אתה יודע יצרם חדש",
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
       "isDefault": false
     }
