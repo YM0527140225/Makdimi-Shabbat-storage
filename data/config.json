@@ -1,42 +1,31 @@
 {
-  "version": 1766481689877,
-  "updatedAt": "2025-12-23T09:21:29.877Z",
+  "version": 1766493810261,
+  "updatedAt": "2025-12-23T12:43:30.261Z",
   "settings": {
-    "genres": [
-      "ashkenazi"
-    ],
-    "configVersion": 1765715807569,
-    "lastPublished": "23.12.2025, 11:21:29",
     "githubParams": {
-      "username": "YM0527140225",
-      "repo": "Makdimi-Shabbat-storage"
+      "repo": "Makdimi-Shabbat-storage",
+      "username": "YM0527140225"
     },
-    "dataVersion": 1766481689877,
-    "alertTiming": [
-      "END",
-      "END",
-      "END"
-    ],
     "alertTitles": [
       "הדלקת נרות | בעוד 20 דקות",
       "הדלקת נרות | בעוד 10 דקות",
       "הדלקת נרות:"
     ],
+    "alertTiming": [
+      "END",
+      "END",
+      "END"
+    ],
+    "dataVersion": 1766493810261,
+    "genres": [
+      "ashkenazi"
+    ],
+    "hasPendingChanges": false,
     "disableAudioBackup": false,
-    "hasPendingChanges": false
+    "lastPublished": "23.12.2025, 14:43:30",
+    "configVersion": 1765715807569
   },
   "songs": [
-    {
-      "id": "shabbat",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149844203_ctp60e.mp3",
-      "fileName": "הכרזה עם ניגון ספרדי שבת.mp3",
-      "displayTitle": "כי אשמרה שבת",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "duration": 54.545782,
-      "isDefault": false
-    },
     {
       "id": "chanukah",
       "alertIndex": 0,
@@ -68,6 +57,17 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
       "duration": 210.599977,
       "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149844203_ctp60e.mp3",
+      "fileName": "הכרזה עם ניגון ספרדי שבת.mp3",
+      "displayTitle": "כי אשמרה שבת",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "duration": 54.545782,
+      "isDefault": false
     }
   ],
   "dashboardText": "<div style=\"text-align: center;\"><font color=\"#008000\">לבדוק שהכל תקין בסתם שבת</font>, בחג, בשבת חול המועד, <font color=\"#008000\">שלא מפעיל התראה ביומיים רצופים</font>, <font color=\"#008000\">לבדוק שהוא מתעדכן וטוען שנה קדימה </font>תמיד, וכן תמיד מדליק את ההתראה לפי מה שהוגדר לו כגון חג או ספציפי לתאריך הזה <font color=\"#ff0000\">ולוודאות גם שהוא מסיים את הניגון השיר בזמן ההתראה</font>,</div><div style=\"text-align: center;\">ולבדוק גם זאנרים.</div><div style=\"text-align: center;\">צריך גם לבדוק את כל האפשריות שהמערכת עובדת תקין.</div><div style=\"text-align: center;\"><font color=\"#1e3a8a\" size=\"5\"><b style=\"\">המערכת כעת תקינה ומוכנה לגמרי, רק חסר את קבצי הערים שלך ולהגדיר הכל.</b></font></div><div style=\"text-align: center;\"><font color=\"#008000\"><b>עדיין לא עדכנתי כלום אני יעדכן בקרוב, את כרמיאל שכחתי כי זה שמור לי בקובץ אחר </b></font></div><div style=\"text-align: center;\"><div style=\"text-align: center;\"><b style=\"\">\n</b></div></div>",
@@ -77,16 +77,84 @@
       "name": "אופקים"
     },
     {
+      "id": "אלעד",
+      "name": "אלעד"
+    },
+    {
+      "id": "אשדוד",
+      "name": "אשדוד"
+    },
+    {
+      "id": "בארשבע",
+      "name": "בארשבע"
+    },
+    {
+      "id": "ביתרעילית",
+      "name": "ביתרעילית"
+    },
+    {
+      "id": "ביתשאן",
+      "name": "ביתשאן"
+    },
+    {
+      "id": "ביתשמש",
+      "name": "ביתשמש"
+    },
+    {
+      "id": "בניברק",
+      "name": "בניברק"
+    },
+    {
+      "id": "גבעתזאב",
+      "name": "גבעתזאב"
+    },
+    {
+      "id": "זכרוןיעקב",
+      "name": "זכרוןיעקב"
+    },
+    {
+      "id": "חדרה",
+      "name": "חדרה"
+    },
+    {
+      "id": "חיפה",
+      "name": "חיפה"
+    },
+    {
+      "id": "חצורהגלילית",
+      "name": "חצורהגלילית"
+    },
+    {
+      "id": "טבריה",
+      "name": "טבריה"
+    },
+    {
       "id": "טלזסטון",
       "name": "טלזסטון"
+    },
+    {
+      "id": "ירוחם",
+      "name": "ירוחם"
     },
     {
       "id": "ירושלים",
       "name": "ירושלים"
     },
     {
+      "id": "כרמיאל \"50 40 30\"",
+      "name": "כרמיאל \"50 40 30\""
+    },
+    {
+      "id": "לודואחיסמך",
+      "name": "לודואחיסמך"
+    },
+    {
       "id": "מודיעיןעילית",
       "name": "מודיעיןעילית"
+    },
+    {
+      "id": "מיצד",
+      "name": "מיצד"
     },
     {
       "id": "מירון",
