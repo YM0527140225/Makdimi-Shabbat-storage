@@ -1,31 +1,53 @@
 {
-  "version": 1766493810261,
-  "updatedAt": "2025-12-23T12:43:30.261Z",
+  "version": 1766495696052,
+  "updatedAt": "2025-12-23T13:14:56.052Z",
   "settings": {
-    "githubParams": {
-      "repo": "Makdimi-Shabbat-storage",
-      "username": "YM0527140225"
-    },
-    "alertTitles": [
-      "הדלקת נרות | בעוד 20 דקות",
-      "הדלקת נרות | בעוד 10 דקות",
-      "הדלקת נרות:"
-    ],
     "alertTiming": [
       "END",
       "END",
       "END"
     ],
-    "dataVersion": 1766493810261,
+    "lastPublished": "23.12.2025, 15:14:56",
+    "dataVersion": 1766495696052,
+    "configVersion": 1765715807569,
+    "disableAudioBackup": false,
+    "alertTitles": [
+      "הדלקת נרות | בעוד 20 דקות",
+      "הדלקת נרות | בעוד 10 דקות",
+      "הדלקת נרות:"
+    ],
+    "hasPendingChanges": false,
     "genres": [
       "ashkenazi"
     ],
-    "hasPendingChanges": false,
-    "disableAudioBackup": false,
-    "lastPublished": "23.12.2025, 14:43:30",
-    "configVersion": 1765715807569
+    "githubParams": {
+      "username": "YM0527140225",
+      "repo": "Makdimi-Shabbat-storage"
+    }
   },
   "songs": [
+    {
+      "id": "shabbat",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149844203_ctp60e.mp3",
+      "fileName": "הכרזה עם ניגון ספרדי שבת.mp3",
+      "displayTitle": "כי אשמרה שבת",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "duration": 54.545782,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149627671_fi0fze.mp3",
+      "fileName": "באה שבת מערכת חדשה.mp3",
+      "displayTitle": "באה שבת - שוואקי",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "duration": 210.599977,
+      "isDefault": false
+    },
     {
       "id": "chanukah",
       "alertIndex": 0,
@@ -45,28 +67,6 @@
       "displayTitle": "לכה דודי - קמפה",
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
       "duration": 278.277415,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149627671_fi0fze.mp3",
-      "fileName": "באה שבת מערכת חדשה.mp3",
-      "displayTitle": "באה שבת - שוואקי",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "duration": 210.599977,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149844203_ctp60e.mp3",
-      "fileName": "הכרזה עם ניגון ספרדי שבת.mp3",
-      "displayTitle": "כי אשמרה שבת",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "duration": 54.545782,
       "isDefault": false
     }
   ],
@@ -141,8 +141,8 @@
       "name": "ירושלים"
     },
     {
-      "id": "כרמיאל \"50 40 30\"",
-      "name": "כרמיאל \"50 40 30\""
+      "id": "כרמיאל",
+      "name": "כרמיאל"
     },
     {
       "id": "לודואחיסמך",
