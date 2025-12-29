@@ -1,31 +1,41 @@
 {
-  "version": 1766696242346,
-  "updatedAt": "2025-12-25T20:57:22.346Z",
+  "version": 1767030491029,
+  "updatedAt": "2025-12-29T17:48:11.029Z",
   "settings": {
-    "hasPendingChanges": false,
     "disableAudioBackup": false,
-    "lastPublished": "25.12.2025, 22:57:22",
-    "configVersion": 1765715807569,
-    "dataVersion": 1766696242347,
-    "alertTiming": [
-      "END",
-      "END",
-      "END"
+    "genres": [
+      "ashkenazi"
     ],
+    "githubParams": {
+      "username": "YM0527140225",
+      "repo": "Makdimi-Shabbat-storage"
+    },
+    "dataVersion": 1767030491029,
+    "hasPendingChanges": false,
     "alertTitles": [
       "הדלקת נרות | בעוד 20 דקות",
       "הדלקת נרות | בעוד 10 דקות",
       "הדלקת נרות:"
     ],
-    "githubParams": {
-      "repo": "Makdimi-Shabbat-storage",
-      "username": "YM0527140225"
-    },
-    "genres": [
-      "ashkenazi"
-    ]
+    "lastPublished": "29.12.2025, 19:48:11",
+    "alertTiming": [
+      "END",
+      "END",
+      "END"
+    ],
+    "configVersion": 1765715807569
   },
   "songs": [
+    {
+      "id": "chanukah",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/audio%2F1765225647223_Ben_Zur___________________________.mp3?alt=media&token=3f6f5d11-9a9c-4a04-af8a-9d515e1ef532",
+      "fileName": "1765225647223_Ben_Zur___________________________.mp3",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/images%2F1765186345837_IMG_20240128_WA0012__1___1_.jpg?alt=media&token=d49553ea-a4f6-4281-8915-e211d6f277ff",
+      "duration": 0,
+      "isDefault": false
+    },
     {
       "id": "shabbat",
       "alertIndex": 2,
@@ -35,6 +45,17 @@
       "displayTitle": "לכה דודי - קמפה",
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
       "duration": 278.277415,
+      "isDefault": false
+    },
+    {
+      "id": "yom_kippur",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149544734_j4dysi.mp3",
+      "fileName": "בראש השנה.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 254.15,
       "isDefault": false
     },
     {
@@ -49,14 +70,36 @@
       "isDefault": false
     },
     {
-      "id": "yom_kippur",
+      "id": "shabbat",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149844203_ctp60e.mp3",
+      "fileName": "הכרזה עם ניגון ספרדי שבת.mp3",
+      "displayTitle": "כי אשמרה שבת",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "duration": 54.545782,
+      "isDefault": false
+    },
+    {
+      "id": "rosh_hashana",
       "alertIndex": 0,
       "genre": "ashkenazi",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149544734_j4dysi.mp3",
       "fileName": "בראש השנה.mp3",
       "displayTitle": null,
-      "imageUrl": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
       "duration": 254.15,
+      "isDefault": false
+    },
+    {
+      "id": "rosh_hashana",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
+      "fileName": "הכרזה ספרדי ימים נוראים.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 49.486893,
       "isDefault": false
     },
     {
@@ -91,49 +134,6 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
       "duration": 210.599977,
       "isDefault": false
-    },
-    {
-      "id": "rosh_hashana",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
-      "fileName": "הכרזה ספרדי ימים נוראים.mp3",
-      "displayTitle": null,
-      "imageUrl": null,
-      "duration": 49.486893,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149844203_ctp60e.mp3",
-      "fileName": "הכרזה עם ניגון ספרדי שבת.mp3",
-      "displayTitle": "כי אשמרה שבת",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "duration": 54.545782,
-      "isDefault": false
-    },
-    {
-      "id": "chanukah",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/audio%2F1765225647223_Ben_Zur___________________________.mp3?alt=media&token=3f6f5d11-9a9c-4a04-af8a-9d515e1ef532",
-      "fileName": "1765225647223_Ben_Zur___________________________.mp3",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/images%2F1765186345837_IMG_20240128_WA0012__1___1_.jpg?alt=media&token=d49553ea-a4f6-4281-8915-e211d6f277ff",
-      "duration": 0,
-      "isDefault": false
-    },
-    {
-      "id": "rosh_hashana",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149544734_j4dysi.mp3",
-      "fileName": "בראש השנה.mp3",
-      "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "duration": 254.15,
-      "isDefault": false
     }
   ],
   "dashboardText": "<div style=\"text-align: center;\"><font color=\"#008000\">לבדוק שהכל תקין בסתם שבת</font>, בחג, בשבת חול המועד, <font color=\"#008000\">שלא מפעיל התראה ביומיים רצופים</font>, <font color=\"#008000\">לבדוק שהוא מתעדכן וטוען שנה קדימה </font>תמיד, וכן תמיד מדליק את ההתראה לפי מה שהוגדר לו כגון חג או ספציפי לתאריך הזה <font color=\"#ff0000\">ולוודאות גם שהוא מסיים את הניגון השיר בזמן ההתראה</font>,</div><div style=\"text-align: center;\">ולבדוק גם זאנרים.</div><div style=\"text-align: center;\">צריך גם לבדוק את כל האפשריות שהמערכת עובדת תקין.</div><div style=\"text-align: center;\"><font color=\"#1e3a8a\" size=\"5\"><b style=\"\">המערכת כעת תקינה ומוכנה לגמרי, רק חסר את קבצי הערים שלך ולהגדיר הכל.</b></font></div><div style=\"text-align: center;\"><font color=\"#008000\"><b>עדיין לא עדכנתי כלום אני יעדכן בקרוב, את כרמיאל שכחתי כי זה שמור לי בקובץ אחר </b></font></div><div style=\"text-align: center;\"><div style=\"text-align: center;\"><font size=\"5\" color=\"#ff0000\"><b>הוא לא מצליח לטעון שיר של חג</b></font></div></div>",
@@ -152,31 +152,31 @@
     },
     {
       "id": "בארשבע",
-      "name": "בארשבע"
+      "name": "באר_שבע"
     },
     {
       "id": "ביתרעילית",
-      "name": "ביתרעילית"
+      "name": "ביתר_עילית"
     },
     {
       "id": "ביתשאן",
-      "name": "ביתשאן"
+      "name": "בית_שאן"
     },
     {
       "id": "ביתשמש",
-      "name": "ביתשמש"
+      "name": "בית_שמש"
     },
     {
       "id": "בניברק",
-      "name": "בניברק"
+      "name": "בני_ברק"
     },
     {
       "id": "גבעתזאב",
-      "name": "גבעתזאב"
+      "name": "גבעת_זאב"
     },
     {
       "id": "זכרוןיעקב",
-      "name": "זכרוןיעקב"
+      "name": "זכרון_יעקב"
     },
     {
       "id": "חדרה",
@@ -188,7 +188,7 @@
     },
     {
       "id": "חצורהגלילית",
-      "name": "חצורהגלילית"
+      "name": "חצור_הגלילית"
     },
     {
       "id": "טבריה",
@@ -212,11 +212,11 @@
     },
     {
       "id": "לודואחיסמך",
-      "name": "לודואחיסמך"
+      "name": "לוד_ואחיסמך"
     },
     {
       "id": "מודיעיןעילית",
-      "name": "מודיעיןעילית"
+      "name": "מודיעין_עילית"
     },
     {
       "id": "מיצד",
@@ -228,15 +228,15 @@
     },
     {
       "id": "מעלהאדומים",
-      "name": "מעלהאדומים"
+      "name": "מעלה_אדומים"
     },
     {
       "id": "מעלהעמוס",
-      "name": "מעלהעמוס"
+      "name": "מעלה_עמוס"
     },
     {
       "id": "נוףהגליל",
-      "name": "נוףהגליל"
+      "name": "נוף_הגליל"
     },
     {
       "id": "נתיבות",
@@ -256,7 +256,7 @@
     },
     {
       "id": "פתחתקווה",
-      "name": "פתחתקווה"
+      "name": "פתח_תקווה"
     },
     {
       "id": "צפת",
@@ -264,15 +264,15 @@
     },
     {
       "id": "קרייתאתא",
-      "name": "קרייתאתא"
+      "name": "קריית_אתא"
     },
     {
       "id": "קריתגת",
-      "name": "קריתגת"
+      "name": "קרית_גת"
     },
     {
       "id": "ראשוןלציון",
-      "name": "ראשוןלציון"
+      "name": "ראשון_לציון"
     },
     {
       "id": "רחובות",
@@ -284,11 +284,11 @@
     },
     {
       "id": "תלאביב",
-      "name": "תלאביב"
+      "name": "תל_אביב"
     },
     {
       "id": "תלציון",
-      "name": "תלציון"
+      "name": "תל_ציון"
     }
   ]
 }
