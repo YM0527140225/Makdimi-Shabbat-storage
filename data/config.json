@@ -1,42 +1,31 @@
 {
-  "version": 1767462847591,
-  "updatedAt": "2026-01-03T17:54:07.591Z",
+  "version": 1767523485460,
+  "updatedAt": "2026-01-04T10:44:45.460Z",
   "settings": {
     "hasPendingChanges": false,
     "configVersion": 1765715807569,
-    "genres": [
-      "ashkenazi"
+    "alertTitles": [
+      "הדלקת נרות | בעוד 20 דקות",
+      "הדלקת נרות | בעוד 10 דקות",
+      "הדלקת נרות:"
     ],
     "alertTiming": [
       "END",
       "END",
       "END"
     ],
-    "alertTitles": [
-      "הדלקת נרות | בעוד 20 דקות",
-      "הדלקת נרות | בעוד 10 דקות",
-      "הדלקת נרות:"
-    ],
-    "disableAudioBackup": false,
-    "dataVersion": 1767462847593,
+    "lastPublished": "4.1.2026, 12:44:45",
     "githubParams": {
-      "username": "YM0527140225",
-      "repo": "Makdimi-Shabbat-storage"
+      "repo": "Makdimi-Shabbat-storage",
+      "username": "YM0527140225"
     },
-    "lastPublished": "3.1.2026, 19:54:07"
+    "genres": [
+      "ashkenazi"
+    ],
+    "dataVersion": 1767523485461,
+    "disableAudioBackup": false
   },
   "songs": [
-    {
-      "id": "yom_kippur",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149544734_j4dysi.mp3",
-      "fileName": "בראש השנה.mp3",
-      "displayTitle": null,
-      "imageUrl": null,
-      "duration": 254.15,
-      "isDefault": false
-    },
     {
       "id": "shabbat",
       "alertIndex": 1,
@@ -50,28 +39,6 @@
     },
     {
       "id": "rosh_hashana",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149544734_j4dysi.mp3",
-      "fileName": "בראש השנה.mp3",
-      "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "duration": 254.15,
-      "isDefault": false
-    },
-    {
-      "id": "rosh_hashana",
-      "alertIndex": 2,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766150000814_p33hx.mp3",
-      "fileName": "שיר שני ר''ה חמול קמפה.mp3",
-      "displayTitle": null,
-      "imageUrl": null,
-      "duration": 258.838277,
-      "isDefault": false
-    },
-    {
-      "id": "yom_kippur",
       "alertIndex": 1,
       "genre": "ashkenazi",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
@@ -90,6 +57,17 @@
       "displayTitle": "לכה דודי - קמפה",
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
       "duration": 278.277415,
+      "isDefault": false
+    },
+    {
+      "id": "yom_kippur",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149544734_j4dysi.mp3",
+      "fileName": "בראש השנה.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 254.15,
       "isDefault": false
     },
     {
@@ -115,7 +93,7 @@
       "isDefault": false
     },
     {
-      "id": "rosh_hashana",
+      "id": "yom_kippur",
       "alertIndex": 1,
       "genre": "ashkenazi",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
@@ -123,6 +101,28 @@
       "displayTitle": null,
       "imageUrl": null,
       "duration": 49.486893,
+      "isDefault": false
+    },
+    {
+      "id": "rosh_hashana",
+      "alertIndex": 2,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766150000814_p33hx.mp3",
+      "fileName": "שיר שני ר''ה חמול קמפה.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 258.838277,
+      "isDefault": false
+    },
+    {
+      "id": "rosh_hashana",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149544734_j4dysi.mp3",
+      "fileName": "בראש השנה.mp3",
+      "displayTitle": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "duration": 254.15,
       "isDefault": false
     },
     {
@@ -136,7 +136,7 @@
       "isDefault": false
     }
   ],
-  "dashboardText": "<b>מקדימי שבת</b><div>מערכת צופרי שבת:</div><div>המאפשרת ניהול צופרי שבת.</div><div>וקבלת התראות למשתמשים.</div>",
+  "dashboardText": "<b>מקדימי שבת</b><div>מערכת צופרי שבת:</div><div>המאפשרת ניהול צופרי שבת.</div><div>וקבלת התראות למשתמשים.</div><div>הזמנים בדיוק רב ובאדיבותו הרבה של לוח עיתים לבינה</div>",
   "availableCities": [
     {
       "id": "אופקים",
