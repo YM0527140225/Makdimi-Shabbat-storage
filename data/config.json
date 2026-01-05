@@ -1,32 +1,43 @@
 {
-  "version": 1767568643602,
-  "updatedAt": "2026-01-04T23:17:23.602Z",
+  "version": 1767617535362,
+  "updatedAt": "2026-01-05T12:52:15.362Z",
   "settings": {
+    "lastPublished": "5.1.2026, 14:52:15",
+    "configVersion": 1765715807569,
+    "genres": [
+      "ashkenazi",
+      "מודיעין עילית"
+    ],
+    "disableAudioBackup": false,
+    "dataVersion": 1767617535362,
     "alertTiming": [
       "END",
       "END",
       "END"
     ],
-    "disableAudioBackup": false,
-    "dataVersion": 1767568643602,
-    "configVersion": 1765715807569,
-    "lastPublished": "5.1.2026, 1:17:23",
+    "githubParams": {
+      "repo": "Makdimi-Shabbat-storage",
+      "username": "YM0527140225"
+    },
     "alertTitles": [
       "הדלקת נרות | בעוד 20 דקות",
       "הדלקת נרות | בעוד 10 דקות",
       "הדלקת נרות:"
     ],
-    "genres": [
-      "ashkenazi",
-      "*מודיעין עילית"
-    ],
-    "hasPendingChanges": false,
-    "githubParams": {
-      "repo": "Makdimi-Shabbat-storage",
-      "username": "YM0527140225"
-    }
+    "hasPendingChanges": false
   },
   "songs": [
+    {
+      "id": "yom_kippur",
+      "alertIndex": 2,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766001511039_g731t9.mp3",
+      "fileName": "אמת שיר שני יו''כ .mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 277.613447,
+      "isDefault": false
+    },
     {
       "id": "shabbat",
       "alertIndex": 2,
@@ -36,17 +47,6 @@
       "displayTitle": "לכה דודי - קמפה",
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
       "duration": 278.277415,
-      "isDefault": false
-    },
-    {
-      "id": "yom_kippur",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149544734_j4dysi.mp3",
-      "fileName": "בראש השנה.mp3",
-      "displayTitle": null,
-      "imageUrl": null,
-      "duration": 254.15,
       "isDefault": false
     },
     {
@@ -61,28 +61,6 @@
       "isDefault": false
     },
     {
-      "id": "yom_kippur",
-      "alertIndex": 2,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766001511039_g731t9.mp3",
-      "fileName": "אמת שיר שני יו''כ .mp3",
-      "displayTitle": null,
-      "imageUrl": null,
-      "duration": 277.613447,
-      "isDefault": false
-    },
-    {
-      "id": "rosh_hashana",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
-      "fileName": "הכרזה ספרדי ימים נוראים.mp3",
-      "displayTitle": null,
-      "imageUrl": null,
-      "duration": 49.486893,
-      "isDefault": false
-    },
-    {
       "id": "chanukah",
       "alertIndex": 0,
       "genre": "ashkenazi",
@@ -93,25 +71,14 @@
       "isDefault": false
     },
     {
-      "id": "shabbat",
+      "id": "yom_kippur",
       "alertIndex": 0,
       "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149627671_fi0fze.mp3",
-      "fileName": "באה שבת מערכת חדשה.mp3",
-      "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "duration": 210.599977,
-      "isDefault": false
-    },
-    {
-      "id": "yom_kippur",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
-      "fileName": "הכרזה ספרדי ימים נוראים.mp3",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149544734_j4dysi.mp3",
+      "fileName": "בראש השנה.mp3",
       "displayTitle": null,
       "imageUrl": null,
-      "duration": 49.486893,
+      "duration": 254.15,
       "isDefault": false
     },
     {
@@ -123,6 +90,39 @@
       "displayTitle": null,
       "imageUrl": null,
       "duration": 258.838277,
+      "isDefault": false
+    },
+    {
+      "id": "rosh_hashana",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
+      "fileName": "הכרזה ספרדי ימים נוראים.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 49.486893,
+      "isDefault": false
+    },
+    {
+      "id": "yom_kippur",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
+      "fileName": "הכרזה ספרדי ימים נוראים.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 49.486893,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149627671_fi0fze.mp3",
+      "fileName": "באה שבת מערכת חדשה.mp3",
+      "displayTitle": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "duration": 210.599977,
       "isDefault": false
     }
   ],
