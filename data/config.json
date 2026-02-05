@@ -1,43 +1,33 @@
 {
-  "version": 1769952265422,
-  "updatedAt": "2026-02-01T13:24:25.422Z",
+  "version": 1770325753096,
+  "updatedAt": "2026-02-05T21:09:13.096Z",
   "settings": {
-    "genres": [
-      "ashkenazi",
-      "מודיעין עילית",
-      "כרמיאל"
-    ],
-    "disableAudioBackup": false,
-    "githubParams": {
-      "repo": "Makdimi-Shabbat-storage",
-      "username": "YM0527140225"
-    },
+    "dataVersion": 1770325753096,
     "configVersion": 1765715807569,
-    "alertTitles": [
-      "הדלקת נרות | בעוד 20 דקות",
-      "הדלקת נרות | בעוד 10 דקות",
-      "הדלקת נרות:"
-    ],
+    "lastPublished": "5.2.2026, 23:09:13",
     "alertTiming": [
       "END",
       "END",
       "END"
     ],
-    "lastPublished": "1.2.2026, 15:24:25",
-    "dataVersion": 1769952265423,
-    "hasPendingChanges": false
+    "disableAudioBackup": false,
+    "genres": [
+      "ashkenazi",
+      "מודיעין עילית",
+      "כרמיאל"
+    ],
+    "githubParams": {
+      "username": "YM0527140225",
+      "repo": "Makdimi-Shabbat-storage"
+    },
+    "hasPendingChanges": false,
+    "alertTitles": [
+      "הדלקת נרות | בעוד 20 דקות",
+      "הדלקת נרות | בעוד 10 דקות",
+      "הדלקת נרות:"
+    ]
   },
   "songs": [
-    {
-      "id": "chanukah",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/audio%2F1765225647223_Ben_Zur___________________________.mp3?alt=media&token=3f6f5d11-9a9c-4a04-af8a-9d515e1ef532",
-      "fileName": "1765225647223_Ben_Zur___________________________.mp3",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/images%2F1765186345837_IMG_20240128_WA0012__1___1_.jpg?alt=media&token=d49553ea-a4f6-4281-8915-e211d6f277ff",
-      "duration": 0,
-      "isDefault": false
-    },
     {
       "id": "shabbat",
       "alertIndex": 1,
@@ -47,17 +37,6 @@
       "displayTitle": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769275919712_z9bd8q.jpg",
       "duration": 54.545782,
-      "isDefault": false
-    },
-    {
-      "id": "yom_kippur",
-      "alertIndex": 2,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766001511039_g731t9.mp3",
-      "fileName": "אמת שיר שני יו''כ .mp3",
-      "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1728450073578.png",
-      "duration": 277.613447,
       "isDefault": false
     },
     {
@@ -85,34 +64,23 @@
     {
       "id": "shabbat",
       "alertIndex": 2,
-      "genre": "מודיעין עילית",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/02-אילן.mp3",
-      "fileName": "02-אילן.mp3",
-      "displayTitle": null,
-      "imageUrl": null,
-      "duration": 322.907567,
+      "genre": "כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/לכה דודי.mp3",
+      "fileName": "לכה דודי.mp3",
+      "displayTitle": "לך דודי קמפה",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769276299604_sebhqr.jpg",
+      "duration": 278.277415,
       "isDefault": false
     },
     {
-      "id": "rosh_hashana",
+      "id": "yom_kippur",
       "alertIndex": 2,
       "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766150000814_p33hx.mp3",
-      "fileName": "שיר שני ר''ה חמול קמפה.mp3",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766001511039_g731t9.mp3",
+      "fileName": "אמת שיר שני יו''כ .mp3",
       "displayTitle": null,
-      "imageUrl": null,
-      "duration": 258.838277,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149627671_fi0fze.mp3",
-      "fileName": "באה שבת מערכת חדשה.mp3",
-      "displayTitle": "באה שבת - שוואקי",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
-      "duration": 210.599977,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1728450073578.png",
+      "duration": 277.613447,
       "isDefault": false
     },
     {
@@ -128,6 +96,39 @@
     },
     {
       "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149627671_fi0fze.mp3",
+      "fileName": "באה שבת מערכת חדשה.mp3",
+      "displayTitle": "באה שבת - שוואקי",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1765709126453_logo.png",
+      "duration": 210.599977,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 2,
+      "genre": "מודיעין עילית",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/ויהיו_רחמיך_ביר.mp3",
+      "fileName": "ויהיו_רחמיך_ביר.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 213.792,
+      "isDefault": false
+    },
+    {
+      "id": "rosh_hashana",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
+      "fileName": "הכרזה ספרדי ימים נוראים.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 49.486893,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
       "alertIndex": 1,
       "genre": "ashkenazi",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149844203_ctp60e.mp3",
@@ -135,6 +136,17 @@
       "displayTitle": "כי אשמרה שבת",
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769275919712_z9bd8q.jpg",
       "duration": 54.545782,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 1,
+      "genre": "מודיעין עילית",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/הכרזה_מיוחדת_לשבת_במודיעין_עילית.mp3",
+      "fileName": "הכרזה_מיוחדת_לשבת_במודיעין_עילית.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 59.663673,
       "isDefault": false
     },
     {
@@ -146,6 +158,49 @@
       "displayTitle": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1728450073578.png",
       "duration": 49.486893,
+      "isDefault": false
+    },
+    {
+      "id": "shavuot",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/נגינה והכרזה.mp3",
+      "fileName": "נגינה והכרזה.mp3",
+      "displayTitle": "ניגון והכרזה עשר דקות",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769289553913_grdjd.jpg",
+      "duration": 55.607007,
+      "isDefault": false
+    },
+    {
+      "id": "rosh_hashana",
+      "alertIndex": 2,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766150000814_p33hx.mp3",
+      "fileName": "שיר שני ר''ה חמול קמפה.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 258.838277,
+      "isDefault": false
+    },
+    {
+      "id": "chanukah",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/audio%2F1765225647223_Ben_Zur___________________________.mp3?alt=media&token=3f6f5d11-9a9c-4a04-af8a-9d515e1ef532",
+      "fileName": "1765225647223_Ben_Zur___________________________.mp3",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/images%2F1765186345837_IMG_20240128_WA0012__1___1_.jpg?alt=media&token=d49553ea-a4f6-4281-8915-e211d6f277ff",
+      "duration": 0,
+      "isDefault": false
+    },
+    {
+      "id": "shavuot",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/כד יתבין.mp3",
+      "fileName": "כד יתבין.mp3",
+      "displayTitle": "כד יתבין עשרים דקות לפני הדלקת נרות",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769289553913_grdjd.jpg",
+      "duration": 264.330862,
       "isDefault": false
     },
     {
@@ -169,65 +224,14 @@
       "imageUrl": null,
       "duration": 264.385306,
       "isDefault": false
-    },
-    {
-      "id": "shavuot",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/כד יתבין.mp3",
-      "fileName": "כד יתבין.mp3",
-      "displayTitle": "כד יתבין עשרים דקות לפני הדלקת נרות",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769289553913_grdjd.jpg",
-      "duration": 264.330862,
-      "isDefault": false
-    },
-    {
-      "id": "rosh_hashana",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
-      "fileName": "הכרזה ספרדי ימים נוראים.mp3",
-      "displayTitle": null,
-      "imageUrl": null,
-      "duration": 49.486893,
-      "isDefault": false
-    },
-    {
-      "id": "shavuot",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/נגינה והכרזה.mp3",
-      "fileName": "נגינה והכרזה.mp3",
-      "displayTitle": "ניגון והכרזה עשר דקות",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769289553913_grdjd.jpg",
-      "duration": 55.607007,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 2,
-      "genre": "כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/לכה דודי.mp3",
-      "fileName": "לכה דודי.mp3",
-      "displayTitle": "לך דודי קמפה",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769276299604_sebhqr.jpg",
-      "duration": 278.277415,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 1,
-      "genre": "מודיעין עילית",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/הכרזה_מיוחדת_לשבת_במודיעין_עילית.mp3",
-      "fileName": "הכרזה_מיוחדת_לשבת_במודיעין_עילית.mp3",
-      "displayTitle": null,
-      "imageUrl": null,
-      "duration": 59.663673,
-      "isDefault": false
     }
   ],
   "dashboardText": "<p class=\"MsoNormal\" dir=\"RTL\"></p><div style=\"text-align: justify;\"></div><div style=\"text-align: justify;\"></div><p></p><p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center;\">\n\n</p><p class=\"MsoNormal\" align=\"center\" dir=\"RTL\" style=\"text-align:center\"><b><span lang=\"HE\" style=\"font-size:22.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,serif;\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\nmajor-bidi\">מה היישום כולל?<o:p></o:p></span></b></p><p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center;\">\n\n</p><p class=\"MsoNormal\" dir=\"RTL\"><span lang=\"HE\" style=\"font-family:&quot;Times New Roman&quot;,serif;\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\nmajor-bidi\">&nbsp;</span><b style=\"font-family: &quot;Times New Roman&quot;, serif;\">ממשק תזכורות:</b></p><p class=\"MsoNormal\" dir=\"RTL\"><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">מערכת מנגינות המבטיחה שימת לב מלאה ויישוב הדעת לקראת היום הקדוש.</span></p><p class=\"MsoNormal\" dir=\"RTL\"><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">\n<b>ניהול זמני יעד קביעות: </b></span></p><p class=\"MsoNormal\" dir=\"RTL\"><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">מוגדרת להשמיע שלוש מנגינות קבועות ומדויקות כדי לתזכר את המשתמש בהתקרבות </span><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">זמן כניסת שבת קודש:</span></p><p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center;\">\n<font face=\"Times New Roman, serif\">1.</font><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">&nbsp;&nbsp; </span><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">התראה ראשונה: מסתיימת כעשרים דקות לפני כניסת השבת.</span></p><p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center;\"><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">2.</span><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">&nbsp; </span><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">התראה שנייה: מסתיימת כעשר דקות לפני כניסת השבת.</span></p><p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center;\"><font face=\"Times New Roman, serif\">3.</font><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">&nbsp;&nbsp; </span><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">התראה שלישית : מסתיימת בדיוק בזמן כניסת השבת.\n</span></p><div style=\"text-align: center;\"><b style=\"font-family: Assistant, sans-serif; text-align: right;\"><span lang=\"HE\" style=\"font-family:&quot;Times New Roman&quot;,serif;\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\nmajor-bidi\">\n<div style=\"text-align: right;\"><b style=\"font-family: Assistant, sans-serif;\"><span lang=\"HE\" style=\"font-family:&quot;Times New Roman&quot;,serif;\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\nmajor-bidi\">דיוק מבוסס לפי בחירת עיר: </span></b></div></span></b></div><p></p><p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center;\"></p><div style=\"text-align: right;\"></div><div style=\"text-align: right;\"></div><p></p><p class=\"MsoNormal\" dir=\"RTL\"><span lang=\"HE\" style=\"font-family:&quot;Times New Roman&quot;,serif;\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\nmajor-bidi\">סנכרון עם זמני היום המדויקים בכל עיר ועיר לפי זמן כניסת השבת הייחודי לה. \n</span><b style=\"text-align: center;\"><span lang=\"HE\" style=\"font-family:&quot;Times New Roman&quot;,serif;mso-ascii-theme-font:major-bidi;\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\">\n</span></b></p><div style=\"text-align: center;\"><b style=\"text-align: center;\"><b style=\"font-family: Assistant, sans-serif;\"><span lang=\"HE\" style=\"font-family:&quot;Times New Roman&quot;,serif;mso-ascii-theme-font:major-bidi;\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\">הזמנים באדיבות מערכת </span></b><b style=\"font-family: Assistant, sans-serif;\"><span lang=\"HE\" style=\"font-family:&quot;Times New Roman&quot;,serif;mso-ascii-theme-font:major-bidi;\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\">לוח שנה עיתים לבינה.</span></b></b></div><p></p><p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center;\">\n\n</p><p class=\"MsoNormal\" dir=\"RTL\"><span lang=\"HE\" style=\"font-family: &quot;Times New Roman&quot;, serif;\"><b>מנגנון מזהה חגים ושבתות צמודים: \n</b></span><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">המערכת מזהה באופן אוטומטי שבתות הצמודות לחגים (חג בערב שבת ולהפך), </span><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">ומפעילה את ההתראות אך ורק עבור הראשון מביניהם ללא צורך בהתערבות ידנית.</span></p><p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center;\">\n<font face=\"Times New Roman, serif\">\nמעוניינים להוסיף </font><span style=\"font-family: &quot;Times New Roman&quot;, serif;\">את היישוב שלכם? פנו אלינו.</span></p><p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center;\"><span lang=\"HE\" style=\"font-family: &quot;Times New Roman&quot;, serif;\">להערות והארות ניתן לפנות למייל: </span><span dir=\"LTR\" style=\"font-family: &quot;Times New Roman&quot;, serif;\">a228551339@gmail.com</span></p><p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center;\">\n\n</p>",
   "availableCities": [
+    {
+      "id": "אומן",
+      "name": "אומן"
+    },
     {
       "id": "אופקים",
       "name": "אופקים"
