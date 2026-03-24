@@ -1,149 +1,150 @@
 {
+  "updatedAt": "2035-01-12T18:44:36.781Z",
   "year": 2036,
   "events": [
     {
-      "id": "חנוכה",
-      "name": "חנוכה",
+      "requiresAlert": false,
       "date": "2035-12-31",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "requiresAlert": false
-    },
-    {
       "name": "חנוכה",
       "id": "חנוכה",
-      "date": "2036-01-01",
-      "isSecondDay": false,
       "type": "HOLIDAY",
-      "requiresAlert": false
+      "isSecondDay": false
     },
     {
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "name": "שבת פרשת ויגש",
-      "date": "2036-01-04",
-      "requiresAlert": true
+      "requiresAlert": false,
+      "date": "2036-01-01",
+      "name": "חנוכה",
+      "id": "חנוכה",
+      "type": "HOLIDAY",
+      "isSecondDay": false
     },
     {
       "requiresAlert": true,
       "type": "SHABBAT",
       "isSecondDay": false,
-      "date": "2036-01-11",
-      "id": "shabbat",
-      "name": "שבת פרשת ויחי"
+      "date": "2036-01-04",
+      "name": "שבת פרשת ויגש",
+      "id": "shabbat"
     },
     {
-      "type": "SHABBAT",
+      "name": "שבת פרשת ויחי",
+      "id": "shabbat",
+      "date": "2036-01-11",
       "isSecondDay": false,
-      "date": "2036-01-18",
+      "type": "SHABBAT",
+      "requiresAlert": true
+    },
+    {
       "name": "שבת פרשת שמות",
       "id": "shabbat",
+      "date": "2036-01-18",
+      "isSecondDay": false,
+      "type": "SHABBAT",
       "requiresAlert": true
     },
     {
-      "requiresAlert": true,
       "type": "SHABBAT",
       "isSecondDay": false,
       "date": "2036-01-25",
       "id": "shabbat",
-      "name": "שבת פרשת וארא"
+      "name": "שבת פרשת וארא",
+      "requiresAlert": true
     },
     {
-      "requiresAlert": true,
       "type": "SHABBAT",
       "isSecondDay": false,
       "date": "2036-02-01",
       "name": "שבת פרשת בא",
-      "id": "shabbat"
+      "id": "shabbat",
+      "requiresAlert": true
     },
     {
-      "type": "SHABBAT",
+      "requiresAlert": true,
       "isSecondDay": false,
-      "date": "2036-02-08",
-      "id": "shabbat",
+      "type": "SHABBAT",
       "name": "שבת פרשת בשלח",
-      "requiresAlert": true
+      "id": "shabbat",
+      "date": "2036-02-08"
     },
     {
       "isSecondDay": false,
       "type": "HOLIDAY",
-      "id": "ט\"ו_בשבט",
       "name": "ט\"ו בשבט",
+      "id": "ט\"ו_בשבט",
       "date": "2036-02-12",
       "requiresAlert": false
     },
     {
       "requiresAlert": true,
-      "date": "2036-02-15",
-      "id": "shabbat",
       "name": "שבת פרשת יתרו",
-      "type": "SHABBAT",
-      "isSecondDay": false
+      "id": "shabbat",
+      "date": "2036-02-15",
+      "isSecondDay": false,
+      "type": "SHABBAT"
     },
     {
+      "name": "שבת פרשת משפטים",
+      "id": "shabbat",
+      "date": "2036-02-22",
       "isSecondDay": false,
       "type": "SHABBAT",
-      "id": "shabbat",
-      "name": "שבת פרשת משפטים",
-      "date": "2036-02-22",
       "requiresAlert": true
     },
     {
       "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "date": "2036-02-29",
+      "name": "שבת פרשת תרומה",
       "id": "shabbat",
-      "name": "שבת פרשת תרומה"
+      "date": "2036-02-29",
+      "isSecondDay": false,
+      "type": "SHABBAT"
     },
     {
       "requiresAlert": true,
       "date": "2036-03-07",
-      "name": "שבת פרשת תצוה",
       "id": "shabbat",
+      "name": "שבת פרשת תצוה",
       "type": "SHABBAT",
       "isSecondDay": false
     },
     {
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "id": "פורים",
-      "name": "פורים",
+      "requiresAlert": false,
       "date": "2036-03-12",
-      "requiresAlert": false
-    },
-    {
-      "name": "שושן פורים",
-      "id": "שושן_פורים",
-      "date": "2036-03-13",
-      "isSecondDay": false,
+      "name": "פורים",
+      "id": "פורים",
       "type": "HOLIDAY",
-      "requiresAlert": false
+      "isSecondDay": false
+    },
+    {
+      "requiresAlert": false,
+      "date": "2036-03-13",
+      "id": "שושן_פורים",
+      "name": "שושן פורים",
+      "type": "HOLIDAY",
+      "isSecondDay": false
     },
     {
       "requiresAlert": true,
-      "isSecondDay": false,
       "type": "SHABBAT",
-      "id": "shabbat",
+      "isSecondDay": false,
+      "date": "2036-03-14",
       "name": "שבת פרשת כי תשא",
-      "date": "2036-03-14"
+      "id": "shabbat"
     },
     {
       "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false,
+      "name": "שבת פרשת ויקהל-פקודי",
+      "id": "shabbat",
       "date": "2036-03-21",
-      "id": "shabbat",
-      "name": "שבת פרשת ויקהל-פקודי"
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת ויקרא",
-      "date": "2036-03-28",
       "isSecondDay": false,
       "type": "SHABBAT"
+    },
+    {
+      "name": "שבת פרשת ויקרא",
+      "id": "shabbat",
+      "date": "2036-03-28",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "requiresAlert": true
     },
     {
       "requiresAlert": true,
@@ -155,235 +156,235 @@
     },
     {
       "requiresAlert": true,
-      "id": "שבת_-_חג_הפסח_(ליל_הסדר)",
       "name": "שבת - חג הפסח (ליל הסדר)",
+      "id": "שבת_-_חג_הפסח_(ליל_הסדר)",
       "date": "2036-04-11",
       "isSecondDay": false,
       "type": "HOLIDAY"
     },
     {
       "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2036-04-12",
       "id": "Pesach_II",
-      "name": "Pesach II"
+      "name": "Pesach II",
+      "date": "2036-04-12",
+      "isSecondDay": false,
+      "type": "HOLIDAY"
     },
     {
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
       "date": "2036-04-13",
-      "name": "חול המועד פסח",
-      "id": "חול_המועד_פסח"
-    },
-    {
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2036-04-14",
-      "id": "חול_המועד_פסח",
-      "name": "חול המועד פסח"
-    },
-    {
-      "requiresAlert": false,
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "חול המועד פסח",
-      "id": "חול_המועד_פסח",
-      "date": "2036-04-15"
-    },
-    {
       "id": "חול_המועד_פסח",
       "name": "חול המועד פסח",
-      "date": "2036-04-16",
-      "isSecondDay": false,
       "type": "HOLIDAY",
+      "isSecondDay": false,
       "requiresAlert": false
     },
     {
-      "date": "2036-04-17",
-      "id": "שביעי_של_פסח",
-      "name": "שביעי של פסח",
       "type": "HOLIDAY",
       "isSecondDay": false,
-      "requiresAlert": true
+      "date": "2036-04-14",
+      "name": "חול המועד פסח",
+      "id": "חול_המועד_פסח",
+      "requiresAlert": false
     },
     {
-      "date": "2036-04-25",
+      "date": "2036-04-15",
+      "id": "חול_המועד_פסח",
+      "name": "חול המועד פסח",
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "requiresAlert": false
+    },
+    {
+      "date": "2036-04-16",
+      "id": "חול_המועד_פסח",
+      "name": "חול המועד פסח",
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "requiresAlert": false
+    },
+    {
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "id": "שביעי_של_פסח",
+      "name": "שביעי של פסח",
+      "date": "2036-04-17"
+    },
+    {
+      "isSecondDay": false,
+      "type": "SHABBAT",
       "id": "shabbat",
       "name": "שבת פרשת שמיני",
-      "type": "SHABBAT",
-      "isSecondDay": false,
+      "date": "2036-04-25",
       "requiresAlert": true
     },
     {
       "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת תזריע-מצרע",
       "date": "2036-05-02",
-      "isSecondDay": false,
-      "type": "SHABBAT"
+      "name": "שבת פרשת תזריע-מצרע",
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "isSecondDay": false
     },
     {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
+      "date": "2036-05-09",
+      "id": "shabbat",
       "name": "שבת פרשת אחרי מות-קדשים",
-      "id": "shabbat",
-      "date": "2036-05-09"
-    },
-    {
-      "isSecondDay": false,
       "type": "SHABBAT",
-      "id": "shabbat",
-      "name": "שבת פרשת אמור",
-      "date": "2036-05-16",
+      "isSecondDay": false,
       "requiresAlert": true
     },
     {
+      "requiresAlert": true,
+      "date": "2036-05-16",
+      "name": "שבת פרשת אמור",
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "isSecondDay": false
+    },
+    {
+      "requiresAlert": true,
       "id": "shabbat",
       "name": "שבת פרשת בהר-בחקתי",
       "date": "2036-05-23",
       "isSecondDay": false,
+      "type": "SHABBAT"
+    },
+    {
+      "isSecondDay": false,
       "type": "SHABBAT",
+      "id": "shabbat",
+      "name": "שבת פרשת במדבר",
+      "date": "2036-05-30",
       "requiresAlert": true
     },
     {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת במדבר",
-      "id": "shabbat",
-      "date": "2036-05-30"
-    },
-    {
-      "name": "חג השבועות",
-      "id": "חג_השבועות",
-      "date": "2036-05-31",
+      "requiresAlert": false,
       "isSecondDay": true,
       "type": "HOLIDAY",
+      "id": "חג_השבועות",
+      "name": "חג השבועות",
+      "date": "2036-05-31"
+    },
+    {
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "id": "Shavuot_II",
+      "name": "Shavuot II",
+      "date": "2036-06-01",
       "requiresAlert": false
     },
     {
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2036-06-01",
-      "name": "Shavuot II",
-      "id": "Shavuot_II"
-    },
-    {
-      "requiresAlert": true,
-      "isSecondDay": false,
       "type": "SHABBAT",
+      "isSecondDay": false,
+      "date": "2036-06-06",
       "id": "shabbat",
       "name": "שבת פרשת נשא",
-      "date": "2036-06-06"
+      "requiresAlert": true
     },
     {
       "isSecondDay": false,
       "type": "SHABBAT",
-      "id": "shabbat",
       "name": "שבת פרשת בהעלתך",
+      "id": "shabbat",
       "date": "2036-06-13",
       "requiresAlert": true
     },
     {
-      "date": "2036-06-20",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "type": "SHABBAT",
       "name": "שבת פרשת שלח־לך",
       "id": "shabbat",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true
+      "date": "2036-06-20"
     },
     {
-      "isSecondDay": false,
       "type": "SHABBAT",
-      "name": "שבת פרשת קורח",
-      "id": "shabbat",
+      "isSecondDay": false,
       "date": "2036-06-27",
-      "requiresAlert": true
-    },
-    {
-      "date": "2036-07-04",
       "id": "shabbat",
-      "name": "שבת פרשת חוקת",
-      "type": "SHABBAT",
-      "isSecondDay": false,
+      "name": "שבת פרשת קורח",
       "requiresAlert": true
     },
     {
       "requiresAlert": true,
-      "name": "שבת פרשת בלק",
+      "date": "2036-07-04",
       "id": "shabbat",
+      "name": "שבת פרשת חוקת",
+      "type": "SHABBAT",
+      "isSecondDay": false
+    },
+    {
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false,
       "date": "2036-07-11",
-      "isSecondDay": false,
-      "type": "SHABBAT"
+      "id": "shabbat",
+      "name": "שבת פרשת בלק"
     },
     {
+      "requiresAlert": true,
       "date": "2036-07-18",
-      "id": "shabbat",
       "name": "שבת פרשת פינחס",
+      "id": "shabbat",
       "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true
+      "isSecondDay": false
     },
     {
-      "isSecondDay": false,
-      "type": "SHABBAT",
+      "id": "shabbat",
       "name": "שבת פרשת מטות-מסעי",
-      "id": "shabbat",
       "date": "2036-07-25",
+      "isSecondDay": false,
+      "type": "SHABBAT",
       "requiresAlert": true
     },
     {
       "isSecondDay": false,
       "type": "SHABBAT",
-      "id": "shabbat",
       "name": "שבת פרשת דברים",
+      "id": "shabbat",
       "date": "2036-08-01",
       "requiresAlert": true
     },
     {
       "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
       "date": "2036-08-02",
+      "name": "Tish’a B’Av (observed)",
       "id": "Tish’a_B’Av_(observed)",
-      "name": "Tish’a B’Av (observed)"
-    },
-    {
-      "requiresAlert": false,
-      "date": "2036-08-07",
-      "id": "Tu_B’Av",
-      "name": "Tu B’Av",
       "type": "HOLIDAY",
       "isSecondDay": false
     },
     {
-      "date": "2036-08-08",
-      "id": "shabbat",
-      "name": "שבת פרשת ואתחנן",
-      "type": "SHABBAT",
       "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת עקב",
-      "id": "shabbat",
-      "date": "2036-08-15",
-      "requiresAlert": true
+      "type": "HOLIDAY",
+      "id": "Tu_B’Av",
+      "name": "Tu B’Av",
+      "date": "2036-08-07",
+      "requiresAlert": false
     },
     {
       "requiresAlert": true,
-      "name": "שבת פרשת ראה",
-      "id": "shabbat",
-      "date": "2036-08-22",
+      "type": "SHABBAT",
       "isSecondDay": false,
-      "type": "SHABBAT"
+      "date": "2036-08-08",
+      "id": "shabbat",
+      "name": "שבת פרשת ואתחנן"
+    },
+    {
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "date": "2036-08-15",
+      "id": "shabbat",
+      "name": "שבת פרשת עקב"
+    },
+    {
+      "date": "2036-08-22",
+      "id": "shabbat",
+      "name": "שבת פרשת ראה",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "requiresAlert": true
     },
     {
       "date": "2036-08-29",
@@ -394,20 +395,20 @@
       "requiresAlert": true
     },
     {
-      "isSecondDay": false,
-      "type": "SHABBAT",
+      "date": "2036-09-05",
       "id": "shabbat",
       "name": "שבת פרשת כי־תצא",
-      "date": "2036-09-05",
+      "type": "SHABBAT",
+      "isSecondDay": false,
       "requiresAlert": true
     },
     {
-      "type": "SHABBAT",
+      "requiresAlert": true,
       "isSecondDay": false,
-      "date": "2036-09-12",
+      "type": "SHABBAT",
       "id": "shabbat",
       "name": "שבת פרשת כי־תבוא",
-      "requiresAlert": true
+      "date": "2036-09-12"
     },
     {
       "date": "2036-09-19",
@@ -418,83 +419,83 @@
       "requiresAlert": true
     },
     {
-      "type": "HOLIDAY",
-      "isSecondDay": false,
       "date": "2036-09-21",
-      "name": "ראש השנה",
       "id": "ראש_השנה",
-      "requiresAlert": true
-    },
-    {
-      "type": "HOLIDAY",
-      "isSecondDay": true,
-      "date": "2036-09-22",
-      "name": "ראש השנה (יום ב')",
-      "id": "ראש_השנה_(יום_ב')",
-      "requiresAlert": false
-    },
-    {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "name": "שבת פרשת וילך",
-      "date": "2036-09-26"
-    },
-    {
-      "date": "2036-09-30",
-      "id": "יום_הכיפורים",
-      "name": "יום הכיפורים",
+      "name": "ראש השנה",
       "type": "HOLIDAY",
       "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
-      "requiresAlert": true,
-      "name": "שבת פרשת האזינו",
-      "id": "shabbat",
-      "date": "2036-10-03",
-      "isSecondDay": false,
-      "type": "SHABBAT"
-    },
-    {
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "חג הסוכות",
-      "id": "חג_הסוכות",
-      "date": "2036-10-05",
       "requiresAlert": true
     },
     {
       "requiresAlert": false,
-      "isSecondDay": false,
+      "isSecondDay": true,
       "type": "HOLIDAY",
-      "name": "Sukkot II",
-      "id": "Sukkot_II",
-      "date": "2036-10-06"
+      "id": "ראש_השנה_(יום_ב')",
+      "name": "ראש השנה (יום ב')",
+      "date": "2036-09-22"
     },
     {
-      "id": "חול_המועד_סוכות",
-      "name": "חול המועד סוכות",
-      "date": "2036-10-07",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "date": "2036-09-26",
+      "name": "שבת פרשת וילך",
+      "id": "shabbat",
+      "requiresAlert": true
+    },
+    {
+      "requiresAlert": true,
       "isSecondDay": false,
       "type": "HOLIDAY",
+      "name": "יום הכיפורים",
+      "id": "יום_הכיפורים",
+      "date": "2036-09-30"
+    },
+    {
+      "requiresAlert": true,
+      "date": "2036-10-03",
+      "id": "shabbat",
+      "name": "שבת פרשת האזינו",
+      "type": "SHABBAT",
+      "isSecondDay": false
+    },
+    {
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "date": "2036-10-05",
+      "id": "חג_הסוכות",
+      "name": "חג הסוכות",
+      "requiresAlert": true
+    },
+    {
+      "requiresAlert": false,
+      "name": "Sukkot II",
+      "id": "Sukkot_II",
+      "date": "2036-10-06",
+      "isSecondDay": false,
+      "type": "HOLIDAY"
+    },
+    {
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "name": "חול המועד סוכות",
+      "id": "חול_המועד_סוכות",
+      "date": "2036-10-07",
       "requiresAlert": false
     },
     {
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "חול המועד סוכות",
-      "id": "חול_המועד_סוכות",
       "date": "2036-10-08",
+      "id": "חול_המועד_סוכות",
+      "name": "חול המועד סוכות",
+      "type": "HOLIDAY",
+      "isSecondDay": false,
       "requiresAlert": false
     },
     {
       "type": "HOLIDAY",
       "isSecondDay": false,
       "date": "2036-10-09",
-      "id": "חול_המועד_סוכות",
       "name": "חול המועד סוכות",
+      "id": "חול_המועד_סוכות",
       "requiresAlert": false
     },
     {
@@ -507,43 +508,43 @@
     },
     {
       "requiresAlert": false,
-      "isSecondDay": false,
       "type": "HOLIDAY",
+      "isSecondDay": false,
+      "date": "2036-10-11",
       "id": "Sukkot_VII_(Hoshana_Raba)",
-      "name": "Sukkot VII (Hoshana Raba)",
-      "date": "2036-10-11"
+      "name": "Sukkot VII (Hoshana Raba)"
     },
     {
-      "requiresAlert": true,
-      "date": "2036-10-12",
+      "isSecondDay": false,
+      "type": "HOLIDAY",
       "id": "שמיני_עצרת_-_שמחת_תורה",
       "name": "שמיני עצרת - שמחת תורה",
-      "type": "HOLIDAY",
-      "isSecondDay": false
+      "date": "2036-10-12",
+      "requiresAlert": true
     },
     {
       "requiresAlert": false,
-      "type": "HOLIDAY",
       "isSecondDay": true,
-      "date": "2036-10-13",
+      "type": "HOLIDAY",
+      "name": "שמחת תורה",
       "id": "שמחת_תורה",
-      "name": "שמחת תורה"
+      "date": "2036-10-13"
     },
     {
+      "type": "SHABBAT",
+      "isSecondDay": false,
       "date": "2036-10-17",
       "id": "shabbat",
       "name": "שבת פרשת בראשית",
-      "type": "SHABBAT",
-      "isSecondDay": false,
       "requiresAlert": true
     },
     {
-      "name": "שבת פרשת נח",
-      "id": "shabbat",
+      "requiresAlert": true,
       "date": "2036-10-24",
-      "isSecondDay": false,
+      "id": "shabbat",
+      "name": "שבת פרשת נח",
       "type": "SHABBAT",
-      "requiresAlert": true
+      "isSecondDay": false
     },
     {
       "id": "shabbat",
@@ -562,28 +563,28 @@
       "requiresAlert": true
     },
     {
+      "isSecondDay": false,
+      "type": "SHABBAT",
       "id": "shabbat",
       "name": "שבת פרשת חיי שרה",
       "date": "2036-11-14",
-      "isSecondDay": false,
-      "type": "SHABBAT",
       "requiresAlert": true
     },
     {
-      "requiresAlert": true,
-      "type": "SHABBAT",
       "isSecondDay": false,
-      "date": "2036-11-21",
+      "type": "SHABBAT",
       "id": "shabbat",
-      "name": "שבת פרשת תולדות"
+      "name": "שבת פרשת תולדות",
+      "date": "2036-11-21",
+      "requiresAlert": true
     },
     {
-      "requiresAlert": true,
-      "name": "שבת פרשת ויצא",
-      "id": "shabbat",
-      "date": "2036-11-28",
+      "type": "SHABBAT",
       "isSecondDay": false,
-      "type": "SHABBAT"
+      "date": "2036-11-28",
+      "id": "shabbat",
+      "name": "שבת פרשת ויצא",
+      "requiresAlert": true
     },
     {
       "isSecondDay": false,
@@ -594,85 +595,84 @@
       "requiresAlert": true
     },
     {
-      "id": "shabbat",
-      "name": "שבת פרשת וישב",
-      "date": "2036-12-12",
+      "requiresAlert": true,
       "isSecondDay": false,
       "type": "SHABBAT",
-      "requiresAlert": true
+      "id": "shabbat",
+      "name": "שבת פרשת וישב",
+      "date": "2036-12-12"
     },
     {
       "requiresAlert": false,
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "חנוכה",
       "id": "חנוכה",
-      "date": "2036-12-13"
+      "name": "חנוכה",
+      "date": "2036-12-13",
+      "isSecondDay": false,
+      "type": "HOLIDAY"
     },
     {
       "isSecondDay": false,
       "type": "HOLIDAY",
-      "name": "חנוכה",
       "id": "חנוכה",
+      "name": "חנוכה",
       "date": "2036-12-14",
       "requiresAlert": false
     },
     {
+      "type": "HOLIDAY",
+      "isSecondDay": false,
       "date": "2036-12-15",
       "id": "חנוכה",
       "name": "חנוכה",
-      "type": "HOLIDAY",
+      "requiresAlert": false
+    },
+    {
+      "name": "חנוכה",
+      "id": "חנוכה",
+      "date": "2036-12-16",
       "isSecondDay": false,
+      "type": "HOLIDAY",
       "requiresAlert": false
     },
     {
       "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2036-12-16",
-      "name": "חנוכה",
-      "id": "חנוכה"
-    },
-    {
-      "requiresAlert": false,
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "חנוכה",
+      "date": "2036-12-17",
       "id": "חנוכה",
-      "date": "2036-12-17"
+      "name": "חנוכה",
+      "type": "HOLIDAY",
+      "isSecondDay": false
     },
     {
       "requiresAlert": false,
       "type": "HOLIDAY",
       "isSecondDay": false,
       "date": "2036-12-18",
-      "name": "חנוכה",
-      "id": "חנוכה"
-    },
-    {
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "date": "2036-12-19",
-      "id": "shabbat",
-      "name": "שבת פרשת מקץ"
-    },
-    {
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2036-12-20",
-      "name": "חנוכה",
       "id": "חנוכה",
+      "name": "חנוכה"
+    },
+    {
+      "name": "שבת פרשת מקץ",
+      "id": "shabbat",
+      "date": "2036-12-19",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "requiresAlert": true
+    },
+    {
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "id": "חנוכה",
+      "name": "חנוכה",
+      "date": "2036-12-20",
       "requiresAlert": false
     },
     {
       "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
+      "date": "2036-12-26",
       "name": "שבת פרשת ויגש",
       "id": "shabbat",
-      "date": "2036-12-26"
+      "type": "SHABBAT",
+      "isSecondDay": false
     }
-  ],
-  "updatedAt": "2035-01-12T18:44:36.781Z"
+  ]
 }
