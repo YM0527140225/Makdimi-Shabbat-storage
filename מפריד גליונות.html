@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>מפצל קבצי אקסל - מתוקן עם שעות</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            max-width: 500px;
+            margin: auto;
+        }
+        input[type="file"] {
+            margin: 20px 0;
+            font-size: 16px;
+            max-width: 100%;
+        }
+        .btn-process {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 15px 20px;
+            font-size: 18px;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .btn-process:hover {
+            background-color: #0056b3;
+        }
+        .download-btn {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 12px 15px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 10px;
+            display: block;
+            text-decoration: none;
+        }
+        .download-btn:hover {
+            background-color: #218838;
+        }
+        #status {
+            font-weight: bold;
+            color: #0056b3;
+            margin-bottom: 15px;
+        }
+        #download-list {
+            text-align: right;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>מפצל אקסל (שומר על פורמט שעות)</h2>
+    <p>העלה קובץ אקסל (<b>.xlsx</b>). המערכת תפצל אותו ותוודא שהשעות יוצגו נכון (למשל 18:30:00) ולא כמספרים עשרוניים.</p>
+    
+    <input type="file" id="fileInput" accept=".xlsx, .xls" />
+    <br>
+    <button class="btn-process" onclick="splitExcel()">פצל גיליונות עכשיו</button>
+    
+    <p id="status"></p>
+    <div id="download-list"></div>
+</div>
+
+<script>
+    async function splitExcel() {
+        const fileInput = document.getElementById('fileInput');
+        const status = document.getElementById('status');
+        const downloadList = document.getElementById('download-list');
+
+        if (fileInput.files.length === 0) {
+            status.innerText = "אנא בחר קובץ אקסל (.xlsx) קודם!";
+            status.style.color = "red";
+            return;
+        }
+
+        status.style.color = "#0056b3";
+        status.innerText = "מעבד את הקובץ ומתקן את תצוגת השעות...";
+        downloadList.innerHTML = ""; 
+
+        try {
+            const file = fileInput.files[0];
+            const data = await readFileAsArrayBuffer(file);
+            
+            // קריאת הקובץ - הפעלנו הגדרות מתקדמות לקריאת הפורמטים
+            const initialWb = XLSX.read(data, { type: 'array', cellNF: true, cellStyles: true });
+            
+            for (let i = 0; i < initialWb.SheetNames.length; i++) {
+                let sheetName = initialWb.SheetNames[i];
+                
+                // שכפול הגיליון הנוכחי בלבד לתוך קובץ חדש ונקי
+                const newWb = XLSX.utils.book_new();
+                let worksheet = initialWb.Sheets[sheetName];
+                
+                // --- תיקון השעות ---
+                // עוברים על כל התאים בעמודה ב' (עמודת הזמן) ואוכפים את פורמט השעון
+                if (worksheet['!ref']) {
+                    let range = XLSX.utils.decode_range(worksheet['!ref']);
+                    // מתחילים משורה 0 (או 1) ועד סוף הגיליון
+                    for (let R = range.s.r; R <= range.e.r; ++R) {
+                        // c: 1 מסמל את העמודה השנייה (עמודה B באקסל)
+                        let cellAddress = XLSX.utils.encode_cell({c: 1, r: R});
+                        let cell = worksheet[cellAddress];
+                        
+                        // אם התא קיים והוא מסוג מספר (כלומר אקסל קורא אותו כמספר עשרוני)
+                        if (cell && cell.t === 'n') {
+                            // אנו מכריחים את התא להיות מוצג בפורמט שעות מלא
+                            cell.z = 'hh:mm:ss';
+                        }
+                    }
+                }
+                
+                // מוסיפים את הגיליון המתוקן לקובץ החדש
+                XLSX.utils.book_append_sheet(newWb, worksheet, sheetName);
+                
+                // קיבוע כיוון הגיליון לימין-לשמאל לעברית 
+                if(!newWb.Sheets[sheetName]['!dir']) newWb.Sheets[sheetName]['!dir'] = 'rtl';
+
+                // יצירת הכפתור להורדה
+                createDownloadButton(newWb, `${sheetName}.xlsx`, sheetName, downloadList);
+            }
+
+            status.innerText = `הפיצול והתיקון הסתיימו בהצלחה! השעות יוצגו כתקינות.`;
+            status.style.color = "green";
+            
+        } catch (error) {
+            status.innerText = "אירעה שגיאה בקריאת הקובץ.";
+            status.style.color = "red";
+            console.error(error);
+        }
+    }
+
+    function createDownloadButton(workbook, filename, sheetName, container) {
+        const btn = document.createElement('button');
+        btn.className = 'download-btn';
+        btn.innerText = `⬇️ הורד קובץ - ${sheetName}`;
+        
+        btn.onclick = function() {
+            XLSX.writeFile(workbook, filename);
+        };
+        
+        container.appendChild(btn);
+    }
+
+    // פונקציית קריאה בינארית
+    function readFileAsArrayBuffer(file) {
+        return new Promise((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onload = (e) => resolve(e.target.result);
+            reader.onerror = (e) => reject(e);
+            reader.readAsArrayBuffer(file);
+        });
+    }
+</script>
+
+</body>
+</html>
+
