@@ -1,62 +1,61 @@
 {
-  "updatedAt": "2045-01-12T18:45:56.002Z",
   "year": 2050,
   "events": [
     {
-      "requiresAlert": true,
-      "id": "shabbat",
       "name": "שבת פרשת ויגש",
-      "type": "SHABBAT",
       "date": "2049-12-31",
-      "isSecondDay": false
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת ויחי",
       "type": "SHABBAT",
       "isSecondDay": false,
-      "date": "2050-01-07"
+      "requiresAlert": true,
+      "id": "shabbat"
     },
     {
+      "name": "שבת פרשת ויחי",
+      "date": "2050-01-07",
       "type": "SHABBAT",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "id": "shabbat"
+    },
+    {
+      "requiresAlert": true,
+      "id": "shabbat",
+      "name": "שבת פרשת שמות",
       "isSecondDay": false,
       "date": "2050-01-14",
-      "name": "שבת פרשת שמות",
-      "id": "shabbat",
-      "requiresAlert": true
+      "type": "SHABBAT"
     },
     {
-      "id": "shabbat",
-      "requiresAlert": true,
       "date": "2050-01-21",
       "isSecondDay": false,
       "type": "SHABBAT",
-      "name": "שבת פרשת וארא"
-    },
-    {
-      "id": "shabbat",
-      "requiresAlert": true,
-      "date": "2050-01-28",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת בא"
-    },
-    {
-      "type": "SHABBAT",
-      "date": "2050-02-04",
-      "isSecondDay": false,
-      "name": "שבת פרשת בשלח",
+      "name": "שבת פרשת וארא",
       "id": "shabbat",
       "requiresAlert": true
     },
     {
-      "name": "ט\"ו בשבט",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "name": "שבת פרשת בא",
+      "type": "SHABBAT",
       "isSecondDay": false,
-      "type": "HOLIDAY",
-      "date": "2050-02-06",
+      "date": "2050-01-28"
+    },
+    {
+      "id": "shabbat",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "date": "2050-02-04",
+      "name": "שבת פרשת בשלח"
+    },
+    {
+      "id": "ט\"ו_בשבט",
       "requiresAlert": false,
-      "id": "ט\"ו_בשבט"
+      "date": "2050-02-06",
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "name": "ט\"ו בשבט"
     },
     {
       "name": "שבת פרשת יתרו",
@@ -67,41 +66,41 @@
       "id": "shabbat"
     },
     {
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false,
+      "name": "שבת פרשת משפטים",
       "date": "2050-02-18",
+      "isSecondDay": false,
       "type": "SHABBAT",
-      "name": "שבת פרשת משפטים"
+      "requiresAlert": true,
+      "id": "shabbat"
+    },
+    {
+      "requiresAlert": true,
+      "id": "shabbat",
+      "name": "שבת פרשת תרומה",
+      "type": "SHABBAT",
+      "date": "2050-02-25",
+      "isSecondDay": false
     },
     {
       "id": "shabbat",
       "requiresAlert": true,
-      "date": "2050-02-25",
-      "isSecondDay": false,
       "type": "SHABBAT",
-      "name": "שבת פרשת תרומה"
-    },
-    {
-      "type": "SHABBAT",
-      "isSecondDay": false,
       "date": "2050-03-04",
-      "name": "שבת פרשת תצוה",
-      "id": "shabbat",
-      "requiresAlert": true
+      "isSecondDay": false,
+      "name": "שבת פרשת תצוה"
     },
     {
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "date": "2050-03-07",
-      "name": "פורים",
+      "requiresAlert": false,
       "id": "פורים",
-      "requiresAlert": false
+      "name": "פורים",
+      "date": "2050-03-07",
+      "isSecondDay": false,
+      "type": "HOLIDAY"
     },
     {
       "name": "שושן פורים",
-      "type": "HOLIDAY",
       "date": "2050-03-08",
+      "type": "HOLIDAY",
       "isSecondDay": false,
       "requiresAlert": false,
       "id": "שושן_פורים"
@@ -115,434 +114,434 @@
       "name": "שבת פרשת כי תשא"
     },
     {
-      "id": "shabbat",
-      "requiresAlert": true,
+      "type": "SHABBAT",
       "isSecondDay": false,
       "date": "2050-03-18",
-      "type": "SHABBAT",
-      "name": "שבת פרשת ויקהל-פקודי"
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת ויקרא",
-      "type": "SHABBAT",
-      "date": "2050-03-25",
-      "isSecondDay": false
-    },
-    {
-      "type": "SHABBAT",
-      "date": "2050-04-01",
-      "isSecondDay": false,
-      "name": "שבת פרשת צו",
+      "name": "שבת פרשת ויקהל-פקודי",
       "id": "shabbat",
       "requiresAlert": true
     },
     {
       "requiresAlert": true,
-      "id": "חג_הפסח_(ליל_הסדר)",
-      "name": "חג הפסח (ליל הסדר)",
+      "id": "shabbat",
+      "name": "שבת פרשת ויקרא",
+      "date": "2050-03-25",
       "isSecondDay": false,
-      "type": "HOLIDAY",
-      "date": "2050-04-06"
+      "type": "SHABBAT"
     },
     {
-      "id": "Pesach_II",
-      "requiresAlert": false,
+      "requiresAlert": true,
+      "id": "shabbat",
+      "name": "שבת פרשת צו",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "date": "2050-04-01"
+    },
+    {
+      "id": "חג_הפסח_(ליל_הסדר)",
+      "requiresAlert": true,
+      "date": "2050-04-06",
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "name": "חג הפסח (ליל הסדר)"
+    },
+    {
+      "name": "Pesach II",
+      "isSecondDay": false,
       "type": "HOLIDAY",
       "date": "2050-04-07",
-      "isSecondDay": false,
-      "name": "Pesach II"
+      "requiresAlert": false,
+      "id": "Pesach_II"
     },
     {
       "requiresAlert": true,
       "id": "שבת_-_חול_המועד_פסח",
       "name": "שבת - חול המועד פסח",
       "isSecondDay": false,
-      "date": "2050-04-08",
-      "type": "HOLIDAY"
-    },
-    {
-      "requiresAlert": false,
-      "id": "חול_המועד_פסח",
-      "name": "חול המועד פסח",
       "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2050-04-09"
-    },
-    {
-      "requiresAlert": false,
-      "id": "חול_המועד_פסח",
-      "name": "חול המועד פסח",
-      "type": "HOLIDAY",
-      "date": "2050-04-10",
-      "isSecondDay": false
+      "date": "2050-04-08"
     },
     {
       "name": "חול המועד פסח",
       "isSecondDay": false,
       "type": "HOLIDAY",
-      "date": "2050-04-11",
+      "date": "2050-04-09",
       "requiresAlert": false,
       "id": "חול_המועד_פסח"
     },
     {
-      "name": "שביעי של פסח",
-      "date": "2050-04-12",
+      "id": "חול_המועד_פסח",
+      "requiresAlert": false,
+      "isSecondDay": false,
+      "date": "2050-04-10",
       "type": "HOLIDAY",
+      "name": "חול המועד פסח"
+    },
+    {
+      "id": "חול_המועד_פסח",
+      "requiresAlert": false,
       "isSecondDay": false,
+      "date": "2050-04-11",
+      "type": "HOLIDAY",
+      "name": "חול המועד פסח"
+    },
+    {
       "requiresAlert": true,
-      "id": "שביעי_של_פסח"
+      "id": "שביעי_של_פסח",
+      "name": "שביעי של פסח",
+      "type": "HOLIDAY",
+      "date": "2050-04-12",
+      "isSecondDay": false
     },
     {
+      "requiresAlert": true,
+      "id": "shabbat",
+      "name": "שבת פרשת שמיני",
       "isSecondDay": false,
       "type": "SHABBAT",
-      "date": "2050-04-15",
-      "name": "שבת פרשת שמיני",
-      "id": "shabbat",
-      "requiresAlert": true
+      "date": "2050-04-15"
     },
     {
-      "type": "SHABBAT",
+      "id": "shabbat",
+      "requiresAlert": true,
       "isSecondDay": false,
       "date": "2050-04-22",
-      "name": "שבת פרשת תזריע-מצרע",
-      "id": "shabbat",
-      "requiresAlert": true
+      "type": "SHABBAT",
+      "name": "שבת פרשת תזריע-מצרע"
     },
     {
-      "requiresAlert": true,
-      "id": "shabbat",
       "name": "שבת פרשת אחרי מות-קדשים",
       "isSecondDay": false,
+      "date": "2050-04-29",
       "type": "SHABBAT",
-      "date": "2050-04-29"
+      "requiresAlert": true,
+      "id": "shabbat"
     },
     {
-      "requiresAlert": true,
       "id": "shabbat",
-      "name": "שבת פרשת אמור",
+      "requiresAlert": true,
+      "isSecondDay": false,
       "date": "2050-05-06",
-      "isSecondDay": false,
-      "type": "SHABBAT"
+      "type": "SHABBAT",
+      "name": "שבת פרשת אמור"
     },
     {
-      "id": "shabbat",
       "requiresAlert": true,
+      "id": "shabbat",
+      "name": "שבת פרשת בהר-בחקתי",
+      "isSecondDay": false,
       "date": "2050-05-13",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת בהר-בחקתי"
-    },
-    {
-      "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "date": "2050-05-20",
-      "name": "שבת פרשת במדבר"
-    },
-    {
-      "id": "חג_השבועות",
-      "requiresAlert": true,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2050-05-26",
-      "name": "חג השבועות"
-    },
-    {
-      "requiresAlert": false,
-      "id": "שבת_-_Shavuot_II",
-      "name": "שבת - Shavuot II",
-      "date": "2050-05-27",
-      "isSecondDay": true,
       "type": "SHABBAT"
     },
     {
-      "id": "shabbat",
       "requiresAlert": true,
-      "isSecondDay": false,
+      "id": "shabbat",
+      "name": "שבת פרשת במדבר",
+      "date": "2050-05-20",
       "type": "SHABBAT",
-      "date": "2050-06-03",
-      "name": "שבת פרשת נשא"
+      "isSecondDay": false
     },
     {
+      "requiresAlert": true,
+      "id": "חג_השבועות",
+      "name": "חג השבועות",
+      "date": "2050-05-26",
+      "isSecondDay": false,
+      "type": "HOLIDAY"
+    },
+    {
+      "id": "שבת_-_Shavuot_II",
+      "requiresAlert": false,
+      "date": "2050-05-27",
       "type": "SHABBAT",
+      "isSecondDay": true,
+      "name": "שבת - Shavuot II"
+    },
+    {
+      "requiresAlert": true,
+      "id": "shabbat",
+      "name": "שבת פרשת נשא",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "date": "2050-06-03"
+    },
+    {
       "date": "2050-06-10",
+      "type": "SHABBAT",
       "isSecondDay": false,
       "name": "שבת פרשת בהעלתך",
       "id": "shabbat",
       "requiresAlert": true
     },
     {
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false,
+      "name": "שבת פרשת שלח־לך",
       "date": "2050-06-17",
-      "type": "SHABBAT",
-      "name": "שבת פרשת שלח־לך"
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת קורח",
       "isSecondDay": false,
       "type": "SHABBAT",
-      "date": "2050-06-24"
+      "requiresAlert": true,
+      "id": "shabbat"
     },
     {
-      "name": "שבת פרשת חוקת-בלק",
+      "name": "שבת פרשת קורח",
       "type": "SHABBAT",
-      "date": "2050-07-01",
+      "date": "2050-06-24",
       "isSecondDay": false,
       "requiresAlert": true,
       "id": "shabbat"
     },
     {
+      "name": "שבת פרשת חוקת-בלק",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "date": "2050-07-01",
+      "requiresAlert": true,
+      "id": "shabbat"
+    },
+    {
+      "id": "shabbat",
+      "requiresAlert": true,
+      "isSecondDay": false,
       "type": "SHABBAT",
       "date": "2050-07-08",
+      "name": "שבת פרשת פינחס"
+    },
+    {
+      "name": "שבת פרשת מטות-מסעי",
+      "type": "SHABBAT",
       "isSecondDay": false,
-      "name": "שבת פרשת פינחס",
+      "date": "2050-07-15",
+      "requiresAlert": true,
+      "id": "shabbat"
+    },
+    {
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "date": "2050-07-22",
+      "name": "שבת פרשת דברים",
       "id": "shabbat",
       "requiresAlert": true
     },
     {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת מטות-מסעי",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "date": "2050-07-15"
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת דברים",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "date": "2050-07-22"
-    },
-    {
-      "name": "Tish’a B’Av",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
       "date": "2050-07-27",
-      "requiresAlert": false,
-      "id": "Tish’a_B’Av"
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "name": "Tish’a B’Av",
+      "id": "Tish’a_B’Av",
+      "requiresAlert": false
     },
     {
       "name": "שבת פרשת ואתחנן",
-      "isSecondDay": false,
-      "type": "SHABBAT",
       "date": "2050-07-29",
+      "type": "SHABBAT",
+      "isSecondDay": false,
       "requiresAlert": true,
       "id": "shabbat"
     },
     {
-      "id": "Tu_B’Av",
-      "requiresAlert": false,
       "date": "2050-08-02",
       "type": "HOLIDAY",
       "isSecondDay": false,
-      "name": "Tu B’Av"
+      "name": "Tu B’Av",
+      "id": "Tu_B’Av",
+      "requiresAlert": false
     },
     {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת עקב",
-      "date": "2050-08-05",
       "isSecondDay": false,
-      "type": "SHABBAT"
+      "type": "SHABBAT",
+      "date": "2050-08-05",
+      "name": "שבת פרשת עקב",
+      "id": "shabbat",
+      "requiresAlert": true
     },
     {
       "requiresAlert": true,
       "id": "shabbat",
       "name": "שבת פרשת ראה",
+      "isSecondDay": false,
       "type": "SHABBAT",
-      "date": "2050-08-12",
-      "isSecondDay": false
+      "date": "2050-08-12"
     },
     {
       "id": "shabbat",
       "requiresAlert": true,
-      "type": "SHABBAT",
       "date": "2050-08-19",
+      "type": "SHABBAT",
       "isSecondDay": false,
       "name": "שבת פרשת שופטים"
     },
     {
-      "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT",
+      "name": "שבת פרשת כי־תצא",
       "date": "2050-08-26",
+      "type": "SHABBAT",
       "isSecondDay": false,
-      "name": "שבת פרשת כי־תצא"
+      "requiresAlert": true,
+      "id": "shabbat"
     },
     {
       "id": "shabbat",
       "requiresAlert": true,
-      "date": "2050-09-02",
       "isSecondDay": false,
       "type": "SHABBAT",
+      "date": "2050-09-02",
       "name": "שבת פרשת כי־תבוא"
     },
     {
-      "requiresAlert": true,
       "id": "shabbat",
-      "name": "שבת פרשת נצבים-וילך",
-      "type": "SHABBAT",
-      "date": "2050-09-09",
-      "isSecondDay": false
-    },
-    {
-      "type": "HOLIDAY",
-      "date": "2050-09-16",
+      "requiresAlert": true,
       "isSecondDay": false,
-      "name": "שבת - ראש השנה",
-      "id": "שבת_-_ראש_השנה",
-      "requiresAlert": true
+      "date": "2050-09-09",
+      "type": "SHABBAT",
+      "name": "שבת פרשת נצבים-וילך"
     },
     {
+      "requiresAlert": true,
+      "id": "שבת_-_ראש_השנה",
+      "name": "שבת - ראש השנה",
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "date": "2050-09-16"
+    },
+    {
+      "date": "2050-09-17",
       "isSecondDay": true,
       "type": "HOLIDAY",
-      "date": "2050-09-17",
       "name": "ראש השנה (יום ב')",
       "id": "ראש_השנה_(יום_ב')",
       "requiresAlert": false
     },
     {
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
       "date": "2050-09-23",
-      "name": "שבת פרשת האזינו"
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "name": "שבת פרשת האזינו",
+      "id": "shabbat",
+      "requiresAlert": true
     },
     {
       "requiresAlert": true,
       "id": "יום_הכיפורים",
       "name": "יום הכיפורים",
       "date": "2050-09-25",
-      "type": "HOLIDAY",
-      "isSecondDay": false
+      "isSecondDay": false,
+      "type": "HOLIDAY"
     },
     {
       "name": "שבת - חג הסוכות",
+      "isSecondDay": false,
       "type": "HOLIDAY",
       "date": "2050-09-30",
-      "isSecondDay": false,
       "requiresAlert": true,
       "id": "שבת_-_חג_הסוכות"
     },
     {
-      "requiresAlert": false,
-      "id": "Sukkot_II",
+      "isSecondDay": false,
+      "date": "2050-10-01",
+      "type": "HOLIDAY",
       "name": "Sukkot II",
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2050-10-01"
-    },
-    {
-      "id": "חול_המועד_סוכות",
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2050-10-02",
-      "name": "חול המועד סוכות"
-    },
-    {
-      "requiresAlert": false,
-      "id": "חול_המועד_סוכות",
-      "name": "חול המועד סוכות",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "date": "2050-10-03"
-    },
-    {
-      "date": "2050-10-04",
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "name": "חול המועד סוכות",
-      "id": "חול_המועד_סוכות",
+      "id": "Sukkot_II",
       "requiresAlert": false
     },
     {
+      "requiresAlert": false,
+      "id": "חול_המועד_סוכות",
       "name": "חול המועד סוכות",
       "type": "HOLIDAY",
-      "date": "2050-10-05",
       "isSecondDay": false,
+      "date": "2050-10-02"
+    },
+    {
+      "name": "חול המועד סוכות",
+      "isSecondDay": false,
+      "date": "2050-10-03",
+      "type": "HOLIDAY",
       "requiresAlert": false,
       "id": "חול_המועד_סוכות"
     },
     {
+      "name": "חול המועד סוכות",
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "date": "2050-10-04",
+      "requiresAlert": false,
+      "id": "חול_המועד_סוכות"
+    },
+    {
+      "name": "חול המועד סוכות",
+      "isSecondDay": false,
+      "date": "2050-10-05",
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "id": "חול_המועד_סוכות"
+    },
+    {
+      "name": "Sukkot VII (Hoshana Raba)",
+      "type": "HOLIDAY",
       "isSecondDay": false,
       "date": "2050-10-06",
+      "requiresAlert": false,
+      "id": "Sukkot_VII_(Hoshana_Raba)"
+    },
+    {
+      "name": "שבת - שמיני עצרת - שמחת תורה",
+      "date": "2050-10-07",
       "type": "HOLIDAY",
-      "name": "Sukkot VII (Hoshana Raba)",
-      "id": "Sukkot_VII_(Hoshana_Raba)",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "id": "שבת_-_שמיני_עצרת_-_שמחת_תורה"
+    },
+    {
+      "isSecondDay": true,
+      "date": "2050-10-08",
+      "type": "HOLIDAY",
+      "name": "שמחת תורה",
+      "id": "שמחת_תורה",
       "requiresAlert": false
     },
     {
-      "date": "2050-10-07",
       "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "שבת - שמיני עצרת - שמחת תורה",
-      "id": "שבת_-_שמיני_עצרת_-_שמחת_תורה",
+      "type": "SHABBAT",
+      "date": "2050-10-14",
+      "name": "שבת פרשת בראשית",
+      "id": "shabbat",
       "requiresAlert": true
     },
     {
-      "id": "שמחת_תורה",
-      "requiresAlert": false,
-      "date": "2050-10-08",
-      "isSecondDay": true,
-      "type": "HOLIDAY",
-      "name": "שמחת תורה"
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת בראשית",
-      "type": "SHABBAT",
-      "date": "2050-10-14",
-      "isSecondDay": false
-    },
-    {
-      "name": "שבת פרשת נח",
       "type": "SHABBAT",
       "date": "2050-10-21",
       "isSecondDay": false,
-      "requiresAlert": true,
-      "id": "shabbat"
+      "name": "שבת פרשת נח",
+      "id": "shabbat",
+      "requiresAlert": true
     },
     {
       "name": "שבת פרשת לך־לך",
+      "type": "SHABBAT",
       "date": "2050-10-28",
       "isSecondDay": false,
-      "type": "SHABBAT",
       "requiresAlert": true,
       "id": "shabbat"
     },
     {
-      "isSecondDay": false,
+      "id": "shabbat",
+      "requiresAlert": true,
       "type": "SHABBAT",
       "date": "2050-11-04",
-      "name": "שבת פרשת וירא",
-      "id": "shabbat",
-      "requiresAlert": true
+      "isSecondDay": false,
+      "name": "שבת פרשת וירא"
     },
     {
       "requiresAlert": true,
       "id": "shabbat",
       "name": "שבת פרשת חיי שרה",
       "isSecondDay": false,
-      "date": "2050-11-11",
-      "type": "SHABBAT"
+      "type": "SHABBAT",
+      "date": "2050-11-11"
     },
     {
       "name": "שבת פרשת תולדות",
+      "date": "2050-11-18",
       "isSecondDay": false,
       "type": "SHABBAT",
-      "date": "2050-11-18",
       "requiresAlert": true,
       "id": "shabbat"
     },
@@ -555,100 +554,101 @@
       "id": "shabbat"
     },
     {
+      "name": "שבת פרשת וישלח",
       "isSecondDay": false,
       "date": "2050-12-02",
       "type": "SHABBAT",
-      "name": "שבת פרשת וישלח",
+      "requiresAlert": true,
+      "id": "shabbat"
+    },
+    {
+      "name": "חנוכה (נר ראשון)",
+      "isSecondDay": false,
+      "date": "2050-12-08",
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "id": "חנוכה_(נר_ראשון)"
+    },
+    {
+      "date": "2050-12-09",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "name": "שבת פרשת וישב",
       "id": "shabbat",
       "requiresAlert": true
     },
     {
-      "date": "2050-12-08",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "חנוכה (נר ראשון)",
-      "id": "חנוכה_(נר_ראשון)",
-      "requiresAlert": false
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת וישב",
-      "date": "2050-12-09",
-      "isSecondDay": false,
-      "type": "SHABBAT"
-    },
-    {
-      "requiresAlert": false,
-      "id": "חנוכה",
-      "name": "חנוכה",
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2050-12-10"
-    },
-    {
-      "isSecondDay": false,
-      "date": "2050-12-11",
-      "type": "HOLIDAY",
-      "name": "חנוכה",
-      "id": "חנוכה",
-      "requiresAlert": false
-    },
-    {
-      "date": "2050-12-12",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "חנוכה",
-      "id": "חנוכה",
-      "requiresAlert": false
-    },
-    {
       "id": "חנוכה",
       "requiresAlert": false,
       "type": "HOLIDAY",
+      "date": "2050-12-10",
       "isSecondDay": false,
-      "date": "2050-12-13",
       "name": "חנוכה"
     },
     {
       "requiresAlert": false,
       "id": "חנוכה",
       "name": "חנוכה",
-      "isSecondDay": false,
+      "date": "2050-12-11",
       "type": "HOLIDAY",
-      "date": "2050-12-14"
+      "isSecondDay": false
+    },
+    {
+      "type": "HOLIDAY",
+      "date": "2050-12-12",
+      "isSecondDay": false,
+      "name": "חנוכה",
+      "id": "חנוכה",
+      "requiresAlert": false
     },
     {
       "name": "חנוכה",
       "isSecondDay": false,
+      "date": "2050-12-13",
       "type": "HOLIDAY",
-      "date": "2050-12-15",
       "requiresAlert": false,
       "id": "חנוכה"
     },
     {
-      "name": "שבת פרשת מקץ",
+      "isSecondDay": false,
+      "date": "2050-12-14",
+      "type": "HOLIDAY",
+      "name": "חנוכה",
+      "id": "חנוכה",
+      "requiresAlert": false
+    },
+    {
+      "requiresAlert": false,
+      "id": "חנוכה",
+      "name": "חנוכה",
+      "isSecondDay": false,
+      "date": "2050-12-15",
+      "type": "HOLIDAY"
+    },
+    {
+      "id": "shabbat",
+      "requiresAlert": true,
       "type": "SHABBAT",
       "isSecondDay": false,
       "date": "2050-12-16",
-      "requiresAlert": true,
-      "id": "shabbat"
+      "name": "שבת פרשת מקץ"
     },
     {
-      "isSecondDay": false,
+      "id": "shabbat",
+      "requiresAlert": true,
       "date": "2050-12-23",
+      "isSecondDay": false,
       "type": "SHABBAT",
-      "name": "שבת פרשת ויגש",
-      "id": "shabbat",
-      "requiresAlert": true
+      "name": "שבת פרשת ויגש"
     },
     {
-      "requiresAlert": true,
       "id": "shabbat",
-      "name": "שבת פרשת ויחי",
+      "requiresAlert": true,
       "type": "SHABBAT",
       "date": "2050-12-30",
-      "isSecondDay": false
+      "isSecondDay": false,
+      "name": "שבת פרשת ויחי"
     }
-  ]
+  ],
+  "updatedAt": "2045-01-12T18:45:56.002Z"
 }
