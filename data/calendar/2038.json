@@ -1,224 +1,226 @@
 {
+  "year": 2038,
+  "updatedAt": "2035-01-12T18:44:38.325Z",
   "events": [
     {
       "date": "2038-01-01",
       "id": "shabbat",
-      "type": "SHABBAT",
-      "name": "שבת פרשת וארא",
       "isSecondDay": false,
+      "name": "שבת פרשת וארא",
+      "type": "SHABBAT",
       "requiresAlert": true
     },
     {
-      "requiresAlert": true,
-      "name": "שבת פרשת בא",
       "isSecondDay": false,
+      "name": "שבת פרשת בא",
       "type": "SHABBAT",
+      "requiresAlert": true,
       "date": "2038-01-08",
       "id": "shabbat"
     },
     {
-      "date": "2038-01-15",
-      "id": "shabbat",
+      "isSecondDay": false,
       "name": "שבת פרשת בשלח",
       "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true
+      "requiresAlert": true,
+      "date": "2038-01-15",
+      "id": "shabbat"
     },
     {
-      "requiresAlert": false,
       "isSecondDay": false,
-      "name": "ט\"ו בשבט",
       "type": "HOLIDAY",
+      "requiresAlert": false,
+      "name": "ט\"ו בשבט",
       "date": "2038-01-20",
       "id": "ט\"ו_בשבט"
     },
     {
       "date": "2038-01-22",
       "id": "shabbat",
-      "type": "SHABBAT",
       "isSecondDay": false,
       "name": "שבת פרשת יתרו",
-      "requiresAlert": true
+      "requiresAlert": true,
+      "type": "SHABBAT"
     },
     {
+      "date": "2038-01-29",
+      "id": "shabbat",
+      "isSecondDay": false,
       "requiresAlert": true,
       "type": "SHABBAT",
+      "name": "שבת פרשת משפטים"
+    },
+    {
       "isSecondDay": false,
-      "name": "שבת פרשת משפטים",
-      "date": "2038-01-29",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "name": "שבת פרשת תרומה",
+      "date": "2038-02-05",
       "id": "shabbat"
     },
     {
-      "date": "2038-02-05",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "name": "שבת פרשת תרומה",
-      "type": "SHABBAT",
-      "isSecondDay": false
-    },
-    {
-      "date": "2038-02-12",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "name": "שבת פרשת תצוה",
-      "isSecondDay": false
-    },
-    {
       "isSecondDay": false,
-      "name": "Purim Katan",
+      "name": "שבת פרשת תצוה",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "date": "2038-02-12",
+      "id": "shabbat"
+    },
+    {
       "type": "HOLIDAY",
       "requiresAlert": false,
+      "name": "Purim Katan",
+      "isSecondDay": false,
       "date": "2038-02-18",
       "id": "Purim_Katan"
     },
     {
-      "date": "2038-02-19",
-      "id": "shabbat",
-      "name": "שבת פרשת כי תשא",
-      "type": "SHABBAT",
       "isSecondDay": false,
-      "requiresAlert": true
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "name": "שבת פרשת כי תשא",
+      "date": "2038-02-19",
+      "id": "shabbat"
     },
     {
       "date": "2038-02-26",
       "id": "shabbat",
       "requiresAlert": true,
-      "isSecondDay": false,
       "type": "SHABBAT",
-      "name": "שבת פרשת ויקהל"
+      "name": "שבת פרשת ויקהל",
+      "isSecondDay": false
     },
     {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת פקודי",
       "date": "2038-03-05",
-      "id": "shabbat"
+      "id": "shabbat",
+      "name": "שבת פרשת פקודי",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false
     },
     {
       "date": "2038-03-12",
       "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT",
       "isSecondDay": false,
+      "type": "SHABBAT",
+      "requiresAlert": true,
       "name": "שבת פרשת ויקרא"
     },
     {
-      "date": "2038-03-19",
-      "id": "shabbat",
       "isSecondDay": false,
       "name": "שבת פרשת צו",
       "type": "SHABBAT",
-      "requiresAlert": true
+      "requiresAlert": true,
+      "date": "2038-03-19",
+      "id": "shabbat"
     },
     {
-      "requiresAlert": false,
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "פורים",
       "date": "2038-03-20",
-      "id": "פורים"
+      "id": "פורים",
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "name": "פורים"
     },
     {
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "שושן פורים",
-      "requiresAlert": false,
       "date": "2038-03-21",
-      "id": "שושן_פורים"
+      "id": "שושן_פורים",
+      "name": "שושן פורים",
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "isSecondDay": false
     },
     {
       "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת שמיני",
       "requiresAlert": true,
+      "name": "שבת פרשת שמיני",
+      "isSecondDay": false,
       "date": "2038-03-26",
       "id": "shabbat"
     },
     {
       "date": "2038-04-02",
       "id": "shabbat",
+      "type": "SHABBAT",
       "requiresAlert": true,
       "name": "שבת פרשת תזריע",
-      "type": "SHABBAT",
       "isSecondDay": false
     },
     {
-      "date": "2038-04-09",
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "name": "שבת פרשת מצרע",
       "isSecondDay": false,
-      "requiresAlert": true
+      "name": "שבת פרשת מצרע",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "date": "2038-04-09",
+      "id": "shabbat"
     },
     {
+      "requiresAlert": true,
       "type": "SHABBAT",
       "name": "שבת פרשת אחרי מות",
       "isSecondDay": false,
-      "requiresAlert": true,
       "date": "2038-04-16",
       "id": "shabbat"
     },
     {
       "requiresAlert": true,
-      "isSecondDay": false,
       "type": "HOLIDAY",
       "name": "חג הפסח (ליל הסדר)",
+      "isSecondDay": false,
       "date": "2038-04-19",
       "id": "חג_הפסח_(ליל_הסדר)"
     },
     {
       "date": "2038-04-20",
       "id": "Pesach_II",
-      "name": "Pesach II",
-      "isSecondDay": false,
+      "requiresAlert": false,
       "type": "HOLIDAY",
-      "requiresAlert": false
+      "name": "Pesach II",
+      "isSecondDay": false
     },
     {
       "date": "2038-04-21",
       "id": "חול_המועד_פסח",
+      "type": "HOLIDAY",
       "requiresAlert": false,
       "name": "חול המועד פסח",
-      "isSecondDay": false,
-      "type": "HOLIDAY"
-    },
-    {
-      "date": "2038-04-22",
-      "id": "חול_המועד_פסח",
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "name": "חול המועד פסח"
-    },
-    {
-      "date": "2038-04-23",
-      "id": "שבת_-_חול_המועד_פסח",
-      "requiresAlert": true,
-      "type": "HOLIDAY",
-      "name": "שבת - חול המועד פסח",
       "isSecondDay": false
     },
     {
-      "requiresAlert": false,
-      "type": "HOLIDAY",
       "isSecondDay": false,
       "name": "חול המועד פסח",
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "date": "2038-04-22",
+      "id": "חול_המועד_פסח"
+    },
+    {
+      "requiresAlert": true,
+      "type": "HOLIDAY",
+      "name": "שבת - חול המועד פסח",
+      "isSecondDay": false,
+      "date": "2038-04-23",
+      "id": "שבת_-_חול_המועד_פסח"
+    },
+    {
+      "isSecondDay": false,
+      "name": "חול המועד פסח",
+      "requiresAlert": false,
+      "type": "HOLIDAY",
       "date": "2038-04-24",
       "id": "חול_המועד_פסח"
     },
     {
       "date": "2038-04-25",
       "id": "שביעי_של_פסח",
-      "name": "שביעי של פסח",
-      "type": "HOLIDAY",
       "isSecondDay": false,
-      "requiresAlert": true
+      "type": "HOLIDAY",
+      "requiresAlert": true,
+      "name": "שביעי של פסח"
     },
     {
-      "requiresAlert": true,
       "name": "שבת פרשת קדשים",
+      "requiresAlert": true,
       "type": "SHABBAT",
       "isSecondDay": false,
       "date": "2038-04-30",
@@ -227,80 +229,80 @@
     {
       "date": "2038-05-07",
       "id": "shabbat",
-      "requiresAlert": true,
       "isSecondDay": false,
       "name": "שבת פרשת אמור",
-      "type": "SHABBAT"
+      "type": "SHABBAT",
+      "requiresAlert": true
     },
     {
-      "isSecondDay": false,
       "name": "שבת פרשת בהר",
-      "type": "SHABBAT",
       "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false,
       "date": "2038-05-14",
       "id": "shabbat"
     },
     {
       "date": "2038-05-21",
       "id": "shabbat",
-      "name": "שבת פרשת בחקתי",
       "isSecondDay": false,
       "type": "SHABBAT",
-      "requiresAlert": true
+      "requiresAlert": true,
+      "name": "שבת פרשת בחקתי"
     },
     {
-      "date": "2038-05-28",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false,
       "type": "SHABBAT",
-      "name": "שבת פרשת במדבר"
+      "requiresAlert": true,
+      "name": "שבת פרשת במדבר",
+      "isSecondDay": false,
+      "date": "2038-05-28",
+      "id": "shabbat"
     },
     {
       "date": "2038-06-04",
       "id": "shabbat",
+      "requiresAlert": true,
       "type": "SHABBAT",
-      "isSecondDay": false,
       "name": "שבת פרשת נשא",
-      "requiresAlert": true
+      "isSecondDay": false
     },
     {
       "date": "2038-06-08",
       "id": "חג_השבועות",
-      "requiresAlert": true,
       "isSecondDay": false,
+      "name": "חג השבועות",
       "type": "HOLIDAY",
-      "name": "חג השבועות"
+      "requiresAlert": true
     },
     {
-      "date": "2038-06-09",
-      "id": "Shavuot_II",
-      "requiresAlert": false,
-      "isSecondDay": false,
       "name": "Shavuot II",
-      "type": "HOLIDAY"
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "date": "2038-06-09",
+      "id": "Shavuot_II"
     },
     {
       "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת בהעלתך",
       "requiresAlert": true,
+      "name": "שבת פרשת בהעלתך",
+      "isSecondDay": false,
       "date": "2038-06-11",
       "id": "shabbat"
     },
     {
       "date": "2038-06-18",
       "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT",
+      "isSecondDay": false,
       "name": "שבת פרשת שלח־לך",
-      "isSecondDay": false
+      "type": "SHABBAT",
+      "requiresAlert": true
     },
     {
-      "requiresAlert": true,
       "isSecondDay": false,
-      "type": "SHABBAT",
       "name": "שבת פרשת קורח",
+      "type": "SHABBAT",
+      "requiresAlert": true,
       "date": "2038-06-25",
       "id": "shabbat"
     },
@@ -308,39 +310,39 @@
       "date": "2038-07-02",
       "id": "shabbat",
       "isSecondDay": false,
-      "type": "SHABBAT",
       "name": "שבת פרשת חוקת",
+      "type": "SHABBAT",
       "requiresAlert": true
     },
     {
-      "name": "שבת פרשת בלק",
-      "type": "SHABBAT",
       "isSecondDay": false,
       "requiresAlert": true,
+      "type": "SHABBAT",
+      "name": "שבת פרשת בלק",
       "date": "2038-07-09",
       "id": "shabbat"
     },
     {
       "date": "2038-07-16",
       "id": "shabbat",
-      "requiresAlert": true,
       "name": "שבת פרשת פינחס",
-      "isSecondDay": false,
-      "type": "SHABBAT"
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "isSecondDay": false
     },
     {
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "name": "שבת פרשת מטות",
       "date": "2038-07-23",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת מטות"
+      "id": "shabbat"
     },
     {
-      "name": "שבת פרשת מסעי",
       "type": "SHABBAT",
-      "isSecondDay": false,
       "requiresAlert": true,
+      "name": "שבת פרשת מסעי",
+      "isSecondDay": false,
       "date": "2038-07-30",
       "id": "shabbat"
     },
@@ -348,331 +350,329 @@
       "date": "2038-08-06",
       "id": "shabbat",
       "isSecondDay": false,
-      "type": "SHABBAT",
       "name": "שבת פרשת דברים",
+      "type": "SHABBAT",
       "requiresAlert": true
     },
     {
-      "name": "Tish’a B’Av",
-      "type": "HOLIDAY",
+      "date": "2038-08-09",
+      "id": "Tish’a_B’Av",
       "isSecondDay": false,
       "requiresAlert": false,
-      "date": "2038-08-09",
-      "id": "Tish’a_B’Av"
+      "type": "HOLIDAY",
+      "name": "Tish’a B’Av"
     },
     {
-      "requiresAlert": true,
-      "isSecondDay": false,
       "name": "שבת פרשת ואתחנן",
       "type": "SHABBAT",
+      "requiresAlert": true,
+      "isSecondDay": false,
       "date": "2038-08-13",
       "id": "shabbat"
     },
     {
-      "date": "2038-08-15",
-      "id": "Tu_B’Av",
-      "requiresAlert": false,
-      "name": "Tu B’Av",
       "isSecondDay": false,
-      "type": "HOLIDAY"
+      "name": "Tu B’Av",
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "date": "2038-08-15",
+      "id": "Tu_B’Av"
     },
     {
-      "date": "2038-08-20",
-      "id": "shabbat",
+      "isSecondDay": false,
       "name": "שבת פרשת עקב",
       "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
-      "date": "2038-08-27",
-      "id": "shabbat",
-      "name": "שבת פרשת ראה",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
       "requiresAlert": true,
+      "date": "2038-08-20",
+      "id": "shabbat"
+    },
+    {
       "isSecondDay": false,
-      "name": "שבת פרשת שופטים",
+      "name": "שבת פרשת ראה",
+      "requiresAlert": true,
       "type": "SHABBAT",
+      "date": "2038-08-27",
+      "id": "shabbat"
+    },
+    {
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "name": "שבת פרשת שופטים",
       "date": "2038-09-03",
       "id": "shabbat"
     },
     {
-      "date": "2038-09-10",
-      "id": "shabbat",
-      "requiresAlert": true,
       "type": "SHABBAT",
+      "requiresAlert": true,
+      "name": "שבת פרשת כי־תצא",
       "isSecondDay": false,
-      "name": "שבת פרשת כי־תצא"
+      "date": "2038-09-10",
+      "id": "shabbat"
     },
     {
       "date": "2038-09-17",
       "id": "shabbat",
       "isSecondDay": false,
       "name": "שבת פרשת כי־תבוא",
-      "type": "SHABBAT",
-      "requiresAlert": true
+      "requiresAlert": true,
+      "type": "SHABBAT"
     },
     {
-      "name": "שבת פרשת נצבים-וילך",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true,
       "date": "2038-09-24",
-      "id": "shabbat"
-    },
-    {
-      "date": "2038-09-29",
-      "id": "ראש_השנה",
+      "id": "shabbat",
+      "type": "SHABBAT",
       "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "ראש השנה"
+      "name": "שבת פרשת נצבים-וילך",
+      "isSecondDay": false
     },
     {
+      "isSecondDay": false,
+      "name": "ראש השנה",
+      "requiresAlert": true,
+      "type": "HOLIDAY",
+      "date": "2038-09-29",
+      "id": "ראש_השנה"
+    },
+    {
+      "date": "2038-09-30",
+      "id": "ראש_השנה_(יום_ב')",
       "isSecondDay": true,
       "type": "HOLIDAY",
-      "name": "ראש השנה (יום ב')",
       "requiresAlert": false,
-      "date": "2038-09-30",
-      "id": "ראש_השנה_(יום_ב')"
+      "name": "ראש השנה (יום ב')"
     },
     {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "name": "שבת פרשת האזינו",
-      "type": "SHABBAT",
       "date": "2038-10-01",
-      "id": "shabbat"
-    },
-    {
+      "id": "shabbat",
+      "type": "SHABBAT",
       "requiresAlert": true,
-      "type": "HOLIDAY",
-      "name": "שבת - יום הכיפורים",
-      "isSecondDay": false,
-      "date": "2038-10-08",
-      "id": "שבת_-_יום_הכיפורים"
+      "name": "שבת פרשת האזינו",
+      "isSecondDay": false
     },
     {
-      "date": "2038-10-13",
-      "id": "חג_הסוכות",
+      "date": "2038-10-08",
+      "id": "שבת_-_יום_הכיפורים",
+      "isSecondDay": false,
+      "name": "שבת - יום הכיפורים",
+      "requiresAlert": true,
+      "type": "HOLIDAY"
+    },
+    {
+      "isSecondDay": false,
+      "requiresAlert": true,
       "type": "HOLIDAY",
       "name": "חג הסוכות",
-      "isSecondDay": false,
-      "requiresAlert": true
+      "date": "2038-10-13",
+      "id": "חג_הסוכות"
     },
     {
       "date": "2038-10-14",
       "id": "Sukkot_II",
-      "isSecondDay": false,
+      "requiresAlert": false,
       "type": "HOLIDAY",
       "name": "Sukkot II",
-      "requiresAlert": false
+      "isSecondDay": false
     },
     {
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "שבת - חול המועד סוכות",
-      "requiresAlert": true,
       "date": "2038-10-15",
-      "id": "שבת_-_חול_המועד_סוכות"
-    },
-    {
-      "date": "2038-10-16",
-      "id": "חול_המועד_סוכות",
+      "id": "שבת_-_חול_המועד_סוכות",
       "isSecondDay": false,
+      "requiresAlert": true,
       "type": "HOLIDAY",
-      "name": "חול המועד סוכות",
-      "requiresAlert": false
+      "name": "שבת - חול המועד סוכות"
     },
     {
-      "date": "2038-10-17",
-      "id": "חול_המועד_סוכות",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
       "name": "חול המועד סוכות",
-      "requiresAlert": false
-    },
-    {
       "requiresAlert": false,
       "type": "HOLIDAY",
       "isSecondDay": false,
+      "date": "2038-10-16",
+      "id": "חול_המועד_סוכות"
+    },
+    {
+      "type": "HOLIDAY",
+      "requiresAlert": false,
       "name": "חול המועד סוכות",
+      "isSecondDay": false,
+      "date": "2038-10-17",
+      "id": "חול_המועד_סוכות"
+    },
+    {
+      "isSecondDay": false,
+      "name": "חול המועד סוכות",
+      "requiresAlert": false,
+      "type": "HOLIDAY",
       "date": "2038-10-18",
       "id": "חול_המועד_סוכות"
     },
     {
       "date": "2038-10-19",
       "id": "Sukkot_VII_(Hoshana_Raba)",
+      "name": "Sukkot VII (Hoshana Raba)",
       "requiresAlert": false,
       "type": "HOLIDAY",
-      "isSecondDay": false,
-      "name": "Sukkot VII (Hoshana Raba)"
+      "isSecondDay": false
     },
     {
+      "type": "HOLIDAY",
+      "requiresAlert": true,
+      "name": "שמיני עצרת - שמחת תורה",
+      "isSecondDay": false,
       "date": "2038-10-20",
-      "id": "שמיני_עצרת_-_שמחת_תורה",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "שמיני עצרת - שמחת תורה"
+      "id": "שמיני_עצרת_-_שמחת_תורה"
     },
     {
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": true,
-      "name": "שמחת תורה",
       "date": "2038-10-21",
-      "id": "שמחת_תורה"
+      "id": "שמחת_תורה",
+      "name": "שמחת תורה",
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "isSecondDay": true
     },
     {
-      "requiresAlert": true,
       "name": "שבת פרשת בראשית",
       "type": "SHABBAT",
+      "requiresAlert": true,
       "isSecondDay": false,
       "date": "2038-10-22",
       "id": "shabbat"
     },
     {
-      "date": "2038-10-29",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "name": "שבת פרשת נח",
-      "type": "SHABBAT",
-      "isSecondDay": false
-    },
-    {
-      "name": "שבת פרשת לך־לך",
       "isSecondDay": false,
       "type": "SHABBAT",
       "requiresAlert": true,
+      "name": "שבת פרשת נח",
+      "date": "2038-10-29",
+      "id": "shabbat"
+    },
+    {
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "name": "שבת פרשת לך־לך",
+      "isSecondDay": false,
       "date": "2038-11-05",
       "id": "shabbat"
     },
     {
+      "isSecondDay": false,
+      "name": "שבת פרשת וירא",
       "requiresAlert": true,
       "type": "SHABBAT",
-      "name": "שבת פרשת וירא",
-      "isSecondDay": false,
       "date": "2038-11-12",
       "id": "shabbat"
     },
     {
-      "requiresAlert": true,
-      "name": "שבת פרשת חיי שרה",
       "isSecondDay": false,
+      "name": "שבת פרשת חיי שרה",
       "type": "SHABBAT",
+      "requiresAlert": true,
       "date": "2038-11-19",
       "id": "shabbat"
     },
     {
-      "name": "שבת פרשת תולדות",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "requiresAlert": true,
       "date": "2038-11-26",
-      "id": "shabbat"
-    },
-    {
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת ויצא",
-      "requiresAlert": true,
-      "date": "2038-12-03",
-      "id": "shabbat"
-    },
-    {
-      "date": "2038-12-10",
       "id": "shabbat",
+      "requiresAlert": true,
       "type": "SHABBAT",
+      "name": "שבת פרשת תולדות",
+      "isSecondDay": false
+    },
+    {
+      "date": "2038-12-03",
+      "id": "shabbat",
       "isSecondDay": false,
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "name": "שבת פרשת ויצא"
+    },
+    {
       "name": "שבת פרשת וישלח",
-      "requiresAlert": true
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "date": "2038-12-10",
+      "id": "shabbat"
     },
     {
       "date": "2038-12-17",
       "id": "shabbat",
       "isSecondDay": false,
-      "type": "SHABBAT",
       "name": "שבת פרשת וישב",
-      "requiresAlert": true
+      "requiresAlert": true,
+      "type": "SHABBAT"
     },
     {
+      "name": "חנוכה (נר ראשון)",
       "requiresAlert": false,
       "type": "HOLIDAY",
       "isSecondDay": false,
-      "name": "חנוכה (נר ראשון)",
       "date": "2038-12-20",
       "id": "חנוכה_(נר_ראשון)"
     },
     {
-      "requiresAlert": false,
-      "isSecondDay": false,
-      "name": "חנוכה",
       "type": "HOLIDAY",
+      "requiresAlert": false,
+      "name": "חנוכה",
+      "isSecondDay": false,
       "date": "2038-12-21",
       "id": "חנוכה"
     },
     {
       "date": "2038-12-22",
       "id": "חנוכה",
-      "requiresAlert": false,
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "חנוכה"
-    },
-    {
-      "isSecondDay": false,
-      "type": "HOLIDAY",
       "name": "חנוכה",
       "requiresAlert": false,
+      "type": "HOLIDAY",
+      "isSecondDay": false
+    },
+    {
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "name": "חנוכה",
+      "isSecondDay": false,
       "date": "2038-12-23",
       "id": "חנוכה"
     },
     {
-      "date": "2038-12-24",
-      "id": "shabbat",
-      "requiresAlert": true,
+      "isSecondDay": false,
       "name": "שבת פרשת מקץ",
+      "requiresAlert": true,
       "type": "SHABBAT",
-      "isSecondDay": false
+      "date": "2038-12-24",
+      "id": "shabbat"
     },
     {
       "type": "HOLIDAY",
+      "requiresAlert": false,
       "name": "חנוכה",
       "isSecondDay": false,
-      "requiresAlert": false,
       "date": "2038-12-25",
       "id": "חנוכה"
     },
     {
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "name": "חנוכה",
+      "isSecondDay": false,
       "date": "2038-12-26",
-      "id": "חנוכה",
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "name": "חנוכה"
-    },
-    {
-      "date": "2038-12-27",
-      "id": "חנוכה",
-      "requiresAlert": false,
-      "name": "חנוכה",
-      "type": "HOLIDAY",
-      "isSecondDay": false
-    },
-    {
-      "name": "חנוכה",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "requiresAlert": false,
-      "date": "2038-12-28",
       "id": "חנוכה"
+    },
+    {
+      "isSecondDay": false,
+      "name": "חנוכה",
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "date": "2038-12-27",
+      "id": "חנוכה"
+    },
+    {
+      "date": "2038-12-28",
+      "id": "חנוכה",
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "name": "חנוכה"
     }
-  ],
-  "year": 2038,
-  "updatedAt": "2035-01-12T18:44:38.325Z"
+  ]
 }
