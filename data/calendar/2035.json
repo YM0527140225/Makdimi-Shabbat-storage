@@ -1,220 +1,219 @@
 {
   "year": 2035,
-  "updatedAt": "2035-01-12T18:44:35.806Z",
   "events": [
     {
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "name": "שבת פרשת וארא",
+      "id": "shabbat",
       "date": "2035-01-05",
+      "requiresAlert": true,
       "type": "SHABBAT",
-      "id": "shabbat"
+      "isSecondDay": false,
+      "name": "שבת פרשת וארא"
     },
     {
-      "type": "SHABBAT",
-      "id": "shabbat",
       "date": "2035-01-12",
-      "name": "שבת פרשת בא",
+      "id": "shabbat",
+      "type": "SHABBAT",
       "requiresAlert": true,
-      "isSecondDay": false
+      "isSecondDay": false,
+      "name": "שבת פרשת בא"
     },
     {
       "name": "שבת פרשת בשלח",
       "isSecondDay": false,
+      "type": "SHABBAT",
       "requiresAlert": true,
       "date": "2035-01-19",
-      "type": "SHABBAT",
       "id": "shabbat"
     },
     {
-      "date": "2035-01-24",
       "name": "ט\"ו בשבט",
       "isSecondDay": false,
       "requiresAlert": false,
       "type": "HOLIDAY",
-      "id": "ט\"ו_בשבט"
+      "id": "ט\"ו_בשבט",
+      "date": "2035-01-24"
     },
     {
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "id": "shabbat",
       "date": "2035-01-26",
       "name": "שבת פרשת יתרו",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat"
+      "isSecondDay": false
     },
     {
-      "name": "שבת פרשת משפטים",
       "requiresAlert": true,
-      "isSecondDay": false,
-      "date": "2035-02-02",
       "type": "SHABBAT",
-      "id": "shabbat"
+      "id": "shabbat",
+      "date": "2035-02-02",
+      "name": "שבת פרשת משפטים",
+      "isSecondDay": false
     },
     {
       "name": "שבת פרשת תרומה",
       "isSecondDay": false,
+      "type": "SHABBAT",
       "requiresAlert": true,
       "date": "2035-02-09",
-      "type": "SHABBAT",
       "id": "shabbat"
     },
     {
-      "type": "SHABBAT",
       "id": "shabbat",
       "date": "2035-02-16",
       "requiresAlert": true,
-      "name": "שבת פרשת תצוה",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "name": "שבת פרשת תצוה"
+    },
+    {
+      "isSecondDay": false,
+      "name": "Purim Katan",
+      "date": "2035-02-22",
+      "id": "Purim_Katan",
+      "type": "HOLIDAY",
+      "requiresAlert": false
+    },
+    {
+      "name": "שבת פרשת כי תשא",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "date": "2035-02-23",
+      "id": "shabbat"
+    },
+    {
+      "isSecondDay": false,
+      "name": "שבת פרשת ויקהל",
+      "id": "shabbat",
+      "date": "2035-03-02",
+      "requiresAlert": true,
+      "type": "SHABBAT"
+    },
+    {
+      "id": "shabbat",
+      "date": "2035-03-09",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "name": "שבת פרשת פקודי"
+    },
+    {
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "date": "2035-03-16",
+      "id": "shabbat",
+      "name": "שבת פרשת ויקרא",
       "isSecondDay": false
     },
     {
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "name": "Purim Katan",
-      "date": "2035-02-22",
-      "type": "HOLIDAY",
-      "id": "Purim_Katan"
-    },
-    {
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "name": "שבת פרשת כי תשא",
-      "requiresAlert": true,
-      "date": "2035-02-23"
-    },
-    {
-      "date": "2035-03-02",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "name": "שבת פרשת ויקהל",
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "name": "שבת פרשת פקודי",
-      "isSecondDay": false,
-      "date": "2035-03-09"
-    },
-    {
-      "date": "2035-03-16",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "name": "שבת פרשת ויקרא",
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "type": "SHABBAT",
       "id": "shabbat",
       "date": "2035-03-23",
-      "name": "שבת פרשת צו",
+      "requiresAlert": true,
+      "type": "SHABBAT",
       "isSecondDay": false,
-      "requiresAlert": true
+      "name": "שבת פרשת צו"
     },
     {
       "type": "HOLIDAY",
-      "id": "פורים",
-      "date": "2035-03-24",
       "requiresAlert": false,
+      "date": "2035-03-24",
+      "id": "פורים",
       "name": "פורים",
       "isSecondDay": false
     },
     {
-      "type": "HOLIDAY",
-      "id": "שושן_פורים",
-      "date": "2035-03-25",
       "name": "שושן פורים",
       "isSecondDay": false,
-      "requiresAlert": false
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "date": "2035-03-25",
+      "id": "שושן_פורים"
     },
     {
+      "requiresAlert": true,
       "type": "SHABBAT",
       "id": "shabbat",
       "date": "2035-03-30",
       "name": "שבת פרשת שמיני",
-      "requiresAlert": true,
       "isSecondDay": false
     },
     {
-      "requiresAlert": true,
-      "isSecondDay": false,
       "name": "שבת פרשת תזריע",
-      "date": "2035-04-06",
+      "isSecondDay": false,
       "type": "SHABBAT",
+      "requiresAlert": true,
+      "date": "2035-04-06",
       "id": "shabbat"
     },
     {
+      "id": "shabbat",
       "date": "2035-04-13",
       "requiresAlert": true,
-      "isSecondDay": false,
-      "name": "שבת פרשת מצרע",
       "type": "SHABBAT",
+      "isSecondDay": false,
+      "name": "שבת פרשת מצרע"
+    },
+    {
+      "name": "שבת פרשת אחרי מות",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "date": "2035-04-20",
       "id": "shabbat"
     },
     {
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "date": "2035-04-20",
-      "isSecondDay": false,
-      "name": "שבת פרשת אחרי מות",
-      "requiresAlert": true
-    },
-    {
       "type": "HOLIDAY",
-      "id": "חג_הפסח_(ליל_הסדר)",
-      "isSecondDay": false,
-      "name": "חג הפסח (ליל הסדר)",
       "requiresAlert": true,
-      "date": "2035-04-23"
+      "date": "2035-04-23",
+      "id": "חג_הפסח_(ליל_הסדר)",
+      "name": "חג הפסח (ליל הסדר)",
+      "isSecondDay": false
     },
     {
+      "requiresAlert": false,
       "type": "HOLIDAY",
       "id": "Pesach_II",
-      "isSecondDay": false,
+      "date": "2035-04-24",
       "name": "Pesach II",
-      "requiresAlert": false,
-      "date": "2035-04-24"
+      "isSecondDay": false
     },
     {
+      "type": "HOLIDAY",
+      "requiresAlert": false,
       "date": "2035-04-25",
+      "id": "חול_המועד_פסח",
+      "name": "חול המועד פסח",
+      "isSecondDay": false
+    },
+    {
       "name": "חול המועד פסח",
       "isSecondDay": false,
       "requiresAlert": false,
-      "type": "HOLIDAY",
-      "id": "חול_המועד_פסח"
-    },
-    {
-      "name": "חול המועד פסח",
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "date": "2035-04-26",
-      "type": "HOLIDAY",
-      "id": "חול_המועד_פסח"
-    },
-    {
-      "type": "HOLIDAY",
-      "id": "שבת_-_חול_המועד_פסח",
-      "name": "שבת - חול המועד פסח",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "date": "2035-04-27"
-    },
-    {
       "type": "HOLIDAY",
       "id": "חול_המועד_פסח",
-      "requiresAlert": false,
+      "date": "2035-04-26"
+    },
+    {
+      "requiresAlert": true,
+      "type": "HOLIDAY",
+      "id": "שבת_-_חול_המועד_פסח",
+      "date": "2035-04-27",
+      "name": "שבת - חול המועד פסח",
+      "isSecondDay": false
+    },
+    {
       "name": "חול המועד פסח",
       "isSecondDay": false,
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "id": "חול_המועד_פסח",
       "date": "2035-04-28"
     },
     {
       "type": "HOLIDAY",
-      "id": "שביעי_של_פסח",
-      "date": "2035-04-29",
       "requiresAlert": true,
+      "date": "2035-04-29",
+      "id": "שביעי_של_פסח",
       "name": "שביעי של פסח",
       "isSecondDay": false
     },
@@ -222,441 +221,442 @@
       "name": "שבת פרשת קדשים",
       "isSecondDay": false,
       "requiresAlert": true,
-      "date": "2035-05-04",
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
       "type": "SHABBAT",
       "id": "shabbat",
-      "requiresAlert": true,
-      "name": "שבת פרשת אמור",
-      "isSecondDay": false,
-      "date": "2035-05-11"
+      "date": "2035-05-04"
     },
     {
+      "date": "2035-05-11",
+      "id": "shabbat",
+      "type": "SHABBAT",
       "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת אמור"
+    },
+    {
+      "isSecondDay": false,
       "name": "שבת פרשת בהר",
-      "isSecondDay": false,
       "date": "2035-05-18",
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "type": "SHABBAT",
       "id": "shabbat",
-      "date": "2035-05-25",
-      "isSecondDay": false,
-      "name": "שבת פרשת בחקתי",
+      "type": "SHABBAT",
       "requiresAlert": true
     },
     {
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "date": "2035-06-01",
+      "name": "שבת פרשת בחקתי",
       "isSecondDay": false,
       "requiresAlert": true,
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "date": "2035-05-25"
+    },
+    {
+      "id": "shabbat",
+      "date": "2035-06-01",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false,
       "name": "שבת פרשת במדבר"
     },
     {
-      "requiresAlert": true,
+      "isSecondDay": false,
       "name": "שבת פרשת נשא",
-      "isSecondDay": false,
+      "id": "shabbat",
       "date": "2035-06-08",
-      "type": "SHABBAT",
-      "id": "shabbat"
+      "requiresAlert": true,
+      "type": "SHABBAT"
     },
     {
       "isSecondDay": false,
-      "requiresAlert": true,
       "name": "חג השבועות",
+      "id": "חג_השבועות",
       "date": "2035-06-12",
-      "type": "HOLIDAY",
-      "id": "חג_השבועות"
+      "requiresAlert": true,
+      "type": "HOLIDAY"
     },
     {
+      "requiresAlert": false,
       "type": "HOLIDAY",
       "id": "Shavuot_II",
-      "requiresAlert": false,
-      "isSecondDay": false,
+      "date": "2035-06-13",
       "name": "Shavuot II",
-      "date": "2035-06-13"
+      "isSecondDay": false
     },
     {
-      "isSecondDay": false,
-      "requiresAlert": true,
       "name": "שבת פרשת בהעלתך",
-      "date": "2035-06-15",
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "name": "שבת פרשת שלח־לך",
-      "requiresAlert": true,
       "isSecondDay": false,
-      "date": "2035-06-22",
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
+      "requiresAlert": true,
       "type": "SHABBAT",
       "id": "shabbat",
-      "date": "2035-06-29",
+      "date": "2035-06-15"
+    },
+    {
+      "id": "shabbat",
+      "date": "2035-06-22",
+      "requiresAlert": true,
+      "type": "SHABBAT",
       "isSecondDay": false,
-      "name": "שבת פרשת קורח",
-      "requiresAlert": true
+      "name": "שבת פרשת שלח־לך"
+    },
+    {
+      "id": "shabbat",
+      "date": "2035-06-29",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "name": "שבת פרשת קורח"
     },
     {
       "name": "שבת פרשת חוקת",
       "isSecondDay": false,
+      "type": "SHABBAT",
       "requiresAlert": true,
       "date": "2035-07-06",
-      "type": "SHABBAT",
       "id": "shabbat"
     },
     {
       "date": "2035-07-13",
-      "name": "שבת פרשת בלק",
+      "id": "shabbat",
+      "type": "SHABBAT",
       "requiresAlert": true,
       "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat"
+      "name": "שבת פרשת בלק"
     },
     {
+      "requiresAlert": true,
       "type": "SHABBAT",
       "id": "shabbat",
-      "requiresAlert": true,
+      "date": "2035-07-20",
       "name": "שבת פרשת פינחס",
-      "isSecondDay": false,
-      "date": "2035-07-20"
+      "isSecondDay": false
     },
     {
-      "type": "SHABBAT",
-      "id": "shabbat",
+      "name": "שבת פרשת מטות",
       "isSecondDay": false,
       "requiresAlert": true,
-      "name": "שבת פרשת מטות",
+      "type": "SHABBAT",
+      "id": "shabbat",
       "date": "2035-07-27"
     },
     {
-      "requiresAlert": true,
-      "isSecondDay": false,
       "name": "שבת פרשת מסעי",
-      "date": "2035-08-03",
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "date": "2035-08-10",
-      "name": "שבת פרשת דברים",
+      "isSecondDay": false,
       "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "isSecondDay": false,
-      "name": "Tish’a B’Av",
-      "requiresAlert": false,
-      "date": "2035-08-13",
-      "type": "HOLIDAY",
-      "id": "Tish’a_B’Av"
-    },
-    {
       "type": "SHABBAT",
       "id": "shabbat",
-      "date": "2035-08-17",
-      "name": "שבת פרשת ואתחנן",
+      "date": "2035-08-03"
+    },
+    {
+      "name": "שבת פרשת דברים",
+      "isSecondDay": false,
+      "type": "SHABBAT",
       "requiresAlert": true,
+      "date": "2035-08-10",
+      "id": "shabbat"
+    },
+    {
+      "name": "Tish’a B’Av",
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "id": "Tish’a_B’Av",
+      "date": "2035-08-13"
+    },
+    {
+      "id": "shabbat",
+      "date": "2035-08-17",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "name": "שבת פרשת ואתחנן"
+    },
+    {
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "id": "Tu_B’Av",
+      "date": "2035-08-19",
+      "name": "Tu B’Av",
       "isSecondDay": false
     },
     {
-      "date": "2035-08-19",
-      "requiresAlert": false,
-      "isSecondDay": false,
-      "name": "Tu B’Av",
-      "type": "HOLIDAY",
-      "id": "Tu_B’Av"
-    },
-    {
+      "type": "SHABBAT",
+      "requiresAlert": true,
       "date": "2035-08-24",
+      "id": "shabbat",
       "name": "שבת פרשת עקב",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "id": "shabbat"
+      "isSecondDay": false
     },
     {
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "requiresAlert": true,
       "isSecondDay": false,
       "name": "שבת פרשת ראה",
-      "date": "2035-08-31"
+      "id": "shabbat",
+      "date": "2035-08-31",
+      "requiresAlert": true,
+      "type": "SHABBAT"
     },
     {
-      "date": "2035-09-07",
-      "requiresAlert": true,
-      "isSecondDay": false,
       "name": "שבת פרשת שופטים",
+      "isSecondDay": false,
       "type": "SHABBAT",
+      "requiresAlert": true,
+      "date": "2035-09-07",
       "id": "shabbat"
     },
     {
-      "type": "SHABBAT",
+      "isSecondDay": false,
+      "name": "שבת פרשת כי־תצא",
       "id": "shabbat",
       "date": "2035-09-14",
       "requiresAlert": true,
-      "name": "שבת פרשת כי־תצא",
-      "isSecondDay": false
+      "type": "SHABBAT"
     },
     {
-      "type": "SHABBAT",
       "id": "shabbat",
       "date": "2035-09-21",
-      "name": "שבת פרשת כי־תבוא",
       "requiresAlert": true,
-      "isSecondDay": false
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "name": "שבת פרשת כי־תבוא"
     },
     {
+      "name": "שבת פרשת נצבים-וילך",
+      "isSecondDay": false,
+      "requiresAlert": true,
       "type": "SHABBAT",
       "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "name": "שבת פרשת נצבים-וילך",
       "date": "2035-09-28"
     },
     {
       "date": "2035-10-03",
-      "requiresAlert": true,
-      "name": "ראש השנה",
-      "isSecondDay": false,
+      "id": "ראש_השנה",
       "type": "HOLIDAY",
-      "id": "ראש_השנה"
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "ראש השנה"
     },
     {
-      "name": "ראש השנה (יום ב')",
-      "isSecondDay": true,
-      "requiresAlert": false,
       "date": "2035-10-04",
+      "id": "ראש_השנה_(יום_ב')",
       "type": "HOLIDAY",
-      "id": "ראש_השנה_(יום_ב')"
+      "requiresAlert": false,
+      "isSecondDay": true,
+      "name": "ראש השנה (יום ב')"
     },
     {
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "requiresAlert": true,
+      "isSecondDay": false,
       "name": "שבת פרשת האזינו",
-      "isSecondDay": false,
-      "date": "2035-10-05"
+      "date": "2035-10-05",
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "requiresAlert": true
     },
     {
-      "type": "HOLIDAY",
-      "id": "שבת_-_יום_הכיפורים",
-      "requiresAlert": true,
+      "isSecondDay": false,
       "name": "שבת - יום הכיפורים",
-      "isSecondDay": false,
-      "date": "2035-10-12"
+      "id": "שבת_-_יום_הכיפורים",
+      "date": "2035-10-12",
+      "requiresAlert": true,
+      "type": "HOLIDAY"
     },
     {
+      "name": "חג הסוכות",
+      "isSecondDay": false,
+      "requiresAlert": true,
       "type": "HOLIDAY",
       "id": "חג_הסוכות",
-      "name": "חג הסוכות",
-      "requiresAlert": true,
-      "isSecondDay": false,
       "date": "2035-10-17"
     },
     {
-      "requiresAlert": false,
-      "isSecondDay": false,
       "name": "Sukkot II",
-      "date": "2035-10-18",
+      "isSecondDay": false,
       "type": "HOLIDAY",
+      "requiresAlert": false,
+      "date": "2035-10-18",
       "id": "Sukkot_II"
     },
     {
-      "type": "HOLIDAY",
-      "id": "שבת_-_חול_המועד_סוכות",
-      "date": "2035-10-19",
       "isSecondDay": false,
       "name": "שבת - חול המועד סוכות",
+      "date": "2035-10-19",
+      "id": "שבת_-_חול_המועד_סוכות",
+      "type": "HOLIDAY",
       "requiresAlert": true
     },
     {
+      "name": "חול המועד סוכות",
+      "isSecondDay": false,
+      "requiresAlert": false,
       "type": "HOLIDAY",
       "id": "חול_המועד_סוכות",
-      "date": "2035-10-20",
+      "date": "2035-10-20"
+    },
+    {
+      "date": "2035-10-21",
+      "id": "חול_המועד_סוכות",
+      "type": "HOLIDAY",
       "requiresAlert": false,
+      "isSecondDay": false,
+      "name": "חול המועד סוכות"
+    },
+    {
+      "isSecondDay": false,
       "name": "חול המועד סוכות",
+      "date": "2035-10-22",
+      "id": "חול_המועד_סוכות",
+      "type": "HOLIDAY",
+      "requiresAlert": false
+    },
+    {
+      "id": "Sukkot_VII_(Hoshana_Raba)",
+      "date": "2035-10-23",
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "name": "Sukkot VII (Hoshana Raba)"
+    },
+    {
+      "type": "HOLIDAY",
+      "requiresAlert": true,
+      "date": "2035-10-24",
+      "id": "שמיני_עצרת_-_שמחת_תורה",
+      "name": "שמיני עצרת - שמחת תורה",
       "isSecondDay": false
     },
     {
-      "type": "HOLIDAY",
-      "id": "חול_המועד_סוכות",
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "name": "חול המועד סוכות",
-      "date": "2035-10-21"
-    },
-    {
-      "date": "2035-10-22",
-      "requiresAlert": false,
-      "isSecondDay": false,
-      "name": "חול המועד סוכות",
-      "type": "HOLIDAY",
-      "id": "חול_המועד_סוכות"
-    },
-    {
-      "date": "2035-10-23",
-      "name": "Sukkot VII (Hoshana Raba)",
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "id": "Sukkot_VII_(Hoshana_Raba)"
-    },
-    {
-      "type": "HOLIDAY",
-      "id": "שמיני_עצרת_-_שמחת_תורה",
-      "date": "2035-10-24",
-      "name": "שמיני עצרת - שמחת תורה",
-      "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
-      "isSecondDay": true,
-      "requiresAlert": false,
-      "name": "שמחת תורה",
       "date": "2035-10-25",
+      "id": "שמחת_תורה",
       "type": "HOLIDAY",
-      "id": "שמחת_תורה"
+      "requiresAlert": false,
+      "isSecondDay": true,
+      "name": "שמחת תורה"
     },
     {
+      "date": "2035-10-26",
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת בראשית"
+    },
+    {
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "date": "2035-11-02",
+      "id": "shabbat",
+      "name": "שבת פרשת נח",
+      "isSecondDay": false
+    },
+    {
+      "name": "שבת פרשת לך־לך",
+      "isSecondDay": false,
+      "requiresAlert": true,
       "type": "SHABBAT",
       "id": "shabbat",
-      "requiresAlert": true,
-      "name": "שבת פרשת בראשית",
-      "isSecondDay": false,
-      "date": "2035-10-26"
+      "date": "2035-11-09"
     },
     {
-      "date": "2035-11-02",
-      "requiresAlert": true,
-      "name": "שבת פרשת נח",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "name": "שבת פרשת לך־לך",
-      "date": "2035-11-09",
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "isSecondDay": false,
-      "requiresAlert": true,
       "name": "שבת פרשת וירא",
-      "date": "2035-11-16",
+      "isSecondDay": false,
       "type": "SHABBAT",
+      "requiresAlert": true,
+      "date": "2035-11-16",
       "id": "shabbat"
     },
     {
       "isSecondDay": false,
       "name": "שבת פרשת חיי שרה",
-      "requiresAlert": true,
       "date": "2035-11-23",
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "type": "SHABBAT",
       "id": "shabbat",
-      "date": "2035-11-30",
-      "isSecondDay": false,
-      "name": "שבת פרשת תולדות",
+      "type": "SHABBAT",
       "requiresAlert": true
     },
     {
-      "name": "שבת פרשת ויצא",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "date": "2035-12-07",
       "type": "SHABBAT",
-      "id": "shabbat"
+      "requiresAlert": true,
+      "date": "2035-11-30",
+      "id": "shabbat",
+      "name": "שבת פרשת תולדות",
+      "isSecondDay": false
     },
     {
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "date": "2035-12-07",
+      "id": "shabbat",
+      "name": "שבת פרשת ויצא",
+      "isSecondDay": false
+    },
+    {
+      "isSecondDay": false,
+      "name": "שבת פרשת וישלח",
+      "id": "shabbat",
       "date": "2035-12-14",
       "requiresAlert": true,
-      "name": "שבת פרשת וישלח",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat"
+      "type": "SHABBAT"
     },
     {
-      "type": "SHABBAT",
       "id": "shabbat",
-      "isSecondDay": false,
-      "name": "שבת פרשת וישב",
+      "date": "2035-12-21",
       "requiresAlert": true,
-      "date": "2035-12-21"
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "name": "שבת פרשת וישב"
     },
     {
-      "isSecondDay": false,
-      "requiresAlert": false,
       "name": "חנוכה (נר ראשון)",
-      "date": "2035-12-24",
+      "isSecondDay": false,
       "type": "HOLIDAY",
+      "requiresAlert": false,
+      "date": "2035-12-24",
       "id": "חנוכה_(נר_ראשון)"
     },
     {
       "date": "2035-12-25",
+      "id": "חנוכה",
+      "type": "HOLIDAY",
       "requiresAlert": false,
       "isSecondDay": false,
-      "name": "חנוכה",
-      "type": "HOLIDAY",
-      "id": "חנוכה"
+      "name": "חנוכה"
     },
     {
-      "type": "HOLIDAY",
-      "id": "חנוכה",
-      "date": "2035-12-26",
       "isSecondDay": false,
       "name": "חנוכה",
+      "date": "2035-12-26",
+      "id": "חנוכה",
+      "type": "HOLIDAY",
       "requiresAlert": false
     },
     {
-      "type": "HOLIDAY",
-      "id": "חנוכה",
-      "isSecondDay": false,
       "name": "חנוכה",
+      "isSecondDay": false,
+      "type": "HOLIDAY",
       "requiresAlert": false,
-      "date": "2035-12-27"
+      "date": "2035-12-27",
+      "id": "חנוכה"
     },
     {
+      "isSecondDay": false,
+      "name": "שבת פרשת מקץ",
+      "id": "shabbat",
       "date": "2035-12-28",
       "requiresAlert": true,
-      "name": "שבת פרשת מקץ",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat"
+      "type": "SHABBAT"
     },
     {
-      "requiresAlert": false,
-      "name": "חנוכה",
       "isSecondDay": false,
+      "name": "חנוכה",
       "date": "2035-12-29",
+      "id": "חנוכה",
       "type": "HOLIDAY",
-      "id": "חנוכה"
+      "requiresAlert": false
     },
     {
-      "date": "2035-12-30",
-      "isSecondDay": false,
       "name": "חנוכה",
+      "isSecondDay": false,
       "requiresAlert": false,
       "type": "HOLIDAY",
-      "id": "חנוכה"
+      "id": "חנוכה",
+      "date": "2035-12-30"
     }
-  ]
+  ],
+  "updatedAt": "2035-01-12T18:44:35.806Z"
 }
