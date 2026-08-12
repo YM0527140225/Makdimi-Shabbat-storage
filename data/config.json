@@ -1,9 +1,30 @@
 {
-  "version": 1786540932836,
-  "updatedAt": "2026-08-12T13:22:12.836Z",
+  "version": 1786541133742,
+  "updatedAt": "2026-08-12T13:25:33.742Z",
   "settings": {
-    "hasPendingChanges": false,
+    "alertTitles": [
+      "הדלקת נרות | בעוד 20 דקות",
+      "הדלקת נרות | בעוד 10 דקות",
+      "הדלקת נרות:"
+    ],
+    "alertTiming": [
+      "END",
+      "END",
+      "END"
+    ],
     "genreAlertSettings": {
+      "צופרים כרמיאל": {
+        "alertTiming": [
+          "END",
+          "END",
+          "END"
+        ],
+        "alertTitles": [
+          "הדלקת נרות | בעוד 20 דקות",
+          "הדלקת נרות | בעוד 10 דקות",
+          "הדלקת נרות:"
+        ]
+      },
       "מודיעין עילית": {
         "alertTiming": [
           "START",
@@ -15,47 +36,26 @@
           "הדלקת נרות | בעוד 10 דקות",
           "הדלקת נרות:"
         ]
-      },
-      "צופרים כרמיאל": {
-        "alertTitles": [
-          "הדלקת נרות | בעוד 20 דקות",
-          "הדלקת נרות | בעוד 10 דקות",
-          "הדלקת נרות:"
-        ],
-        "alertTiming": [
-          "END",
-          "END",
-          "END"
-        ]
       }
     },
-    "lastPublished": "12.8.2026, 16:22:12",
-    "configVersion": 1765715807569,
-    "alertTiming": [
-      "END",
-      "END",
-      "END"
-    ],
+    "dataVersion": 1786541133742,
     "windowsInstallerDownloadUrl": "https://raw.githubusercontent.com/YM0527140225/Makdimi-Shabbat-storage/main/software/makdimi-shabbat-x64-setup.exe",
+    "publishedWindowsVersion": "1.0.13",
+    "configVersion": 1765715807569,
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.makdimi.shabbat",
+    "githubParams": {
+      "username": "YM0527140225",
+      "repo": "Makdimi-Shabbat-storage"
+    },
     "genres": [
       "ashkenazi",
       "מודיעין עילית",
       "*כרמיאל",
       "צופרים כרמיאל"
     ],
-    "disableAudioBackup": false,
-    "publishedWindowsVersion": "1.0.7",
-    "alertTitles": [
-      "הדלקת נרות | בעוד 20 דקות",
-      "הדלקת נרות | בעוד 10 דקות",
-      "הדלקת נרות:"
-    ],
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.makdimi.shabbat",
-    "githubParams": {
-      "username": "YM0527140225",
-      "repo": "Makdimi-Shabbat-storage"
-    },
-    "dataVersion": 1786540932837
+    "hasPendingChanges": false,
+    "lastPublished": "12.8.2026, 16:25:33",
+    "disableAudioBackup": false
   },
   "songs": [
     {
