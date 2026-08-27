@@ -1,1085 +1,1085 @@
 {
+  "region": "diaspora",
+  "year": 2032,
+  "updatedAt": "2026-08-14T15:26:39.779Z",
   "events": [
     {
       "isSecondDay": false,
       "type": "SHABBAT",
       "id": "shabbat",
       "name": "שבת פרשת שמות",
-      "date": "2032-01-02",
-      "requiresAlert": true
+      "requiresAlert": true,
+      "date": "2032-01-02"
     },
     {
-      "date": "2032-01-09",
-      "requiresAlert": true,
+      "type": "SHABBAT",
       "isSecondDay": false,
       "name": "שבת פרשת וארא",
-      "id": "shabbat",
-      "type": "SHABBAT"
+      "requiresAlert": true,
+      "date": "2032-01-09",
+      "id": "shabbat"
     },
     {
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "isSecondDay": false,
       "date": "2032-01-16",
       "requiresAlert": true,
-      "name": "שבת פרשת בא",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "isSecondDay": false
+      "name": "שבת פרשת בא"
     },
     {
-      "type": "SHABBAT",
       "name": "שבת פרשת בשלח",
-      "id": "shabbat",
+      "requiresAlert": true,
       "date": "2032-01-23",
+      "type": "SHABBAT",
       "isSecondDay": false,
-      "requiresAlert": true
+      "id": "shabbat"
     },
     {
-      "name": "ט\"ו בשבט",
-      "type": "HOLIDAY",
       "isSecondDay": false,
+      "type": "HOLIDAY",
       "requiresAlert": false,
+      "name": "ט\"ו בשבט",
       "id": "ט\"ו_בשבט",
       "date": "2032-01-27"
     },
     {
-      "requiresAlert": true,
-      "isSecondDay": false,
+      "name": "שבת פרשת יתרו",
       "date": "2032-01-30",
-      "id": "shabbat",
       "type": "SHABBAT",
-      "name": "שבת פרשת יתרו"
-    },
-    {
-      "requiresAlert": true,
-      "date": "2032-02-06",
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת משפטים"
-    },
-    {
-      "date": "2032-02-13",
-      "requiresAlert": true,
       "id": "shabbat",
       "isSecondDay": false,
-      "name": "שבת פרשת תרומה",
-      "type": "SHABBAT"
-    },
-    {
-      "date": "2032-02-20",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת תצוה"
-    },
-    {
-      "isSecondDay": false,
-      "name": "פורים",
-      "type": "HOLIDAY",
-      "requiresAlert": false,
-      "date": "2032-02-25",
-      "id": "פורים"
-    },
-    {
-      "isSecondDay": false,
-      "id": "שושן_פורים",
-      "requiresAlert": false,
-      "date": "2032-02-26",
-      "type": "HOLIDAY",
-      "name": "שושן פורים"
-    },
-    {
-      "requiresAlert": true,
-      "name": "שבת פרשת כי תשא",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "date": "2032-02-27",
-      "id": "shabbat"
-    },
-    {
-      "id": "shabbat",
-      "isSecondDay": false,
-      "date": "2032-03-05",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "name": "שבת פרשת ויקהל־פקודי"
-    },
-    {
-      "isSecondDay": false,
-      "name": "שבת פרשת ויקרא",
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "date": "2032-03-12",
-      "id": "shabbat"
-    },
-    {
-      "id": "shabbat",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת צו",
-      "date": "2032-03-19",
       "requiresAlert": true
     },
     {
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "שבת - חג הפסח (ליל הסדר)",
-      "id": "שבת_-_חג_הפסח_(ליל_הסדר)",
       "requiresAlert": true,
-      "date": "2032-03-26"
+      "type": "SHABBAT",
+      "name": "שבת פרשת משפטים",
+      "id": "shabbat",
+      "date": "2032-02-06",
+      "isSecondDay": false
+    },
+    {
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "name": "שבת פרשת תרומה",
+      "id": "shabbat",
+      "date": "2032-02-13",
+      "type": "SHABBAT"
+    },
+    {
+      "type": "SHABBAT",
+      "name": "שבת פרשת תצוה",
+      "date": "2032-02-20",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "isSecondDay": false
     },
     {
       "requiresAlert": false,
+      "id": "פורים",
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "date": "2032-02-25",
+      "name": "פורים"
+    },
+    {
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "name": "שושן פורים",
+      "date": "2032-02-26",
+      "id": "שושן_פורים",
+      "requiresAlert": false
+    },
+    {
+      "type": "SHABBAT",
+      "name": "שבת פרשת כי תשא",
+      "date": "2032-02-27",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "isSecondDay": false
+    },
+    {
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "date": "2032-03-05",
+      "isSecondDay": false,
+      "name": "שבת פרשת ויקהל־פקודי",
+      "requiresAlert": true
+    },
+    {
+      "id": "shabbat",
+      "name": "שבת פרשת ויקרא",
+      "date": "2032-03-12",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "type": "SHABBAT"
+    },
+    {
+      "id": "shabbat",
+      "requiresAlert": true,
+      "date": "2032-03-19",
+      "name": "שבת פרשת צו",
+      "isSecondDay": false,
+      "type": "SHABBAT"
+    },
+    {
+      "isSecondDay": false,
+      "name": "שבת - חג הפסח (ליל הסדר)",
+      "date": "2032-03-26",
+      "type": "HOLIDAY",
+      "requiresAlert": true,
+      "id": "שבת_-_חג_הפסח_(ליל_הסדר)"
+    },
+    {
+      "isSecondDay": true,
+      "type": "HOLIDAY",
       "date": "2032-03-27",
-      "name": "חג הפסח (יום טוב שני)",
-      "type": "HOLIDAY",
       "id": "חג_הפסח_(יום_טוב_שני)",
-      "isSecondDay": true
-    },
-    {
-      "id": "חול_המועד_פסח",
-      "isSecondDay": false,
-      "date": "2032-03-28",
-      "type": "HOLIDAY",
       "requiresAlert": false,
-      "name": "חול המועד פסח"
+      "name": "חג הפסח (יום טוב שני)"
     },
     {
+      "type": "HOLIDAY",
+      "id": "חול_המועד_פסח",
+      "requiresAlert": false,
+      "name": "חול המועד פסח",
+      "isSecondDay": false,
+      "date": "2032-03-28"
+    },
+    {
+      "isSecondDay": false,
+      "name": "חול המועד פסח",
       "date": "2032-03-29",
-      "isSecondDay": false,
-      "requiresAlert": false,
       "id": "חול_המועד_פסח",
-      "name": "חול המועד פסח",
-      "type": "HOLIDAY"
+      "type": "HOLIDAY",
+      "requiresAlert": false
     },
     {
-      "date": "2032-03-30",
-      "requiresAlert": false,
-      "name": "חול המועד פסח",
       "type": "HOLIDAY",
+      "requiresAlert": false,
+      "date": "2032-03-30",
+      "name": "חול המועד פסח",
       "id": "חול_המועד_פסח",
       "isSecondDay": false
     },
     {
-      "date": "2032-03-31",
       "id": "חול_המועד_פסח",
-      "isSecondDay": false,
       "requiresAlert": false,
+      "date": "2032-03-31",
       "name": "חול המועד פסח",
-      "type": "HOLIDAY"
+      "type": "HOLIDAY",
+      "isSecondDay": false
     },
     {
+      "id": "שביעי_של_פסח",
+      "type": "HOLIDAY",
+      "requiresAlert": true,
       "date": "2032-04-01",
       "isSecondDay": false,
-      "requiresAlert": true,
-      "id": "שביעי_של_פסח",
-      "name": "שביעי של פסח",
-      "type": "HOLIDAY"
+      "name": "שביעי של פסח"
     },
     {
-      "name": "שבת - אחרון של פסח",
       "type": "HOLIDAY",
-      "requiresAlert": false,
       "isSecondDay": true,
       "date": "2032-04-02",
-      "id": "שבת_-_אחרון_של_פסח"
+      "id": "שבת_-_אחרון_של_פסח",
+      "requiresAlert": false,
+      "name": "שבת - אחרון של פסח"
     },
     {
       "name": "שבת פרשת שמיני",
-      "requiresAlert": true,
+      "date": "2032-04-09",
       "type": "SHABBAT",
-      "id": "shabbat",
+      "requiresAlert": true,
       "isSecondDay": false,
-      "date": "2032-04-09"
+      "id": "shabbat"
     },
     {
       "isSecondDay": false,
-      "requiresAlert": true,
+      "id": "shabbat",
       "type": "SHABBAT",
+      "date": "2032-04-16",
       "name": "שבת פרשת תזריע־מצרע",
-      "id": "shabbat",
-      "date": "2032-04-16"
+      "requiresAlert": true
     },
     {
-      "id": "shabbat",
       "type": "SHABBAT",
+      "isSecondDay": false,
+      "date": "2032-04-23",
+      "id": "shabbat",
       "name": "שבת פרשת אחרי מות־קדשים",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "date": "2032-04-23"
+      "requiresAlert": true
     },
     {
-      "id": "shabbat",
+      "type": "SHABBAT",
       "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת אמור",
       "date": "2032-04-30",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת אמור"
+      "id": "shabbat"
     },
     {
       "type": "SHABBAT",
-      "isSecondDay": false,
+      "id": "shabbat",
+      "date": "2032-05-07",
       "name": "שבת פרשת בהר־בחקתי",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "date": "2032-05-07"
+      "isSecondDay": false,
+      "requiresAlert": true
     },
     {
-      "date": "2032-05-14",
-      "id": "shabbat",
       "isSecondDay": false,
+      "id": "shabbat",
       "type": "SHABBAT",
+      "date": "2032-05-14",
       "requiresAlert": true,
       "name": "שבת פרשת במדבר"
     },
     {
-      "requiresAlert": false,
+      "id": "חג_השבועות",
+      "isSecondDay": true,
       "date": "2032-05-15",
-      "name": "חג השבועות",
-      "type": "HOLIDAY",
-      "isSecondDay": true,
-      "id": "חג_השבועות"
-    },
-    {
       "requiresAlert": false,
-      "name": "חג השבועות (יום טוב שני)",
-      "type": "HOLIDAY",
-      "isSecondDay": true,
+      "name": "חג השבועות",
+      "type": "HOLIDAY"
+    },
+    {
+      "id": "חג_השבועות_(יום_טוב_שני)",
       "date": "2032-05-16",
-      "id": "חג_השבועות_(יום_טוב_שני)"
+      "isSecondDay": true,
+      "name": "חג השבועות (יום טוב שני)",
+      "requiresAlert": false,
+      "type": "HOLIDAY"
     },
     {
+      "name": "שבת פרשת נשא",
       "date": "2032-05-21",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "requiresAlert": true,
       "type": "SHABBAT",
-      "name": "שבת פרשת נשא"
-    },
-    {
-      "name": "שבת פרשת בהעלתך",
-      "type": "SHABBAT",
-      "date": "2032-05-28",
       "requiresAlert": true,
       "isSecondDay": false,
       "id": "shabbat"
     },
     {
+      "isSecondDay": false,
+      "name": "שבת פרשת בהעלתך",
+      "requiresAlert": true,
+      "date": "2032-05-28",
       "type": "SHABBAT",
+      "id": "shabbat"
+    },
+    {
+      "type": "SHABBAT",
+      "date": "2032-06-04",
       "id": "shabbat",
       "isSecondDay": false,
       "name": "שבת פרשת שלח־לך",
-      "date": "2032-06-04",
       "requiresAlert": true
     },
     {
       "type": "SHABBAT",
-      "requiresAlert": true,
-      "name": "שבת פרשת קורח",
+      "date": "2032-06-11",
       "id": "shabbat",
+      "name": "שבת פרשת קורח",
       "isSecondDay": false,
-      "date": "2032-06-11"
+      "requiresAlert": true
     },
     {
-      "date": "2032-06-18",
-      "isSecondDay": false,
-      "name": "שבת פרשת חוקת",
       "requiresAlert": true,
       "type": "SHABBAT",
+      "id": "shabbat",
+      "name": "שבת פרשת חוקת",
+      "date": "2032-06-18",
+      "isSecondDay": false
+    },
+    {
+      "id": "shabbat",
+      "requiresAlert": true,
+      "date": "2032-06-25",
+      "name": "שבת פרשת בלק",
+      "isSecondDay": false,
+      "type": "SHABBAT"
+    },
+    {
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "id": "shabbat",
+      "name": "שבת פרשת פינחס",
+      "date": "2032-07-02"
+    },
+    {
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "id": "shabbat",
+      "name": "שבת פרשת מטות־מסעי",
+      "date": "2032-07-09"
+    },
+    {
+      "name": "שבת פרשת דברים",
+      "requiresAlert": true,
+      "date": "2032-07-16",
+      "type": "SHABBAT",
+      "isSecondDay": false,
       "id": "shabbat"
     },
     {
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "name": "שבת פרשת בלק",
-      "requiresAlert": true,
-      "date": "2032-06-25",
-      "isSecondDay": false
-    },
-    {
-      "requiresAlert": true,
-      "date": "2032-07-02",
-      "name": "שבת פרשת פינחס",
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "isSecondDay": false
-    },
-    {
-      "requiresAlert": true,
-      "date": "2032-07-09",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת מטות־מסעי"
-    },
-    {
-      "id": "shabbat",
-      "isSecondDay": false,
-      "date": "2032-07-16",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "name": "שבת פרשת דברים"
-    },
-    {
-      "name": "Tish’a B’Av (observed)",
-      "type": "HOLIDAY",
       "id": "Tish’a_B’Av_(observed)",
       "date": "2032-07-17",
-      "isSecondDay": false,
-      "requiresAlert": false
-    },
-    {
-      "isSecondDay": false,
-      "id": "Tu_B’Av",
       "requiresAlert": false,
-      "type": "HOLIDAY",
-      "name": "Tu B’Av",
-      "date": "2032-07-22"
+      "name": "Tish’a B’Av (observed)",
+      "isSecondDay": false,
+      "type": "HOLIDAY"
     },
     {
+      "requiresAlert": false,
       "isSecondDay": false,
+      "name": "Tu B’Av",
+      "date": "2032-07-22",
+      "id": "Tu_B’Av",
+      "type": "HOLIDAY"
+    },
+    {
+      "requiresAlert": true,
       "type": "SHABBAT",
       "name": "שבת פרשת ואתחנן",
-      "requiresAlert": true,
+      "isSecondDay": false,
       "id": "shabbat",
       "date": "2032-07-23"
     },
     {
       "name": "שבת פרשת עקב",
-      "requiresAlert": true,
+      "date": "2032-07-30",
       "type": "SHABBAT",
-      "isSecondDay": false,
+      "requiresAlert": true,
       "id": "shabbat",
-      "date": "2032-07-30"
+      "isSecondDay": false
     },
     {
+      "id": "shabbat",
+      "isSecondDay": false,
+      "date": "2032-08-06",
       "name": "שבת פרשת ראה",
-      "isSecondDay": false,
-      "type": "SHABBAT",
       "requiresAlert": true,
-      "id": "shabbat",
-      "date": "2032-08-06"
+      "type": "SHABBAT"
     },
     {
       "requiresAlert": true,
-      "date": "2032-08-13",
+      "type": "SHABBAT",
       "isSecondDay": false,
+      "id": "shabbat",
       "name": "שבת פרשת שופטים",
-      "type": "SHABBAT",
-      "id": "shabbat"
+      "date": "2032-08-13"
     },
     {
-      "isSecondDay": false,
-      "date": "2032-08-20",
-      "id": "shabbat",
       "type": "SHABBAT",
       "name": "שבת פרשת כי־תצא",
-      "requiresAlert": true
+      "date": "2032-08-20",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "isSecondDay": false
     },
     {
       "isSecondDay": false,
-      "date": "2032-08-27",
-      "name": "שבת פרשת כי־תבוא",
       "type": "SHABBAT",
+      "requiresAlert": true,
+      "name": "שבת פרשת כי־תבוא",
       "id": "shabbat",
-      "requiresAlert": true
+      "date": "2032-08-27"
     },
     {
-      "date": "2032-09-03",
       "isSecondDay": false,
-      "id": "shabbat",
       "requiresAlert": true,
       "type": "SHABBAT",
-      "name": "שבת פרשת נצבים"
+      "name": "שבת פרשת נצבים",
+      "id": "shabbat",
+      "date": "2032-09-03"
     },
     {
       "id": "ראש_השנה",
-      "type": "HOLIDAY",
-      "requiresAlert": true,
-      "name": "ראש השנה",
+      "isSecondDay": false,
       "date": "2032-09-05",
-      "isSecondDay": false
+      "name": "ראש השנה",
+      "requiresAlert": true,
+      "type": "HOLIDAY"
     },
     {
-      "date": "2032-09-06",
+      "type": "HOLIDAY",
       "isSecondDay": true,
       "name": "ראש השנה (יום ב')",
-      "type": "HOLIDAY",
-      "requiresAlert": false,
-      "id": "ראש_השנה_(יום_ב')"
-    },
-    {
-      "requiresAlert": true,
-      "date": "2032-09-10",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת וילך"
-    },
-    {
-      "id": "יום_הכיפורים",
-      "isSecondDay": false,
-      "date": "2032-09-14",
-      "requiresAlert": true,
-      "type": "HOLIDAY",
-      "name": "יום הכיפורים"
-    },
-    {
-      "date": "2032-09-17",
-      "name": "שבת פרשת האזינו",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false
-    },
-    {
-      "date": "2032-09-19",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "name": "חג הסוכות",
-      "type": "HOLIDAY",
-      "id": "חג_הסוכות"
-    },
-    {
-      "requiresAlert": false,
-      "date": "2032-09-20",
-      "isSecondDay": true,
-      "name": "חג הסוכות (יום טוב שני)",
-      "type": "HOLIDAY",
-      "id": "חג_הסוכות_(יום_טוב_שני)"
-    },
-    {
-      "id": "חול_המועד_סוכות",
-      "type": "HOLIDAY",
-      "name": "חול המועד סוכות",
-      "requiresAlert": false,
-      "date": "2032-09-21",
-      "isSecondDay": false
-    },
-    {
-      "id": "חול_המועד_סוכות",
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "name": "חול המועד סוכות",
-      "date": "2032-09-22"
-    },
-    {
-      "requiresAlert": false,
-      "id": "חול_המועד_סוכות",
-      "date": "2032-09-23",
-      "type": "HOLIDAY",
-      "name": "חול המועד סוכות",
-      "isSecondDay": false
-    },
-    {
-      "date": "2032-09-24",
-      "id": "שבת_-_חול_המועד_סוכות",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "requiresAlert": true,
-      "name": "שבת - חול המועד סוכות"
-    },
-    {
-      "type": "HOLIDAY",
-      "name": "Sukkot VII (Hoshana Raba)",
-      "isSecondDay": false,
-      "id": "Sukkot_VII_(Hoshana_Raba)",
-      "date": "2032-09-25",
+      "date": "2032-09-06",
+      "id": "ראש_השנה_(יום_ב')",
       "requiresAlert": false
     },
     {
       "isSecondDay": false,
-      "name": "שמיני עצרת - שמחת תורה",
+      "type": "SHABBAT",
       "requiresAlert": true,
-      "type": "HOLIDAY",
-      "date": "2032-09-26",
-      "id": "שמיני_עצרת_-_שמחת_תורה"
+      "id": "shabbat",
+      "name": "שבת פרשת וילך",
+      "date": "2032-09-10"
     },
     {
-      "id": "שמחת_תורה",
+      "name": "יום הכיפורים",
+      "isSecondDay": false,
+      "id": "יום_הכיפורים",
+      "date": "2032-09-14",
+      "type": "HOLIDAY",
+      "requiresAlert": true
+    },
+    {
+      "isSecondDay": false,
+      "date": "2032-09-17",
+      "id": "shabbat",
+      "name": "שבת פרשת האזינו",
+      "requiresAlert": true,
+      "type": "SHABBAT"
+    },
+    {
+      "type": "HOLIDAY",
+      "requiresAlert": true,
+      "name": "חג הסוכות",
+      "date": "2032-09-19",
+      "isSecondDay": false,
+      "id": "חג_הסוכות"
+    },
+    {
+      "type": "HOLIDAY",
+      "name": "חג הסוכות (יום טוב שני)",
+      "date": "2032-09-20",
       "isSecondDay": true,
-      "date": "2032-09-27",
-      "type": "HOLIDAY",
+      "id": "חג_הסוכות_(יום_טוב_שני)",
+      "requiresAlert": false
+    },
+    {
+      "id": "חול_המועד_סוכות",
+      "isSecondDay": false,
+      "date": "2032-09-21",
+      "name": "חול המועד סוכות",
       "requiresAlert": false,
-      "name": "שמחת תורה"
-    },
-    {
-      "requiresAlert": true,
-      "date": "2032-10-01",
-      "name": "שבת פרשת בראשית",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "isSecondDay": false
-    },
-    {
-      "name": "שבת פרשת נח",
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "date": "2032-10-08",
-      "isSecondDay": false
-    },
-    {
-      "date": "2032-10-15",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "name": "שבת פרשת לך־לך"
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "date": "2032-10-22",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת וירא"
-    },
-    {
-      "date": "2032-10-29",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת חיי שרה",
-      "type": "SHABBAT"
-    },
-    {
-      "date": "2032-11-05",
-      "requiresAlert": true,
-      "name": "שבת פרשת תולדות",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "id": "shabbat"
-    },
-    {
-      "name": "שבת פרשת ויצא",
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "date": "2032-11-12",
-      "id": "shabbat"
-    },
-    {
-      "date": "2032-11-19",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "isSecondDay": false,
-      "name": "שבת פרשת וישלח",
-      "type": "SHABBAT"
-    },
-    {
-      "type": "SHABBAT",
-      "name": "שבת פרשת וישב",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "isSecondDay": false,
-      "date": "2032-11-26"
-    },
-    {
-      "isSecondDay": false,
-      "date": "2032-11-27",
-      "requiresAlert": false,
-      "id": "חנוכה",
-      "name": "חנוכה",
       "type": "HOLIDAY"
     },
     {
       "isSecondDay": false,
       "requiresAlert": false,
-      "name": "חנוכה",
+      "name": "חול המועד סוכות",
+      "date": "2032-09-22",
       "type": "HOLIDAY",
-      "id": "חנוכה",
-      "date": "2032-11-28"
+      "id": "חול_המועד_סוכות"
+    },
+    {
+      "requiresAlert": false,
+      "id": "חול_המועד_סוכות",
+      "name": "חול המועד סוכות",
+      "isSecondDay": false,
+      "date": "2032-09-23",
+      "type": "HOLIDAY"
+    },
+    {
+      "id": "שבת_-_חול_המועד_סוכות",
+      "date": "2032-09-24",
+      "requiresAlert": true,
+      "name": "שבת - חול המועד סוכות",
+      "isSecondDay": false,
+      "type": "HOLIDAY"
+    },
+    {
+      "requiresAlert": false,
+      "isSecondDay": false,
+      "name": "Sukkot VII (Hoshana Raba)",
+      "date": "2032-09-25",
+      "type": "HOLIDAY",
+      "id": "Sukkot_VII_(Hoshana_Raba)"
     },
     {
       "type": "HOLIDAY",
-      "id": "חנוכה",
-      "name": "חנוכה",
-      "requiresAlert": false,
       "isSecondDay": false,
-      "date": "2032-11-29"
+      "name": "שמיני עצרת - שמחת תורה",
+      "date": "2032-09-26",
+      "requiresAlert": true,
+      "id": "שמיני_עצרת_-_שמחת_תורה"
     },
     {
-      "isSecondDay": false,
+      "isSecondDay": true,
+      "type": "HOLIDAY",
+      "name": "שמחת תורה",
+      "date": "2032-09-27",
       "requiresAlert": false,
+      "id": "שמחת_תורה"
+    },
+    {
+      "type": "SHABBAT",
+      "name": "שבת פרשת בראשית",
+      "requiresAlert": true,
+      "date": "2032-10-01",
+      "id": "shabbat",
+      "isSecondDay": false
+    },
+    {
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "date": "2032-10-08",
+      "name": "שבת פרשת נח",
+      "id": "shabbat",
+      "isSecondDay": false
+    },
+    {
+      "date": "2032-10-15",
+      "id": "shabbat",
+      "name": "שבת פרשת לך־לך",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "isSecondDay": false
+    },
+    {
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "name": "שבת פרשת וירא",
+      "isSecondDay": false,
+      "date": "2032-10-22"
+    },
+    {
+      "name": "שבת פרשת חיי שרה",
+      "date": "2032-10-29",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "isSecondDay": false
+    },
+    {
+      "date": "2032-11-05",
+      "name": "שבת פרשת תולדות",
+      "isSecondDay": false,
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "requiresAlert": true
+    },
+    {
+      "date": "2032-11-12",
+      "id": "shabbat",
+      "name": "שבת פרשת ויצא",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "requiresAlert": true
+    },
+    {
+      "date": "2032-11-19",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "name": "שבת פרשת וישלח",
+      "type": "SHABBAT",
+      "isSecondDay": false
+    },
+    {
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "date": "2032-11-26",
+      "requiresAlert": true,
+      "name": "שבת פרשת וישב",
+      "isSecondDay": false
+    },
+    {
+      "requiresAlert": false,
+      "isSecondDay": false,
+      "name": "חנוכה",
+      "date": "2032-11-27",
+      "type": "HOLIDAY",
+      "id": "חנוכה"
+    },
+    {
+      "type": "HOLIDAY",
+      "name": "חנוכה",
+      "date": "2032-11-28",
+      "requiresAlert": false,
+      "isSecondDay": false,
+      "id": "חנוכה"
+    },
+    {
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "name": "חנוכה",
+      "isSecondDay": false,
+      "date": "2032-11-29",
+      "id": "חנוכה"
+    },
+    {
+      "requiresAlert": false,
+      "id": "חנוכה",
       "date": "2032-11-30",
       "name": "חנוכה",
-      "type": "HOLIDAY",
-      "id": "חנוכה"
+      "isSecondDay": false,
+      "type": "HOLIDAY"
     },
     {
-      "name": "חנוכה",
+      "isSecondDay": false,
       "type": "HOLIDAY",
       "requiresAlert": false,
-      "isSecondDay": false,
-      "date": "2032-12-01",
-      "id": "חנוכה"
+      "name": "חנוכה",
+      "id": "חנוכה",
+      "date": "2032-12-01"
     },
     {
-      "id": "חנוכה",
+      "type": "HOLIDAY",
       "date": "2032-12-02",
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "name": "חנוכה"
-    },
-    {
-      "date": "2032-12-03",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "name": "שבת פרשת מקץ",
-      "id": "shabbat",
-      "type": "SHABBAT"
-    },
-    {
-      "type": "HOLIDAY",
       "id": "חנוכה",
       "requiresAlert": false,
       "name": "חנוכה",
-      "isSecondDay": false,
-      "date": "2032-12-04"
+      "isSecondDay": false
     },
     {
+      "type": "SHABBAT",
+      "name": "שבת פרשת מקץ",
+      "isSecondDay": false,
+      "date": "2032-12-03",
+      "requiresAlert": true,
+      "id": "shabbat"
+    },
+    {
+      "name": "חנוכה",
+      "date": "2032-12-04",
+      "requiresAlert": false,
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "id": "חנוכה"
+    },
+    {
+      "isSecondDay": false,
+      "requiresAlert": true,
       "id": "shabbat",
-      "requiresAlert": true,
       "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת ויגש",
-      "date": "2032-12-10"
+      "date": "2032-12-10",
+      "name": "שבת פרשת ויגש"
     },
     {
-      "name": "שבת פרשת ויחי",
-      "type": "SHABBAT",
-      "isSecondDay": false,
       "requiresAlert": true,
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "name": "שבת פרשת ויחי",
       "date": "2032-12-17",
       "id": "shabbat"
     },
     {
-      "name": "שבת פרשת שמות",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true,
       "date": "2032-12-24",
-      "id": "shabbat"
+      "name": "שבת פרשת שמות",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "isSecondDay": false,
+      "type": "SHABBAT"
     }
   ],
   "hebrewByDate": {
-    "2032-02-07": {
-      "hebrewDay": 25,
-      "hebrewMonth": 5
-    },
-    "2032-06-10": {
+    "2032-05-11": {
       "hebrewDay": 1,
-      "hebrewMonth": 10
-    },
-    "2032-02-25": {
-      "hebrewMonth": 6,
-      "hebrewDay": 13
-    },
-    "2032-03-20": {
-      "hebrewDay": 8,
-      "hebrewMonth": 7
-    },
-    "2032-09-22": {
-      "hebrewMonth": 1,
-      "hebrewDay": 17
-    },
-    "2032-09-21": {
-      "hebrewDay": 16,
-      "hebrewMonth": 1
-    },
-    "2032-10-05": {
-      "hebrewMonth": 1,
-      "hebrewDay": 30
-    },
-    "2032-11-27": {
-      "hebrewMonth": 3,
-      "hebrewDay": 24
-    },
-    "2032-10-23": {
-      "hebrewDay": 18,
-      "hebrewMonth": 2
-    },
-    "2032-08-28": {
-      "hebrewMonth": 12,
-      "hebrewDay": 21
-    },
-    "2032-09-19": {
-      "hebrewDay": 14,
-      "hebrewMonth": 1
-    },
-    "2032-06-19": {
-      "hebrewMonth": 10,
-      "hebrewDay": 10
-    },
-    "2032-03-30": {
-      "hebrewDay": 18,
-      "hebrewMonth": 7
-    },
-    "2032-12-02": {
-      "hebrewDay": 29,
-      "hebrewMonth": 3
-    },
-    "2032-05-22": {
-      "hebrewMonth": 9,
-      "hebrewDay": 12
-    },
-    "2032-11-29": {
-      "hebrewDay": 26,
-      "hebrewMonth": 3
-    },
-    "2032-06-09": {
-      "hebrewDay": 30,
       "hebrewMonth": 9
-    },
-    "2032-10-09": {
-      "hebrewDay": 4,
-      "hebrewMonth": 2
-    },
-    "2032-12-04": {
-      "hebrewMonth": 4,
-      "hebrewDay": 2
-    },
-    "2032-05-16": {
-      "hebrewMonth": 9,
-      "hebrewDay": 6
-    },
-    "2032-03-26": {
-      "hebrewMonth": 7,
-      "hebrewDay": 14
-    },
-    "2032-09-11": {
-      "hebrewMonth": 1,
-      "hebrewDay": 6
-    },
-    "2032-09-25": {
-      "hebrewMonth": 1,
-      "hebrewDay": 20
-    },
-    "2032-09-04": {
-      "hebrewDay": 28,
-      "hebrewMonth": 12
-    },
-    "2032-01-17": {
-      "hebrewDay": 4,
-      "hebrewMonth": 5
-    },
-    "2032-07-17": {
-      "hebrewMonth": 11,
-      "hebrewDay": 9
-    },
-    "2032-07-10": {
-      "hebrewMonth": 11,
-      "hebrewDay": 2
-    },
-    "2032-04-12": {
-      "hebrewMonth": 8,
-      "hebrewDay": 1
-    },
-    "2032-06-26": {
-      "hebrewMonth": 10,
-      "hebrewDay": 17
-    },
-    "2032-11-13": {
-      "hebrewDay": 10,
-      "hebrewMonth": 3
-    },
-    "2032-06-05": {
-      "hebrewDay": 26,
-      "hebrewMonth": 9
-    },
-    "2032-12-11": {
-      "hebrewDay": 9,
-      "hebrewMonth": 4
-    },
-    "2032-09-06": {
-      "hebrewDay": 1,
-      "hebrewMonth": 1
-    },
-    "2032-05-29": {
-      "hebrewMonth": 9,
-      "hebrewDay": 19
-    },
-    "2032-10-06": {
-      "hebrewMonth": 2,
-      "hebrewDay": 1
-    },
-    "2032-01-03": {
-      "hebrewDay": 19,
-      "hebrewMonth": 4
-    },
-    "2032-04-29": {
-      "hebrewDay": 18,
-      "hebrewMonth": 8
-    },
-    "2032-09-20": {
-      "hebrewDay": 15,
-      "hebrewMonth": 1
-    },
-    "2032-06-12": {
-      "hebrewDay": 3,
-      "hebrewMonth": 10
-    },
-    "2032-11-06": {
-      "hebrewMonth": 3,
-      "hebrewDay": 3
-    },
-    "2032-01-14": {
-      "hebrewDay": 1,
-      "hebrewMonth": 5
-    },
-    "2032-04-03": {
-      "hebrewDay": 22,
-      "hebrewMonth": 7
-    },
-    "2032-09-24": {
-      "hebrewMonth": 1,
-      "hebrewDay": 19
-    },
-    "2032-04-01": {
-      "hebrewMonth": 7,
-      "hebrewDay": 20
-    },
-    "2032-09-18": {
-      "hebrewDay": 13,
-      "hebrewMonth": 1
-    },
-    "2032-02-28": {
-      "hebrewMonth": 6,
-      "hebrewDay": 16
     },
     "2032-07-23": {
       "hebrewMonth": 11,
       "hebrewDay": 15
     },
-    "2032-08-14": {
-      "hebrewMonth": 12,
-      "hebrewDay": 7
-    },
-    "2032-07-09": {
-      "hebrewMonth": 11,
-      "hebrewDay": 1
-    },
-    "2032-04-17": {
-      "hebrewDay": 6,
-      "hebrewMonth": 8
-    },
-    "2032-09-23": {
+    "2032-09-11": {
       "hebrewMonth": 1,
-      "hebrewDay": 18
-    },
-    "2032-02-13": {
-      "hebrewMonth": 6,
-      "hebrewDay": 1
-    },
-    "2032-12-25": {
-      "hebrewMonth": 4,
-      "hebrewDay": 23
-    },
-    "2032-08-07": {
-      "hebrewDay": 30,
-      "hebrewMonth": 11
-    },
-    "2032-04-10": {
-      "hebrewMonth": 7,
-      "hebrewDay": 29
-    },
-    "2032-07-18": {
-      "hebrewMonth": 11,
-      "hebrewDay": 10
-    },
-    "2032-04-11": {
-      "hebrewMonth": 7,
-      "hebrewDay": 30
+      "hebrewDay": 6
     },
     "2032-07-31": {
       "hebrewDay": 23,
       "hebrewMonth": 11
     },
-    "2032-10-30": {
-      "hebrewMonth": 2,
-      "hebrewDay": 25
-    },
-    "2032-03-27": {
-      "hebrewDay": 15,
-      "hebrewMonth": 7
-    },
-    "2032-12-18": {
-      "hebrewMonth": 4,
+    "2032-03-28": {
+      "hebrewMonth": 7,
       "hebrewDay": 16
     },
-    "2032-08-21": {
-      "hebrewDay": 14,
-      "hebrewMonth": 12
-    },
-    "2032-09-27": {
-      "hebrewDay": 22,
-      "hebrewMonth": 1
-    },
-    "2032-04-24": {
-      "hebrewMonth": 8,
-      "hebrewDay": 13
-    },
-    "2032-09-15": {
-      "hebrewDay": 10,
-      "hebrewMonth": 1
-    },
-    "2032-02-14": {
-      "hebrewDay": 2,
-      "hebrewMonth": 6
-    },
-    "2032-09-28": {
-      "hebrewDay": 23,
-      "hebrewMonth": 1
-    },
-    "2032-07-03": {
-      "hebrewMonth": 10,
-      "hebrewDay": 24
-    },
-    "2032-11-30": {
-      "hebrewMonth": 3,
-      "hebrewDay": 27
-    },
-    "2032-04-25": {
-      "hebrewMonth": 8,
-      "hebrewDay": 14
-    },
-    "2032-02-21": {
-      "hebrewMonth": 6,
-      "hebrewDay": 9
-    },
-    "2032-01-28": {
-      "hebrewDay": 15,
-      "hebrewMonth": 5
-    },
-    "2032-09-14": {
-      "hebrewDay": 9,
-      "hebrewMonth": 1
-    },
-    "2032-11-04": {
-      "hebrewDay": 1,
-      "hebrewMonth": 3
-    },
-    "2032-11-20": {
-      "hebrewDay": 17,
-      "hebrewMonth": 3
-    },
-    "2032-01-10": {
-      "hebrewMonth": 4,
-      "hebrewDay": 26
-    },
-    "2032-05-17": {
-      "hebrewDay": 7,
-      "hebrewMonth": 9
-    },
-    "2032-09-26": {
-      "hebrewDay": 21,
-      "hebrewMonth": 1
-    },
-    "2032-12-05": {
-      "hebrewMonth": 4,
-      "hebrewDay": 3
-    },
-    "2032-10-16": {
-      "hebrewMonth": 2,
-      "hebrewDay": 11
-    },
     "2032-11-28": {
-      "hebrewMonth": 3,
-      "hebrewDay": 25
+      "hebrewDay": 25,
+      "hebrewMonth": 3
     },
-    "2032-03-31": {
+    "2032-04-10": {
       "hebrewMonth": 7,
-      "hebrewDay": 19
-    },
-    "2032-03-06": {
-      "hebrewMonth": 6,
-      "hebrewDay": 23
+      "hebrewDay": 29
     },
     "2032-03-13": {
-      "hebrewDay": 1,
-      "hebrewMonth": 7
-    },
-    "2032-05-11": {
-      "hebrewDay": 1,
-      "hebrewMonth": 9
-    },
-    "2032-01-31": {
-      "hebrewMonth": 5,
-      "hebrewDay": 18
-    },
-    "2032-01-24": {
-      "hebrewDay": 11,
-      "hebrewMonth": 5
-    },
-    "2032-09-07": {
-      "hebrewDay": 2,
-      "hebrewMonth": 1
-    },
-    "2032-05-01": {
-      "hebrewDay": 20,
-      "hebrewMonth": 8
+      "hebrewMonth": 7,
+      "hebrewDay": 1
     },
     "2032-03-29": {
       "hebrewDay": 17,
       "hebrewMonth": 7
     },
-    "2032-07-24": {
+    "2032-03-27": {
+      "hebrewDay": 15,
+      "hebrewMonth": 7
+    },
+    "2032-12-04": {
+      "hebrewMonth": 4,
+      "hebrewDay": 2
+    },
+    "2032-07-17": {
       "hebrewMonth": 11,
-      "hebrewDay": 16
+      "hebrewDay": 9
     },
-    "2032-10-02": {
-      "hebrewMonth": 1,
-      "hebrewDay": 27
+    "2032-02-28": {
+      "hebrewDay": 16,
+      "hebrewMonth": 6
     },
-    "2032-12-01": {
-      "hebrewDay": 28,
-      "hebrewMonth": 3
-    },
-    "2032-03-28": {
-      "hebrewMonth": 7,
-      "hebrewDay": 16
-    },
-    "2032-02-26": {
+    "2032-02-25": {
       "hebrewMonth": 6,
-      "hebrewDay": 14
+      "hebrewDay": 13
+    },
+    "2032-02-21": {
+      "hebrewMonth": 6,
+      "hebrewDay": 9
+    },
+    "2032-09-27": {
+      "hebrewDay": 22,
+      "hebrewMonth": 1
+    },
+    "2032-04-17": {
+      "hebrewDay": 6,
+      "hebrewMonth": 8
+    },
+    "2032-08-14": {
+      "hebrewDay": 7,
+      "hebrewMonth": 12
+    },
+    "2032-10-06": {
+      "hebrewMonth": 2,
+      "hebrewDay": 1
     },
     "2032-02-27": {
       "hebrewMonth": 6,
       "hebrewDay": 15
     },
-    "2032-08-08": {
-      "hebrewMonth": 12,
+    "2032-05-01": {
+      "hebrewDay": 20,
+      "hebrewMonth": 8
+    },
+    "2032-04-12": {
+      "hebrewMonth": 8,
       "hebrewDay": 1
     },
-    "2032-09-05": {
-      "hebrewMonth": 12,
-      "hebrewDay": 29
+    "2032-04-25": {
+      "hebrewDay": 14,
+      "hebrewMonth": 8
     },
-    "2032-02-12": {
-      "hebrewDay": 30,
+    "2032-11-30": {
+      "hebrewMonth": 3,
+      "hebrewDay": 27
+    },
+    "2032-04-29": {
+      "hebrewDay": 18,
+      "hebrewMonth": 8
+    },
+    "2032-09-06": {
+      "hebrewDay": 1,
+      "hebrewMonth": 1
+    },
+    "2032-09-05": {
+      "hebrewDay": 29,
+      "hebrewMonth": 12
+    },
+    "2032-10-30": {
+      "hebrewDay": 25,
+      "hebrewMonth": 2
+    },
+    "2032-10-09": {
+      "hebrewMonth": 2,
+      "hebrewDay": 4
+    },
+    "2032-04-01": {
+      "hebrewMonth": 7,
+      "hebrewDay": 20
+    },
+    "2032-02-13": {
+      "hebrewMonth": 6,
+      "hebrewDay": 1
+    },
+    "2032-10-23": {
+      "hebrewDay": 18,
+      "hebrewMonth": 2
+    },
+    "2032-08-08": {
+      "hebrewDay": 1,
+      "hebrewMonth": 12
+    },
+    "2032-09-24": {
+      "hebrewMonth": 1,
+      "hebrewDay": 19
+    },
+    "2032-01-24": {
+      "hebrewDay": 11,
       "hebrewMonth": 5
     },
-    "2032-12-03": {
+    "2032-07-09": {
+      "hebrewMonth": 11,
+      "hebrewDay": 1
+    },
+    "2032-01-14": {
+      "hebrewMonth": 5,
+      "hebrewDay": 1
+    },
+    "2032-09-14": {
+      "hebrewDay": 9,
+      "hebrewMonth": 1
+    },
+    "2032-09-19": {
+      "hebrewDay": 14,
+      "hebrewMonth": 1
+    },
+    "2032-08-28": {
+      "hebrewDay": 21,
+      "hebrewMonth": 12
+    },
+    "2032-09-23": {
+      "hebrewMonth": 1,
+      "hebrewDay": 18
+    },
+    "2032-06-12": {
+      "hebrewDay": 3,
+      "hebrewMonth": 10
+    },
+    "2032-09-04": {
+      "hebrewDay": 28,
+      "hebrewMonth": 12
+    },
+    "2032-04-24": {
+      "hebrewDay": 13,
+      "hebrewMonth": 8
+    },
+    "2032-09-28": {
+      "hebrewMonth": 1,
+      "hebrewDay": 23
+    },
+    "2032-07-18": {
+      "hebrewMonth": 11,
+      "hebrewDay": 10
+    },
+    "2032-06-10": {
       "hebrewDay": 1,
+      "hebrewMonth": 10
+    },
+    "2032-10-05": {
+      "hebrewMonth": 1,
+      "hebrewDay": 30
+    },
+    "2032-09-22": {
+      "hebrewMonth": 1,
+      "hebrewDay": 17
+    },
+    "2032-12-18": {
+      "hebrewDay": 16,
       "hebrewMonth": 4
+    },
+    "2032-12-25": {
+      "hebrewMonth": 4,
+      "hebrewDay": 23
+    },
+    "2032-11-29": {
+      "hebrewDay": 26,
+      "hebrewMonth": 3
+    },
+    "2032-02-14": {
+      "hebrewDay": 2,
+      "hebrewMonth": 6
+    },
+    "2032-02-12": {
+      "hebrewMonth": 5,
+      "hebrewDay": 30
+    },
+    "2032-11-06": {
+      "hebrewMonth": 3,
+      "hebrewDay": 3
+    },
+    "2032-05-16": {
+      "hebrewDay": 6,
+      "hebrewMonth": 9
+    },
+    "2032-06-19": {
+      "hebrewDay": 10,
+      "hebrewMonth": 10
+    },
+    "2032-05-15": {
+      "hebrewMonth": 9,
+      "hebrewDay": 5
+    },
+    "2032-05-29": {
+      "hebrewDay": 19,
+      "hebrewMonth": 9
+    },
+    "2032-11-13": {
+      "hebrewDay": 10,
+      "hebrewMonth": 3
+    },
+    "2032-03-20": {
+      "hebrewMonth": 7,
+      "hebrewDay": 8
+    },
+    "2032-07-03": {
+      "hebrewMonth": 10,
+      "hebrewDay": 24
+    },
+    "2032-08-21": {
+      "hebrewDay": 14,
+      "hebrewMonth": 12
+    },
+    "2032-05-22": {
+      "hebrewDay": 12,
+      "hebrewMonth": 9
     },
     "2032-05-08": {
       "hebrewDay": 27,
       "hebrewMonth": 8
     },
-    "2032-04-02": {
-      "hebrewDay": 21,
+    "2032-02-26": {
+      "hebrewDay": 14,
+      "hebrewMonth": 6
+    },
+    "2032-12-03": {
+      "hebrewDay": 1,
+      "hebrewMonth": 4
+    },
+    "2032-01-28": {
+      "hebrewDay": 15,
+      "hebrewMonth": 5
+    },
+    "2032-03-26": {
+      "hebrewDay": 14,
       "hebrewMonth": 7
     },
-    "2032-05-15": {
-      "hebrewDay": 5,
+    "2032-08-07": {
+      "hebrewDay": 30,
+      "hebrewMonth": 11
+    },
+    "2032-11-20": {
+      "hebrewMonth": 3,
+      "hebrewDay": 17
+    },
+    "2032-03-31": {
+      "hebrewMonth": 7,
+      "hebrewDay": 19
+    },
+    "2032-09-21": {
+      "hebrewMonth": 1,
+      "hebrewDay": 16
+    },
+    "2032-02-07": {
+      "hebrewMonth": 5,
+      "hebrewDay": 25
+    },
+    "2032-01-17": {
+      "hebrewMonth": 5,
+      "hebrewDay": 4
+    },
+    "2032-09-25": {
+      "hebrewMonth": 1,
+      "hebrewDay": 20
+    },
+    "2032-12-11": {
+      "hebrewDay": 9,
+      "hebrewMonth": 4
+    },
+    "2032-07-10": {
+      "hebrewDay": 2,
+      "hebrewMonth": 11
+    },
+    "2032-09-07": {
+      "hebrewMonth": 1,
+      "hebrewDay": 2
+    },
+    "2032-09-15": {
+      "hebrewMonth": 1,
+      "hebrewDay": 10
+    },
+    "2032-11-27": {
+      "hebrewMonth": 3,
+      "hebrewDay": 24
+    },
+    "2032-01-31": {
+      "hebrewDay": 18,
+      "hebrewMonth": 5
+    },
+    "2032-09-18": {
+      "hebrewMonth": 1,
+      "hebrewDay": 13
+    },
+    "2032-05-17": {
+      "hebrewDay": 7,
       "hebrewMonth": 9
+    },
+    "2032-01-10": {
+      "hebrewDay": 26,
+      "hebrewMonth": 4
+    },
+    "2032-09-20": {
+      "hebrewDay": 15,
+      "hebrewMonth": 1
+    },
+    "2032-01-03": {
+      "hebrewDay": 19,
+      "hebrewMonth": 4
+    },
+    "2032-06-09": {
+      "hebrewMonth": 9,
+      "hebrewDay": 30
+    },
+    "2032-06-26": {
+      "hebrewMonth": 10,
+      "hebrewDay": 17
+    },
+    "2032-11-04": {
+      "hebrewMonth": 3,
+      "hebrewDay": 1
+    },
+    "2032-10-02": {
+      "hebrewMonth": 1,
+      "hebrewDay": 27
+    },
+    "2032-06-05": {
+      "hebrewDay": 26,
+      "hebrewMonth": 9
+    },
+    "2032-04-02": {
+      "hebrewMonth": 7,
+      "hebrewDay": 21
+    },
+    "2032-09-26": {
+      "hebrewMonth": 1,
+      "hebrewDay": 21
+    },
+    "2032-07-24": {
+      "hebrewDay": 16,
+      "hebrewMonth": 11
+    },
+    "2032-12-05": {
+      "hebrewDay": 3,
+      "hebrewMonth": 4
+    },
+    "2032-03-30": {
+      "hebrewDay": 18,
+      "hebrewMonth": 7
+    },
+    "2032-04-03": {
+      "hebrewDay": 22,
+      "hebrewMonth": 7
+    },
+    "2032-10-16": {
+      "hebrewMonth": 2,
+      "hebrewDay": 11
+    },
+    "2032-03-06": {
+      "hebrewMonth": 6,
+      "hebrewDay": 23
+    },
+    "2032-12-01": {
+      "hebrewDay": 28,
+      "hebrewMonth": 3
+    },
+    "2032-04-11": {
+      "hebrewMonth": 7,
+      "hebrewDay": 30
+    },
+    "2032-12-02": {
+      "hebrewDay": 29,
+      "hebrewMonth": 3
     }
-  },
-  "region": "diaspora",
-  "updatedAt": "2026-08-14T15:26:39.779Z",
-  "year": 2032
+  }
 }
