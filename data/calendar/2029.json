@@ -1,1061 +1,1061 @@
 {
+  "year": 2029,
   "events": [
     {
-      "requiresAlert": true,
       "date": "2029-01-05",
       "isSecondDay": false,
-      "id": "shabbat",
       "type": "SHABBAT",
-      "name": "שבת פרשת שמות"
+      "id": "shabbat",
+      "name": "שבת פרשת שמות",
+      "requiresAlert": true
     },
     {
       "id": "shabbat",
-      "date": "2029-01-12",
       "requiresAlert": true,
+      "isSecondDay": false,
       "name": "שבת פרשת וארא",
-      "isSecondDay": false,
+      "date": "2029-01-12",
       "type": "SHABBAT"
     },
     {
-      "isSecondDay": false,
-      "date": "2029-01-19",
       "requiresAlert": true,
-      "name": "שבת פרשת בא",
+      "isSecondDay": false,
       "id": "shabbat",
-      "type": "SHABBAT"
+      "date": "2029-01-19",
+      "type": "SHABBAT",
+      "name": "שבת פרשת בא"
     },
     {
       "type": "SHABBAT",
-      "isSecondDay": false,
+      "date": "2029-01-26",
       "requiresAlert": true,
       "name": "שבת פרשת בשלח",
-      "id": "shabbat",
-      "date": "2029-01-26"
-    },
-    {
-      "id": "ט\"ו_בשבט",
-      "date": "2029-01-30",
       "isSecondDay": false,
-      "name": "ט\"ו בשבט",
-      "type": "HOLIDAY",
-      "requiresAlert": false
-    },
-    {
-      "isSecondDay": false,
-      "date": "2029-02-02",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "name": "שבת פרשת יתרו"
-    },
-    {
-      "id": "shabbat",
-      "date": "2029-02-09",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "name": "שבת פרשת משפטים",
-      "type": "SHABBAT"
-    },
-    {
-      "requiresAlert": true,
-      "date": "2029-02-16",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת תרומה",
       "id": "shabbat"
     },
     {
-      "name": "שבת פרשת תצוה",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "id": "shabbat",
       "isSecondDay": false,
-      "date": "2029-02-23"
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "date": "2029-01-30",
+      "name": "ט\"ו בשבט",
+      "id": "ט\"ו_בשבט"
+    },
+    {
+      "name": "שבת פרשת יתרו",
+      "date": "2029-02-02",
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "isSecondDay": false
+    },
+    {
+      "name": "שבת פרשת משפטים",
+      "date": "2029-02-09",
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "isSecondDay": false
+    },
+    {
+      "requiresAlert": true,
+      "name": "שבת פרשת תרומה",
+      "isSecondDay": false,
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "date": "2029-02-16"
+    },
+    {
+      "name": "שבת פרשת תצוה",
+      "isSecondDay": false,
+      "id": "shabbat",
+      "date": "2029-02-23",
+      "type": "SHABBAT",
+      "requiresAlert": true
     },
     {
       "type": "HOLIDAY",
       "id": "פורים",
-      "isSecondDay": false,
-      "name": "פורים",
       "date": "2029-02-28",
-      "requiresAlert": false
+      "requiresAlert": false,
+      "name": "פורים",
+      "isSecondDay": false
     },
     {
       "name": "שושן פורים",
-      "isSecondDay": false,
-      "id": "שושן_פורים",
       "type": "HOLIDAY",
       "requiresAlert": false,
-      "date": "2029-03-01"
+      "date": "2029-03-01",
+      "id": "שושן_פורים",
+      "isSecondDay": false
     },
     {
-      "requiresAlert": true,
-      "type": "SHABBAT",
       "isSecondDay": false,
+      "requiresAlert": true,
+      "id": "shabbat",
       "name": "שבת פרשת כי תשא",
-      "id": "shabbat",
-      "date": "2029-03-02"
-    },
-    {
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת ויקהל־פקודי",
-      "id": "shabbat",
-      "date": "2029-03-09",
-      "requiresAlert": true
-    },
-    {
-      "isSecondDay": false,
-      "date": "2029-03-16",
-      "id": "shabbat",
-      "name": "שבת פרשת ויקרא",
-      "requiresAlert": true,
+      "date": "2029-03-02",
       "type": "SHABBAT"
     },
     {
-      "name": "שבת פרשת צו",
+      "name": "שבת פרשת ויקהל־פקודי",
       "isSecondDay": false,
       "requiresAlert": true,
       "type": "SHABBAT",
-      "id": "shabbat",
-      "date": "2029-03-23"
+      "date": "2029-03-09",
+      "id": "shabbat"
     },
     {
+      "id": "shabbat",
+      "date": "2029-03-16",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "name": "שבת פרשת ויקרא",
+      "requiresAlert": true
+    },
+    {
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "date": "2029-03-23",
+      "name": "שבת פרשת צו",
+      "isSecondDay": false,
+      "id": "shabbat"
+    },
+    {
+      "name": "שבת - חג הפסח (ליל הסדר)",
+      "requiresAlert": true,
+      "type": "HOLIDAY",
       "date": "2029-03-30",
       "isSecondDay": false,
-      "requiresAlert": true,
-      "id": "שבת_-_חג_הפסח_(ליל_הסדר)",
-      "type": "HOLIDAY",
-      "name": "שבת - חג הפסח (ליל הסדר)"
+      "id": "שבת_-_חג_הפסח_(ליל_הסדר)"
     },
     {
-      "name": "חול המועד פסח",
-      "requiresAlert": false,
-      "type": "HOLIDAY",
       "isSecondDay": false,
+      "requiresAlert": false,
       "id": "חול_המועד_פסח",
-      "date": "2029-03-31"
+      "name": "חול המועד פסח",
+      "date": "2029-03-31",
+      "type": "HOLIDAY"
     },
     {
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "name": "חול המועד פסח",
       "date": "2029-04-01",
-      "id": "חול_המועד_פסח",
-      "isSecondDay": false,
       "type": "HOLIDAY",
-      "name": "חול המועד פסח",
-      "requiresAlert": false
+      "id": "חול_המועד_פסח"
     },
     {
-      "name": "חול המועד פסח",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
       "requiresAlert": false,
+      "isSecondDay": false,
+      "name": "חול המועד פסח",
+      "type": "HOLIDAY",
       "date": "2029-04-02",
       "id": "חול_המועד_פסח"
     },
     {
-      "isSecondDay": false,
-      "date": "2029-04-03",
       "requiresAlert": false,
-      "id": "חול_המועד_פסח",
+      "type": "HOLIDAY",
+      "date": "2029-04-03",
+      "isSecondDay": false,
       "name": "חול המועד פסח",
+      "id": "חול_המועד_פסח"
+    },
+    {
+      "id": "חול_המועד_פסח",
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "name": "חול המועד פסח",
+      "date": "2029-04-04",
       "type": "HOLIDAY"
     },
     {
-      "date": "2029-04-04",
-      "type": "HOLIDAY",
       "isSecondDay": false,
-      "id": "חול_המועד_פסח",
-      "name": "חול המועד פסח",
-      "requiresAlert": false
-    },
-    {
       "type": "HOLIDAY",
-      "name": "שביעי של פסח",
-      "requiresAlert": true,
       "date": "2029-04-05",
+      "requiresAlert": true,
       "id": "שביעי_של_פסח",
-      "isSecondDay": false
+      "name": "שביעי של פסח"
     },
     {
-      "id": "shabbat",
-      "isSecondDay": true,
       "requiresAlert": false,
+      "id": "shabbat",
       "date": "2029-04-06",
-      "name": "שבת פרשת שמיני",
-      "type": "SHABBAT"
+      "type": "SHABBAT",
+      "isSecondDay": true,
+      "name": "שבת פרשת שמיני"
     },
     {
+      "type": "SHABBAT",
       "requiresAlert": true,
       "date": "2029-04-13",
       "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "name": "שבת פרשת תזריע־מצרע"
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "isSecondDay": false,
-      "date": "2029-04-20",
-      "type": "SHABBAT",
-      "name": "שבת פרשת אחרי מות־קדשים"
-    },
-    {
-      "date": "2029-04-27",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת אמור"
-    },
-    {
-      "requiresAlert": true,
-      "date": "2029-05-04",
-      "isSecondDay": false,
-      "name": "שבת פרשת בהר",
-      "id": "shabbat",
-      "type": "SHABBAT"
-    },
-    {
-      "isSecondDay": false,
-      "name": "שבת פרשת בחקתי",
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "date": "2029-05-11",
+      "name": "שבת פרשת תזריע־מצרע",
       "id": "shabbat"
     },
     {
-      "name": "שבת פרשת במדבר",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "date": "2029-04-20",
       "requiresAlert": true,
       "id": "shabbat",
+      "name": "שבת פרשת אחרי מות־קדשים"
+    },
+    {
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת אמור",
       "type": "SHABBAT",
+      "date": "2029-04-27",
+      "id": "shabbat"
+    },
+    {
+      "type": "SHABBAT",
+      "date": "2029-05-04",
+      "name": "שבת פרשת בהר",
+      "id": "shabbat",
+      "isSecondDay": false,
+      "requiresAlert": true
+    },
+    {
+      "type": "SHABBAT",
+      "date": "2029-05-11",
+      "requiresAlert": true,
+      "name": "שבת פרשת בחקתי",
+      "isSecondDay": false,
+      "id": "shabbat"
+    },
+    {
+      "id": "shabbat",
       "date": "2029-05-18",
+      "type": "SHABBAT",
+      "name": "שבת פרשת במדבר",
+      "requiresAlert": true,
       "isSecondDay": false
     },
     {
-      "name": "חג השבועות",
       "type": "HOLIDAY",
-      "isSecondDay": true,
-      "requiresAlert": false,
       "date": "2029-05-19",
+      "requiresAlert": false,
+      "name": "חג השבועות",
+      "isSecondDay": true,
       "id": "חג_השבועות"
     },
     {
-      "name": "שבת פרשת נשא",
+      "isSecondDay": false,
       "id": "shabbat",
+      "date": "2029-05-25",
       "type": "SHABBAT",
       "requiresAlert": true,
-      "isSecondDay": false,
-      "date": "2029-05-25"
+      "name": "שבת פרשת נשא"
     },
     {
+      "id": "shabbat",
       "name": "שבת פרשת בהעלתך",
+      "date": "2029-06-01",
       "requiresAlert": true,
       "type": "SHABBAT",
-      "isSecondDay": false,
-      "id": "shabbat",
-      "date": "2029-06-01"
+      "isSecondDay": false
     },
     {
+      "id": "shabbat",
+      "isSecondDay": false,
+      "requiresAlert": true,
       "name": "שבת פרשת שלח־לך",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "date": "2029-06-08"
+      "date": "2029-06-08",
+      "type": "SHABBAT"
     },
     {
       "type": "SHABBAT",
-      "id": "shabbat",
-      "name": "שבת פרשת קורח",
-      "isSecondDay": false,
       "date": "2029-06-15",
+      "name": "שבת פרשת קורח",
+      "id": "shabbat",
+      "isSecondDay": false,
       "requiresAlert": true
     },
     {
       "name": "שבת פרשת חוקת",
-      "requiresAlert": true,
-      "type": "SHABBAT",
       "id": "shabbat",
       "date": "2029-06-22",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "requiresAlert": true
+    },
+    {
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "date": "2029-06-29",
+      "id": "shabbat",
+      "name": "שבת פרשת בלק",
       "isSecondDay": false
     },
     {
-      "date": "2029-06-29",
+      "isSecondDay": false,
       "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false,
       "id": "shabbat",
-      "name": "שבת פרשת בלק"
-    },
-    {
-      "date": "2029-07-06",
-      "type": "SHABBAT",
-      "isSecondDay": false,
       "name": "שבת פרשת פינחס",
-      "requiresAlert": true,
-      "id": "shabbat"
+      "type": "SHABBAT",
+      "date": "2029-07-06"
     },
     {
-      "requiresAlert": true,
-      "date": "2029-07-13",
       "id": "shabbat",
+      "requiresAlert": true,
       "isSecondDay": false,
       "name": "שבת פרשת מטות־מסעי",
+      "date": "2029-07-13",
       "type": "SHABBAT"
     },
     {
-      "name": "שבת פרשת דברים",
       "type": "SHABBAT",
-      "isSecondDay": false,
-      "id": "shabbat",
+      "date": "2029-07-20",
+      "name": "שבת פרשת דברים",
       "requiresAlert": true,
-      "date": "2029-07-20"
-    },
-    {
-      "type": "HOLIDAY",
-      "id": "Tish’a_B’Av_(observed)",
-      "name": "Tish’a B’Av (observed)",
       "isSecondDay": false,
-      "date": "2029-07-21",
-      "requiresAlert": false
+      "id": "shabbat"
     },
     {
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "date": "2029-07-21",
+      "id": "Tish’a_B’Av_(observed)",
+      "name": "Tish’a B’Av (observed)"
+    },
+    {
+      "isSecondDay": false,
       "id": "Tu_B’Av",
-      "name": "Tu B’Av",
       "requiresAlert": false,
       "type": "HOLIDAY",
       "date": "2029-07-26",
+      "name": "Tu B’Av"
+    },
+    {
+      "isSecondDay": false,
+      "id": "shabbat",
+      "name": "שבת פרשת ואתחנן",
+      "requiresAlert": true,
+      "date": "2029-07-27",
+      "type": "SHABBAT"
+    },
+    {
+      "id": "shabbat",
+      "name": "שבת פרשת עקב",
+      "date": "2029-08-03",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "isSecondDay": false
+    },
+    {
+      "date": "2029-08-10",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "name": "שבת פרשת ראה",
       "isSecondDay": false
     },
     {
       "isSecondDay": false,
-      "date": "2029-07-27",
-      "name": "שבת פרשת ואתחנן",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "name": "שבת פרשת עקב",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "date": "2029-08-03",
-      "id": "shabbat"
-    },
-    {
-      "name": "שבת פרשת ראה",
       "id": "shabbat",
-      "type": "SHABBAT",
-      "isSecondDay": false,
+      "date": "2029-08-17",
       "requiresAlert": true,
-      "date": "2029-08-10"
+      "type": "SHABBAT",
+      "name": "שבת פרשת שופטים"
     },
     {
-      "name": "שבת פרשת שופטים",
-      "type": "SHABBAT",
-      "isSecondDay": false,
       "requiresAlert": true,
       "id": "shabbat",
-      "date": "2029-08-17"
-    },
-    {
+      "isSecondDay": false,
       "date": "2029-08-24",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "name": "שבת פרשת כי־תצא",
-      "id": "shabbat",
-      "type": "SHABBAT"
+      "type": "SHABBAT",
+      "name": "שבת פרשת כי־תצא"
     },
     {
+      "type": "SHABBAT",
       "date": "2029-08-31",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "isSecondDay": false,
       "name": "שבת פרשת כי־תבוא",
-      "type": "SHABBAT"
-    },
-    {
-      "requiresAlert": true,
       "isSecondDay": false,
-      "date": "2029-09-07",
-      "name": "שבת פרשת נצבים",
-      "id": "shabbat",
-      "type": "SHABBAT"
+      "requiresAlert": true,
+      "id": "shabbat"
     },
     {
-      "type": "HOLIDAY",
+      "id": "shabbat",
+      "date": "2029-09-07",
+      "type": "SHABBAT",
+      "name": "שבת פרשת נצבים",
+      "requiresAlert": true,
+      "isSecondDay": false
+    },
+    {
+      "isSecondDay": false,
+      "requiresAlert": true,
       "name": "ראש השנה",
       "date": "2029-09-09",
       "id": "ראש_השנה",
-      "isSecondDay": false,
-      "requiresAlert": true
+      "type": "HOLIDAY"
     },
     {
-      "type": "HOLIDAY",
       "name": "ראש השנה (יום ב')",
-      "requiresAlert": false,
+      "type": "HOLIDAY",
       "date": "2029-09-10",
+      "id": "ראש_השנה_(יום_ב')",
       "isSecondDay": true,
-      "id": "ראש_השנה_(יום_ב')"
+      "requiresAlert": false
     },
     {
-      "requiresAlert": true,
-      "date": "2029-09-14",
       "isSecondDay": false,
       "id": "shabbat",
       "name": "שבת פרשת וילך",
-      "type": "SHABBAT"
-    },
-    {
-      "id": "יום_הכיפורים",
-      "name": "יום הכיפורים",
-      "requiresAlert": true,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2029-09-18"
-    },
-    {
-      "date": "2029-09-21",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת האזינו",
-      "type": "SHABBAT"
-    },
-    {
-      "name": "חג הסוכות",
-      "type": "HOLIDAY",
-      "id": "חג_הסוכות",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "date": "2029-09-23"
-    },
-    {
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "name": "חול המועד סוכות",
-      "id": "חול_המועד_סוכות",
-      "date": "2029-09-24",
-      "requiresAlert": false
-    },
-    {
-      "name": "חול המועד סוכות",
-      "id": "חול_המועד_סוכות",
-      "type": "HOLIDAY",
-      "requiresAlert": false,
-      "date": "2029-09-25",
-      "isSecondDay": false
-    },
-    {
-      "type": "HOLIDAY",
-      "name": "חול המועד סוכות",
-      "id": "חול_המועד_סוכות",
-      "requiresAlert": false,
-      "date": "2029-09-26",
-      "isSecondDay": false
-    },
-    {
-      "isSecondDay": false,
-      "date": "2029-09-27",
-      "id": "חול_המועד_סוכות",
-      "name": "חול המועד סוכות",
-      "requiresAlert": false,
-      "type": "HOLIDAY"
-    },
-    {
-      "date": "2029-09-28",
-      "isSecondDay": false,
-      "id": "שבת_-_חול_המועד_סוכות",
-      "type": "HOLIDAY",
-      "name": "שבת - חול המועד סוכות",
+      "date": "2029-09-14",
+      "type": "SHABBAT",
       "requiresAlert": true
     },
     {
+      "requiresAlert": true,
       "type": "HOLIDAY",
-      "id": "Sukkot_VII_(Hoshana_Raba)",
-      "name": "Sukkot VII (Hoshana Raba)",
-      "date": "2029-09-29",
       "isSecondDay": false,
-      "requiresAlert": false
+      "date": "2029-09-18",
+      "id": "יום_הכיפורים",
+      "name": "יום הכיפורים"
     },
     {
-      "date": "2029-09-30",
+      "id": "shabbat",
       "isSecondDay": false,
-      "id": "שמיני_עצרת_-_שמחת_תורה",
-      "type": "HOLIDAY",
+      "name": "שבת פרשת האזינו",
       "requiresAlert": true,
+      "date": "2029-09-21",
+      "type": "SHABBAT"
+    },
+    {
+      "type": "HOLIDAY",
+      "date": "2029-09-23",
+      "requiresAlert": true,
+      "name": "חג הסוכות",
+      "isSecondDay": false,
+      "id": "חג_הסוכות"
+    },
+    {
+      "id": "חול_המועד_סוכות",
+      "date": "2029-09-24",
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "name": "חול המועד סוכות",
+      "isSecondDay": false
+    },
+    {
+      "requiresAlert": false,
+      "isSecondDay": false,
+      "name": "חול המועד סוכות",
+      "id": "חול_המועד_סוכות",
+      "type": "HOLIDAY",
+      "date": "2029-09-25"
+    },
+    {
+      "id": "חול_המועד_סוכות",
+      "isSecondDay": false,
+      "date": "2029-09-26",
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "name": "חול המועד סוכות"
+    },
+    {
+      "requiresAlert": false,
+      "isSecondDay": false,
+      "name": "חול המועד סוכות",
+      "id": "חול_המועד_סוכות",
+      "type": "HOLIDAY",
+      "date": "2029-09-27"
+    },
+    {
+      "name": "שבת - חול המועד סוכות",
+      "requiresAlert": true,
+      "type": "HOLIDAY",
+      "id": "שבת_-_חול_המועד_סוכות",
+      "date": "2029-09-28",
+      "isSecondDay": false
+    },
+    {
+      "name": "Sukkot VII (Hoshana Raba)",
+      "date": "2029-09-29",
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "id": "Sukkot_VII_(Hoshana_Raba)",
+      "isSecondDay": false
+    },
+    {
+      "type": "HOLIDAY",
+      "id": "שמיני_עצרת_-_שמחת_תורה",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "date": "2029-09-30",
       "name": "שמיני עצרת - שמחת תורה"
     },
     {
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "type": "SHABBAT",
       "date": "2029-10-05",
+      "name": "שבת פרשת בראשית",
+      "id": "shabbat"
+    },
+    {
+      "type": "SHABBAT",
       "isSecondDay": false,
       "requiresAlert": true,
+      "date": "2029-10-12",
       "id": "shabbat",
+      "name": "שבת פרשת נח"
+    },
+    {
       "type": "SHABBAT",
-      "name": "שבת פרשת בראשית"
+      "date": "2029-10-19",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת לך־לך",
+      "id": "shabbat"
     },
     {
       "isSecondDay": false,
-      "date": "2029-10-12",
+      "name": "שבת פרשת וירא",
+      "id": "shabbat",
+      "date": "2029-10-26",
+      "type": "SHABBAT",
+      "requiresAlert": true
+    },
+    {
+      "isSecondDay": false,
+      "name": "שבת פרשת חיי שרה",
       "requiresAlert": true,
-      "name": "שבת פרשת נח",
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "date": "2029-11-02"
+    },
+    {
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "name": "שבת פרשת תולדות",
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "date": "2029-11-09"
+    },
+    {
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת ויצא",
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "date": "2029-11-16"
+    },
+    {
+      "date": "2029-11-23",
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "name": "שבת פרשת וישלח",
+      "isSecondDay": false
+    },
+    {
+      "isSecondDay": false,
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "date": "2029-11-30",
+      "name": "שבת פרשת וישב",
+      "requiresAlert": true
+    },
+    {
+      "requiresAlert": false,
+      "id": "חנוכה",
+      "isSecondDay": false,
+      "name": "חנוכה",
+      "date": "2029-12-01",
+      "type": "HOLIDAY"
+    },
+    {
+      "name": "חנוכה",
+      "type": "HOLIDAY",
+      "date": "2029-12-02",
+      "isSecondDay": false,
+      "id": "חנוכה",
+      "requiresAlert": false
+    },
+    {
+      "type": "HOLIDAY",
+      "date": "2029-12-03",
+      "name": "חנוכה",
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "id": "חנוכה"
+    },
+    {
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "date": "2029-12-04",
+      "name": "חנוכה",
+      "id": "חנוכה"
+    },
+    {
+      "type": "HOLIDAY",
+      "date": "2029-12-05",
+      "name": "חנוכה",
+      "id": "חנוכה",
+      "requiresAlert": false,
+      "isSecondDay": false
+    },
+    {
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "name": "חנוכה",
+      "type": "HOLIDAY",
+      "date": "2029-12-06",
+      "id": "חנוכה"
+    },
+    {
+      "requiresAlert": true,
+      "name": "שבת פרשת מקץ",
+      "date": "2029-12-07",
+      "isSecondDay": false,
       "id": "shabbat",
       "type": "SHABBAT"
     },
     {
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "name": "שבת פרשת לך־לך",
-      "id": "shabbat",
-      "date": "2029-10-19"
-    },
-    {
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "name": "שבת פרשת וירא",
-      "requiresAlert": true,
-      "date": "2029-10-26"
-    },
-    {
-      "name": "שבת פרשת חיי שרה",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "date": "2029-11-02"
-    },
-    {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "date": "2029-11-09",
-      "name": "שבת פרשת תולדות",
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "date": "2029-11-16",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "name": "שבת פרשת ויצא",
-      "isSecondDay": false
-    },
-    {
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "name": "שבת פרשת וישלח",
-      "date": "2029-11-23",
-      "requiresAlert": true
-    },
-    {
-      "id": "shabbat",
-      "name": "שבת פרשת וישב",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "date": "2029-11-30",
-      "requiresAlert": true
-    },
-    {
-      "isSecondDay": false,
-      "name": "חנוכה",
       "type": "HOLIDAY",
-      "requiresAlert": false,
-      "id": "חנוכה",
-      "date": "2029-12-01"
-    },
-    {
-      "date": "2029-12-02",
       "isSecondDay": false,
       "requiresAlert": false,
-      "name": "חנוכה",
-      "id": "חנוכה",
-      "type": "HOLIDAY"
-    },
-    {
-      "date": "2029-12-03",
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "id": "חנוכה",
-      "name": "חנוכה"
-    },
-    {
-      "date": "2029-12-04",
-      "requiresAlert": false,
-      "id": "חנוכה",
-      "name": "חנוכה",
-      "type": "HOLIDAY",
-      "isSecondDay": false
-    },
-    {
-      "type": "HOLIDAY",
-      "id": "חנוכה",
-      "name": "חנוכה",
-      "date": "2029-12-05",
-      "requiresAlert": false,
-      "isSecondDay": false
-    },
-    {
-      "requiresAlert": false,
-      "name": "חנוכה",
-      "type": "HOLIDAY",
-      "id": "חנוכה",
-      "date": "2029-12-06",
-      "isSecondDay": false
-    },
-    {
-      "date": "2029-12-07",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת מקץ"
-    },
-    {
       "date": "2029-12-08",
-      "isSecondDay": false,
-      "id": "חנוכה",
-      "type": "HOLIDAY",
-      "requiresAlert": false,
-      "name": "חנוכה"
+      "name": "חנוכה",
+      "id": "חנוכה"
     },
     {
-      "date": "2029-12-14",
-      "id": "shabbat",
       "requiresAlert": true,
+      "id": "shabbat",
+      "name": "שבת פרשת ויגש",
+      "date": "2029-12-14",
       "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת ויגש"
+      "type": "SHABBAT"
     },
     {
-      "type": "SHABBAT",
       "name": "שבת פרשת ויחי",
       "date": "2029-12-21",
+      "id": "shabbat",
       "requiresAlert": true,
-      "isSecondDay": false,
-      "id": "shabbat"
+      "type": "SHABBAT",
+      "isSecondDay": false
     },
     {
-      "type": "SHABBAT",
-      "id": "shabbat",
+      "isSecondDay": false,
       "name": "שבת פרשת שמות",
+      "id": "shabbat",
       "requiresAlert": true,
-      "date": "2029-12-28",
-      "isSecondDay": false
+      "type": "SHABBAT",
+      "date": "2029-12-28"
     }
   ],
-  "year": 2029,
-  "updatedAt": "2026-08-14T15:26:30.831Z",
-  "region": "israel",
   "hebrewByDate": {
-    "2029-03-30": {
-      "hebrewMonth": 7,
-      "hebrewDay": 14
-    },
-    "2029-09-15": {
-      "hebrewMonth": 1,
-      "hebrewDay": 6
-    },
-    "2029-12-03": {
-      "hebrewMonth": 3,
-      "hebrewDay": 26
-    },
-    "2029-05-26": {
-      "hebrewDay": 12,
-      "hebrewMonth": 9
-    },
-    "2029-04-05": {
-      "hebrewDay": 20,
-      "hebrewMonth": 7
-    },
-    "2029-10-20": {
-      "hebrewDay": 11,
-      "hebrewMonth": 2
-    },
-    "2029-09-26": {
-      "hebrewDay": 17,
-      "hebrewMonth": 1
-    },
-    "2029-02-03": {
-      "hebrewDay": 18,
-      "hebrewMonth": 5
-    },
-    "2029-09-24": {
-      "hebrewMonth": 1,
-      "hebrewDay": 15
-    },
-    "2029-04-06": {
-      "hebrewDay": 21,
-      "hebrewMonth": 7
-    },
-    "2029-06-13": {
-      "hebrewMonth": 9,
-      "hebrewDay": 30
-    },
-    "2029-12-05": {
-      "hebrewMonth": 3,
-      "hebrewDay": 28
-    },
-    "2029-11-10": {
-      "hebrewMonth": 3,
-      "hebrewDay": 3
-    },
-    "2029-09-28": {
-      "hebrewDay": 19,
-      "hebrewMonth": 1
-    },
-    "2029-09-11": {
-      "hebrewMonth": 1,
-      "hebrewDay": 2
-    },
-    "2029-05-19": {
-      "hebrewMonth": 9,
-      "hebrewDay": 5
-    },
-    "2029-10-13": {
-      "hebrewMonth": 2,
-      "hebrewDay": 4
-    },
-    "2029-04-02": {
-      "hebrewDay": 17,
-      "hebrewMonth": 7
-    },
-    "2029-08-25": {
-      "hebrewDay": 14,
-      "hebrewMonth": 12
-    },
-    "2029-02-24": {
-      "hebrewDay": 9,
-      "hebrewMonth": 6
-    },
-    "2029-01-06": {
-      "hebrewMonth": 4,
-      "hebrewDay": 19
-    },
-    "2029-09-19": {
-      "hebrewMonth": 1,
-      "hebrewDay": 10
-    },
-    "2029-05-05": {
-      "hebrewDay": 20,
+    "2029-04-28": {
+      "hebrewDay": 13,
       "hebrewMonth": 8
-    },
-    "2029-02-15": {
-      "hebrewMonth": 5,
-      "hebrewDay": 30
-    },
-    "2029-03-10": {
-      "hebrewMonth": 6,
-      "hebrewDay": 23
-    },
-    "2029-09-18": {
-      "hebrewDay": 9,
-      "hebrewMonth": 1
-    },
-    "2029-04-21": {
-      "hebrewDay": 6,
-      "hebrewMonth": 8
-    },
-    "2029-12-29": {
-      "hebrewDay": 23,
-      "hebrewMonth": 4
-    },
-    "2029-12-06": {
-      "hebrewDay": 29,
-      "hebrewMonth": 3
-    },
-    "2029-07-07": {
-      "hebrewDay": 24,
-      "hebrewMonth": 10
-    },
-    "2029-10-06": {
-      "hebrewDay": 27,
-      "hebrewMonth": 1
-    },
-    "2029-07-27": {
-      "hebrewDay": 15,
-      "hebrewMonth": 11
-    },
-    "2029-08-12": {
-      "hebrewDay": 1,
-      "hebrewMonth": 12
-    },
-    "2029-04-04": {
-      "hebrewMonth": 7,
-      "hebrewDay": 19
-    },
-    "2029-06-14": {
-      "hebrewMonth": 10,
-      "hebrewDay": 1
-    },
-    "2029-08-04": {
-      "hebrewMonth": 11,
-      "hebrewDay": 23
-    },
-    "2029-02-16": {
-      "hebrewDay": 1,
-      "hebrewMonth": 6
-    },
-    "2029-12-15": {
-      "hebrewMonth": 4,
-      "hebrewDay": 9
-    },
-    "2029-05-03": {
-      "hebrewDay": 18,
-      "hebrewMonth": 8
-    },
-    "2029-07-28": {
-      "hebrewMonth": 11,
-      "hebrewDay": 16
-    },
-    "2029-07-21": {
-      "hebrewDay": 9,
-      "hebrewMonth": 11
-    },
-    "2029-09-29": {
-      "hebrewMonth": 1,
-      "hebrewDay": 20
-    },
-    "2029-02-10": {
-      "hebrewDay": 25,
-      "hebrewMonth": 5
-    },
-    "2029-12-04": {
-      "hebrewDay": 27,
-      "hebrewMonth": 3
-    },
-    "2029-01-31": {
-      "hebrewDay": 15,
-      "hebrewMonth": 5
-    },
-    "2029-12-08": {
-      "hebrewMonth": 4,
-      "hebrewDay": 2
-    },
-    "2029-11-08": {
-      "hebrewMonth": 3,
-      "hebrewDay": 1
-    },
-    "2029-01-13": {
-      "hebrewMonth": 4,
-      "hebrewDay": 26
-    },
-    "2029-04-03": {
-      "hebrewDay": 18,
-      "hebrewMonth": 7
-    },
-    "2029-09-08": {
-      "hebrewDay": 28,
-      "hebrewMonth": 12
-    },
-    "2029-08-11": {
-      "hebrewMonth": 11,
-      "hebrewDay": 30
-    },
-    "2029-08-18": {
-      "hebrewMonth": 12,
-      "hebrewDay": 7
-    },
-    "2029-03-02": {
-      "hebrewMonth": 6,
-      "hebrewDay": 15
     },
     "2029-09-09": {
       "hebrewDay": 29,
       "hebrewMonth": 12
     },
-    "2029-11-24": {
+    "2029-09-26": {
       "hebrewDay": 17,
-      "hebrewMonth": 3
-    },
-    "2029-09-30": {
-      "hebrewDay": 21,
       "hebrewMonth": 1
     },
-    "2029-12-01": {
-      "hebrewMonth": 3,
-      "hebrewDay": 24
+    "2029-04-29": {
+      "hebrewMonth": 8,
+      "hebrewDay": 14
     },
-    "2029-10-10": {
-      "hebrewDay": 1,
-      "hebrewMonth": 2
-    },
-    "2029-09-23": {
-      "hebrewDay": 14,
-      "hebrewMonth": 1
-    },
-    "2029-02-28": {
-      "hebrewMonth": 6,
-      "hebrewDay": 13
-    },
-    "2029-06-16": {
-      "hebrewDay": 3,
-      "hebrewMonth": 10
-    },
-    "2029-03-24": {
-      "hebrewMonth": 7,
-      "hebrewDay": 8
-    },
-    "2029-06-23": {
-      "hebrewMonth": 10,
-      "hebrewDay": 10
-    },
-    "2029-06-02": {
-      "hebrewDay": 19,
-      "hebrewMonth": 9
-    },
-    "2029-05-12": {
-      "hebrewDay": 27,
-      "hebrewMonth": 8
-    },
-    "2029-03-31": {
-      "hebrewMonth": 7,
-      "hebrewDay": 15
-    },
-    "2029-05-20": {
-      "hebrewDay": 6,
-      "hebrewMonth": 9
-    },
-    "2029-09-25": {
-      "hebrewDay": 16,
-      "hebrewMonth": 1
-    },
-    "2029-04-15": {
-      "hebrewMonth": 7,
+    "2029-10-09": {
+      "hebrewMonth": 1,
       "hebrewDay": 30
     },
-    "2029-06-30": {
-      "hebrewDay": 17,
-      "hebrewMonth": 10
-    },
-    "2029-09-22": {
-      "hebrewDay": 13,
+    "2029-09-11": {
+      "hebrewDay": 2,
       "hebrewMonth": 1
     },
     "2029-07-13": {
       "hebrewMonth": 11,
       "hebrewDay": 1
     },
-    "2029-04-28": {
-      "hebrewDay": 13,
-      "hebrewMonth": 8
-    },
-    "2029-09-10": {
-      "hebrewDay": 1,
-      "hebrewMonth": 1
-    },
-    "2029-04-29": {
-      "hebrewDay": 14,
-      "hebrewMonth": 8
-    },
-    "2029-11-03": {
-      "hebrewMonth": 2,
-      "hebrewDay": 25
-    },
-    "2029-07-22": {
-      "hebrewMonth": 11,
-      "hebrewDay": 10
-    },
-    "2029-04-14": {
-      "hebrewDay": 29,
-      "hebrewMonth": 7
-    },
-    "2029-10-27": {
-      "hebrewDay": 18,
-      "hebrewMonth": 2
-    },
-    "2029-01-20": {
-      "hebrewDay": 4,
+    "2029-01-27": {
+      "hebrewDay": 11,
       "hebrewMonth": 5
     },
-    "2029-09-27": {
-      "hebrewDay": 18,
-      "hebrewMonth": 1
+    "2029-11-24": {
+      "hebrewDay": 17,
+      "hebrewMonth": 3
     },
-    "2029-12-02": {
-      "hebrewMonth": 3,
-      "hebrewDay": 25
+    "2029-05-26": {
+      "hebrewMonth": 9,
+      "hebrewDay": 12
     },
-    "2029-05-15": {
-      "hebrewDay": 1,
+    "2029-12-01": {
+      "hebrewDay": 24,
+      "hebrewMonth": 3
+    },
+    "2029-06-23": {
+      "hebrewDay": 10,
+      "hebrewMonth": 10
+    },
+    "2029-08-18": {
+      "hebrewMonth": 12,
+      "hebrewDay": 7
+    },
+    "2029-12-06": {
+      "hebrewDay": 29,
+      "hebrewMonth": 3
+    },
+    "2029-05-19": {
+      "hebrewDay": 5,
       "hebrewMonth": 9
     },
-    "2029-01-27": {
-      "hebrewMonth": 5,
-      "hebrewDay": 11
+    "2029-09-25": {
+      "hebrewDay": 16,
+      "hebrewMonth": 1
+    },
+    "2029-06-14": {
+      "hebrewMonth": 10,
+      "hebrewDay": 1
+    },
+    "2029-07-21": {
+      "hebrewDay": 9,
+      "hebrewMonth": 11
+    },
+    "2029-03-24": {
+      "hebrewDay": 8,
+      "hebrewMonth": 7
+    },
+    "2029-04-03": {
+      "hebrewDay": 18,
+      "hebrewMonth": 7
     },
     "2029-10-01": {
       "hebrewDay": 22,
       "hebrewMonth": 1
     },
-    "2029-03-03": {
-      "hebrewMonth": 6,
-      "hebrewDay": 16
+    "2029-05-12": {
+      "hebrewDay": 27,
+      "hebrewMonth": 8
     },
-    "2029-02-17": {
-      "hebrewDay": 2,
-      "hebrewMonth": 6
+    "2029-07-22": {
+      "hebrewDay": 10,
+      "hebrewMonth": 11
     },
-    "2029-12-09": {
+    "2029-01-31": {
+      "hebrewMonth": 5,
+      "hebrewDay": 15
+    },
+    "2029-04-16": {
+      "hebrewDay": 1,
+      "hebrewMonth": 8
+    },
+    "2029-09-19": {
+      "hebrewMonth": 1,
+      "hebrewDay": 10
+    },
+    "2029-06-16": {
       "hebrewDay": 3,
-      "hebrewMonth": 4
+      "hebrewMonth": 10
     },
-    "2029-04-01": {
+    "2029-02-15": {
+      "hebrewDay": 30,
+      "hebrewMonth": 5
+    },
+    "2029-03-31": {
       "hebrewMonth": 7,
-      "hebrewDay": 16
-    },
-    "2029-09-01": {
-      "hebrewMonth": 12,
-      "hebrewDay": 21
-    },
-    "2029-12-22": {
-      "hebrewDay": 16,
-      "hebrewMonth": 4
+      "hebrewDay": 15
     },
     "2029-12-07": {
       "hebrewMonth": 4,
+      "hebrewDay": 1
+    },
+    "2029-07-07": {
+      "hebrewDay": 24,
+      "hebrewMonth": 10
+    },
+    "2029-12-04": {
+      "hebrewDay": 27,
+      "hebrewMonth": 3
+    },
+    "2029-09-23": {
+      "hebrewMonth": 1,
+      "hebrewDay": 14
+    },
+    "2029-09-22": {
+      "hebrewDay": 13,
+      "hebrewMonth": 1
+    },
+    "2029-12-03": {
+      "hebrewDay": 26,
+      "hebrewMonth": 3
+    },
+    "2029-05-20": {
+      "hebrewMonth": 9,
+      "hebrewDay": 6
+    },
+    "2029-01-06": {
+      "hebrewDay": 19,
+      "hebrewMonth": 4
+    },
+    "2029-04-02": {
+      "hebrewMonth": 7,
+      "hebrewDay": 17
+    },
+    "2029-07-27": {
+      "hebrewDay": 15,
+      "hebrewMonth": 11
+    },
+    "2029-12-08": {
+      "hebrewDay": 2,
+      "hebrewMonth": 4
+    },
+    "2029-01-17": {
+      "hebrewDay": 1,
+      "hebrewMonth": 5
+    },
+    "2029-06-13": {
+      "hebrewDay": 30,
+      "hebrewMonth": 9
+    },
+    "2029-09-28": {
+      "hebrewDay": 19,
+      "hebrewMonth": 1
+    },
+    "2029-11-08": {
+      "hebrewMonth": 3,
+      "hebrewDay": 1
+    },
+    "2029-09-18": {
+      "hebrewMonth": 1,
+      "hebrewDay": 9
+    },
+    "2029-01-20": {
+      "hebrewMonth": 5,
+      "hebrewDay": 4
+    },
+    "2029-10-20": {
+      "hebrewMonth": 2,
+      "hebrewDay": 11
+    },
+    "2029-04-15": {
+      "hebrewDay": 30,
+      "hebrewMonth": 7
+    },
+    "2029-06-30": {
+      "hebrewDay": 17,
+      "hebrewMonth": 10
+    },
+    "2029-11-17": {
+      "hebrewMonth": 3,
+      "hebrewDay": 10
+    },
+    "2029-04-04": {
+      "hebrewDay": 19,
+      "hebrewMonth": 7
+    },
+    "2029-08-25": {
+      "hebrewMonth": 12,
+      "hebrewDay": 14
+    },
+    "2029-03-01": {
+      "hebrewDay": 14,
+      "hebrewMonth": 6
+    },
+    "2029-08-12": {
+      "hebrewDay": 1,
+      "hebrewMonth": 12
+    },
+    "2029-04-06": {
+      "hebrewMonth": 7,
+      "hebrewDay": 21
+    },
+    "2029-02-24": {
+      "hebrewDay": 9,
+      "hebrewMonth": 6
+    },
+    "2029-08-11": {
+      "hebrewMonth": 11,
+      "hebrewDay": 30
+    },
+    "2029-03-17": {
+      "hebrewMonth": 7,
       "hebrewDay": 1
     },
     "2029-06-09": {
       "hebrewDay": 26,
       "hebrewMonth": 9
     },
-    "2029-01-17": {
-      "hebrewMonth": 5,
+    "2029-10-10": {
+      "hebrewMonth": 2,
       "hebrewDay": 1
     },
-    "2029-04-16": {
-      "hebrewDay": 1,
-      "hebrewMonth": 8
+    "2029-09-08": {
+      "hebrewDay": 28,
+      "hebrewMonth": 12
     },
-    "2029-03-01": {
-      "hebrewMonth": 6,
-      "hebrewDay": 14
+    "2029-10-06": {
+      "hebrewDay": 27,
+      "hebrewMonth": 1
     },
-    "2029-03-17": {
-      "hebrewDay": 1,
+    "2029-12-22": {
+      "hebrewDay": 16,
+      "hebrewMonth": 4
+    },
+    "2029-04-14": {
+      "hebrewDay": 29,
       "hebrewMonth": 7
     },
-    "2029-11-17": {
-      "hebrewDay": 10,
+    "2029-07-28": {
+      "hebrewDay": 16,
+      "hebrewMonth": 11
+    },
+    "2029-12-09": {
+      "hebrewMonth": 4,
+      "hebrewDay": 3
+    },
+    "2029-06-02": {
+      "hebrewMonth": 9,
+      "hebrewDay": 19
+    },
+    "2029-03-02": {
+      "hebrewMonth": 6,
+      "hebrewDay": 15
+    },
+    "2029-03-30": {
+      "hebrewMonth": 7,
+      "hebrewDay": 14
+    },
+    "2029-12-15": {
+      "hebrewMonth": 4,
+      "hebrewDay": 9
+    },
+    "2029-05-05": {
+      "hebrewDay": 20,
+      "hebrewMonth": 8
+    },
+    "2029-03-10": {
+      "hebrewMonth": 6,
+      "hebrewDay": 23
+    },
+    "2029-11-10": {
+      "hebrewDay": 3,
       "hebrewMonth": 3
     },
-    "2029-10-09": {
+    "2029-09-24": {
+      "hebrewDay": 15,
+      "hebrewMonth": 1
+    },
+    "2029-09-27": {
       "hebrewMonth": 1,
-      "hebrewDay": 30
+      "hebrewDay": 18
+    },
+    "2029-09-01": {
+      "hebrewMonth": 12,
+      "hebrewDay": 21
+    },
+    "2029-07-14": {
+      "hebrewDay": 2,
+      "hebrewMonth": 11
+    },
+    "2029-08-04": {
+      "hebrewDay": 23,
+      "hebrewMonth": 11
+    },
+    "2029-12-02": {
+      "hebrewMonth": 3,
+      "hebrewDay": 25
+    },
+    "2029-10-13": {
+      "hebrewDay": 4,
+      "hebrewMonth": 2
+    },
+    "2029-02-03": {
+      "hebrewMonth": 5,
+      "hebrewDay": 18
+    },
+    "2029-09-10": {
+      "hebrewMonth": 1,
+      "hebrewDay": 1
     },
     "2029-04-07": {
       "hebrewDay": 22,
       "hebrewMonth": 7
     },
-    "2029-07-14": {
-      "hebrewMonth": 11,
-      "hebrewDay": 2
+    "2029-05-15": {
+      "hebrewMonth": 9,
+      "hebrewDay": 1
+    },
+    "2029-02-10": {
+      "hebrewDay": 25,
+      "hebrewMonth": 5
+    },
+    "2029-11-03": {
+      "hebrewMonth": 2,
+      "hebrewDay": 25
+    },
+    "2029-04-05": {
+      "hebrewDay": 20,
+      "hebrewMonth": 7
+    },
+    "2029-02-28": {
+      "hebrewDay": 13,
+      "hebrewMonth": 6
+    },
+    "2029-09-30": {
+      "hebrewDay": 21,
+      "hebrewMonth": 1
+    },
+    "2029-03-03": {
+      "hebrewDay": 16,
+      "hebrewMonth": 6
+    },
+    "2029-09-29": {
+      "hebrewDay": 20,
+      "hebrewMonth": 1
+    },
+    "2029-04-01": {
+      "hebrewDay": 16,
+      "hebrewMonth": 7
+    },
+    "2029-01-13": {
+      "hebrewDay": 26,
+      "hebrewMonth": 4
+    },
+    "2029-04-21": {
+      "hebrewDay": 6,
+      "hebrewMonth": 8
+    },
+    "2029-02-16": {
+      "hebrewMonth": 6,
+      "hebrewDay": 1
+    },
+    "2029-12-05": {
+      "hebrewDay": 28,
+      "hebrewMonth": 3
+    },
+    "2029-12-29": {
+      "hebrewMonth": 4,
+      "hebrewDay": 23
+    },
+    "2029-02-17": {
+      "hebrewDay": 2,
+      "hebrewMonth": 6
+    },
+    "2029-05-03": {
+      "hebrewMonth": 8,
+      "hebrewDay": 18
+    },
+    "2029-10-27": {
+      "hebrewMonth": 2,
+      "hebrewDay": 18
+    },
+    "2029-09-15": {
+      "hebrewDay": 6,
+      "hebrewMonth": 1
     }
-  }
+  },
+  "region": "israel",
+  "updatedAt": "2026-08-14T15:26:30.831Z"
 }
