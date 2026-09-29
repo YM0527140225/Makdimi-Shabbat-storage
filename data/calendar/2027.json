@@ -1,1069 +1,1069 @@
 {
-  "events": [
-    {
-      "date": "2027-01-01",
-      "isSecondDay": false,
-      "name": "שבת פרשת שמות",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת וארא",
-      "id": "shabbat",
-      "date": "2027-01-08",
-      "requiresAlert": true
-    },
-    {
-      "date": "2027-01-15",
-      "name": "שבת פרשת בא",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "id": "shabbat",
-      "requiresAlert": true
-    },
-    {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "date": "2027-01-22",
-      "id": "shabbat",
-      "name": "שבת פרשת בשלח"
-    },
-    {
-      "isSecondDay": false,
-      "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "name": "שבת פרשת יתרו",
-      "date": "2027-01-29"
-    },
-    {
-      "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "name": "שבת פרשת משפטים",
-      "isSecondDay": false,
-      "date": "2027-02-05"
-    },
-    {
-      "isSecondDay": false,
-      "date": "2027-02-12",
-      "name": "שבת פרשת תרומה",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT"
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת תצוה",
-      "date": "2027-02-19"
-    },
-    {
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "date": "2027-02-20",
-      "name": "Purim Katan",
-      "id": "Purim_Katan"
-    },
-    {
-      "id": "Shushan_Purim_Katan",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "name": "Shushan Purim Katan",
-      "date": "2027-02-21",
-      "requiresAlert": false
-    },
-    {
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "name": "שבת פרשת כי תשא",
-      "date": "2027-02-26"
-    },
-    {
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "name": "שבת פרשת ויקהל",
-      "date": "2027-03-05",
-      "isSecondDay": false
-    },
-    {
-      "name": "שבת פרשת פקודי",
-      "date": "2027-03-12",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false
-    },
-    {
-      "date": "2027-03-19",
-      "name": "שבת פרשת ויקרא",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
-      "id": "פורים",
-      "requiresAlert": false,
-      "name": "פורים",
-      "date": "2027-03-22",
-      "isSecondDay": false,
-      "type": "HOLIDAY"
-    },
-    {
-      "requiresAlert": false,
-      "id": "שושן_פורים",
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2027-03-23",
-      "name": "שושן פורים"
-    },
-    {
-      "name": "שבת פרשת צו",
-      "date": "2027-03-26",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "isSecondDay": false
-    },
-    {
-      "date": "2027-04-02",
-      "id": "shabbat",
-      "name": "שבת פרשת שמיני",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false
-    },
-    {
-      "name": "שבת פרשת תזריע",
-      "date": "2027-04-09",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "name": "שבת פרשת מצרע",
-      "date": "2027-04-16"
-    },
-    {
-      "type": "HOLIDAY",
-      "date": "2027-04-21",
-      "name": "חג הפסח (ליל הסדר)",
-      "isSecondDay": false,
-      "id": "חג_הפסח_(ליל_הסדר)",
-      "requiresAlert": true
-    },
-    {
-      "requiresAlert": false,
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "date": "2027-04-22",
-      "id": "חול_המועד_פסח",
-      "name": "חול המועד פסח"
-    },
-    {
-      "type": "HOLIDAY",
-      "date": "2027-04-23",
-      "isSecondDay": false,
-      "name": "שבת - חול המועד פסח",
-      "id": "שבת_-_חול_המועד_פסח",
-      "requiresAlert": true
-    },
-    {
-      "id": "חול_המועד_פסח",
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "name": "חול המועד פסח",
-      "isSecondDay": false,
-      "date": "2027-04-24"
-    },
-    {
-      "id": "חול_המועד_פסח",
-      "name": "חול המועד פסח",
-      "date": "2027-04-25",
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "requiresAlert": false
-    },
-    {
-      "isSecondDay": false,
-      "date": "2027-04-26",
-      "name": "חול המועד פסח",
-      "id": "חול_המועד_פסח",
-      "requiresAlert": false,
-      "type": "HOLIDAY"
-    },
-    {
-      "type": "HOLIDAY",
-      "date": "2027-04-27",
-      "name": "שביעי של פסח",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "id": "שביעי_של_פסח"
-    },
-    {
-      "isSecondDay": false,
-      "id": "shabbat",
-      "date": "2027-04-30",
-      "name": "שבת פרשת אחרי מות",
-      "requiresAlert": true,
-      "type": "SHABBAT"
-    },
-    {
-      "name": "שבת פרשת קדשים",
-      "id": "shabbat",
-      "date": "2027-05-07",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
-      "name": "שבת פרשת אמור",
-      "date": "2027-05-14",
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
-      "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "name": "שבת פרשת בהר",
-      "date": "2027-05-21",
-      "isSecondDay": false
-    },
-    {
-      "id": "shabbat",
-      "name": "שבת פרשת בחקתי",
-      "isSecondDay": false,
-      "date": "2027-05-28",
-      "requiresAlert": true,
-      "type": "SHABBAT"
-    },
-    {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "date": "2027-06-04",
-      "name": "שבת פרשת במדבר"
-    },
-    {
-      "id": "חג_השבועות",
-      "date": "2027-06-10",
-      "isSecondDay": false,
-      "name": "חג השבועות",
-      "requiresAlert": true,
-      "type": "HOLIDAY"
-    },
-    {
-      "isSecondDay": true,
-      "name": "שבת פרשת נשא",
-      "date": "2027-06-11",
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "requiresAlert": false
-    },
-    {
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "name": "שבת פרשת בהעלתך",
-      "date": "2027-06-18"
-    },
-    {
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "name": "שבת פרשת שלח־לך",
-      "date": "2027-06-25",
-      "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
-      "isSecondDay": false,
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "date": "2027-07-02",
-      "requiresAlert": true,
-      "name": "שבת פרשת קורח"
-    },
-    {
-      "type": "SHABBAT",
-      "date": "2027-07-09",
-      "name": "שבת פרשת חוקת",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "id": "shabbat"
-    },
-    {
-      "requiresAlert": true,
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "name": "שבת פרשת בלק",
-      "date": "2027-07-16"
-    },
-    {
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "date": "2027-07-23",
-      "name": "שבת פרשת פינחס",
-      "id": "shabbat"
-    },
-    {
-      "id": "shabbat",
-      "isSecondDay": false,
-      "name": "שבת פרשת מטות־מסעי",
-      "requiresAlert": true,
-      "date": "2027-07-30",
-      "type": "SHABBAT"
-    },
-    {
-      "name": "שבת פרשת דברים",
-      "date": "2027-08-06",
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "isSecondDay": false
-    },
-    {
-      "date": "2027-08-11",
-      "name": "Tish’a B’Av",
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "id": "Tish’a_B’Av"
-    },
-    {
-      "name": "שבת פרשת ואתחנן",
-      "date": "2027-08-13",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
-      "id": "Tu_B’Av",
-      "name": "Tu B’Av",
-      "isSecondDay": false,
-      "date": "2027-08-17",
-      "requiresAlert": false,
-      "type": "HOLIDAY"
-    },
-    {
-      "date": "2027-08-20",
-      "name": "שבת פרשת עקב",
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "isSecondDay": false,
-      "id": "shabbat"
-    },
-    {
-      "date": "2027-08-27",
-      "name": "שבת פרשת ראה",
-      "isSecondDay": false,
-      "type": "SHABBAT",
-      "requiresAlert": true,
-      "id": "shabbat"
-    },
-    {
-      "requiresAlert": true,
-      "date": "2027-09-03",
-      "isSecondDay": false,
-      "id": "shabbat",
-      "name": "שבת פרשת שופטים",
-      "type": "SHABBAT"
-    },
-    {
-      "isSecondDay": false,
-      "id": "shabbat",
-      "name": "שבת פרשת כי־תצא",
-      "date": "2027-09-10",
-      "requiresAlert": true,
-      "type": "SHABBAT"
-    },
-    {
-      "requiresAlert": true,
-      "date": "2027-09-17",
-      "isSecondDay": false,
-      "name": "שבת פרשת כי־תבוא",
-      "type": "SHABBAT",
-      "id": "shabbat"
-    },
-    {
-      "type": "SHABBAT",
-      "date": "2027-09-24",
-      "name": "שבת פרשת נצבים־וילך",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false
-    },
-    {
-      "type": "HOLIDAY",
-      "requiresAlert": true,
-      "date": "2027-10-01",
-      "isSecondDay": false,
-      "name": "שבת - ראש השנה",
-      "id": "שבת_-_ראש_השנה"
-    },
-    {
-      "name": "ראש השנה (יום ב')",
-      "date": "2027-10-02",
-      "isSecondDay": true,
-      "id": "ראש_השנה_(יום_ב')",
-      "type": "HOLIDAY",
-      "requiresAlert": false
-    },
-    {
-      "requiresAlert": true,
-      "isSecondDay": false,
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "name": "שבת פרשת האזינו",
-      "date": "2027-10-08"
-    },
-    {
-      "name": "יום הכיפורים",
-      "date": "2027-10-10",
-      "requiresAlert": true,
-      "type": "HOLIDAY",
-      "id": "יום_הכיפורים",
-      "isSecondDay": false
-    },
-    {
-      "date": "2027-10-15",
-      "isSecondDay": false,
-      "name": "שבת - חג הסוכות",
-      "requiresAlert": true,
-      "type": "HOLIDAY",
-      "id": "שבת_-_חג_הסוכות"
-    },
-    {
-      "requiresAlert": false,
-      "isSecondDay": false,
-      "date": "2027-10-16",
-      "name": "חול המועד סוכות",
-      "type": "HOLIDAY",
-      "id": "חול_המועד_סוכות"
-    },
-    {
-      "name": "חול המועד סוכות",
-      "id": "חול_המועד_סוכות",
-      "date": "2027-10-17",
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "requiresAlert": false
-    },
-    {
-      "name": "חול המועד סוכות",
-      "date": "2027-10-18",
-      "type": "HOLIDAY",
-      "id": "חול_המועד_סוכות",
-      "requiresAlert": false,
-      "isSecondDay": false
-    },
-    {
-      "type": "HOLIDAY",
-      "id": "חול_המועד_סוכות",
-      "isSecondDay": false,
-      "name": "חול המועד סוכות",
-      "date": "2027-10-19",
-      "requiresAlert": false
-    },
-    {
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "date": "2027-10-20",
-      "name": "חול המועד סוכות",
-      "id": "חול_המועד_סוכות",
-      "requiresAlert": false
-    },
-    {
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "id": "Sukkot_VII_(Hoshana_Raba)",
-      "name": "Sukkot VII (Hoshana Raba)",
-      "requiresAlert": false,
-      "date": "2027-10-21"
-    },
-    {
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "date": "2027-10-22",
-      "name": "שבת - שמיני עצרת - שמחת תורה",
-      "id": "שבת_-_שמיני_עצרת_-_שמחת_תורה",
-      "type": "HOLIDAY"
-    },
-    {
-      "type": "SHABBAT",
-      "date": "2027-10-29",
-      "name": "שבת פרשת בראשית",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "id": "shabbat"
-    },
-    {
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "date": "2027-11-05",
-      "isSecondDay": false,
-      "requiresAlert": true,
-      "name": "שבת פרשת נח"
-    },
-    {
-      "isSecondDay": false,
-      "date": "2027-11-12",
-      "name": "שבת פרשת לך־לך",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "type": "SHABBAT"
-    },
-    {
-      "isSecondDay": false,
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "date": "2027-11-19",
-      "requiresAlert": true,
-      "name": "שבת פרשת וירא"
-    },
-    {
-      "date": "2027-11-26",
-      "name": "שבת פרשת חיי שרה",
-      "type": "SHABBAT",
-      "id": "shabbat",
-      "requiresAlert": true,
-      "isSecondDay": false
-    },
-    {
-      "name": "שבת פרשת תולדות",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "date": "2027-12-03",
-      "type": "SHABBAT",
-      "isSecondDay": false
-    },
-    {
-      "requiresAlert": true,
-      "type": "SHABBAT",
-      "date": "2027-12-10",
-      "name": "שבת פרשת ויצא",
-      "isSecondDay": false,
-      "id": "shabbat"
-    },
-    {
-      "name": "שבת פרשת וישלח",
-      "date": "2027-12-17",
-      "requiresAlert": true,
-      "id": "shabbat",
-      "type": "SHABBAT",
-      "isSecondDay": false
-    },
-    {
-      "name": "חנוכה (נר ראשון)",
-      "id": "חנוכה_(נר_ראשון)",
-      "date": "2027-12-23",
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "requiresAlert": false
-    },
-    {
-      "type": "SHABBAT",
-      "name": "שבת פרשת וישב",
-      "id": "shabbat",
-      "date": "2027-12-24",
-      "isSecondDay": false,
-      "requiresAlert": true
-    },
-    {
-      "name": "חנוכה",
-      "date": "2027-12-25",
-      "id": "חנוכה",
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "requiresAlert": false
-    },
-    {
-      "name": "חנוכה",
-      "requiresAlert": false,
-      "id": "חנוכה",
-      "date": "2027-12-26",
-      "type": "HOLIDAY",
-      "isSecondDay": false
-    },
-    {
-      "requiresAlert": false,
-      "isSecondDay": false,
-      "type": "HOLIDAY",
-      "date": "2027-12-27",
-      "name": "חנוכה",
-      "id": "חנוכה"
-    },
-    {
-      "id": "חנוכה",
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "requiresAlert": false,
-      "name": "חנוכה",
-      "date": "2027-12-28"
-    },
-    {
-      "requiresAlert": false,
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2027-12-29",
-      "name": "חנוכה",
-      "id": "חנוכה"
-    },
-    {
-      "type": "HOLIDAY",
-      "isSecondDay": false,
-      "date": "2027-12-30",
-      "name": "חנוכה",
-      "requiresAlert": false,
-      "id": "חנוכה"
-    }
-  ],
-  "year": 2027,
-  "region": "israel",
-  "updatedAt": "2026-08-14T15:26:28.890Z",
   "hebrewByDate": {
-    "2027-03-06": {
-      "hebrewMonth": 6,
-      "hebrewDay": 27
+    "2027-12-04": {
+      "hebrewMonth": 3,
+      "hebrewDay": 4
     },
-    "2027-04-24": {
-      "hebrewDay": 17,
-      "hebrewMonth": 7
+    "2027-06-10": {
+      "hebrewMonth": 9,
+      "hebrewDay": 5
     },
-    "2027-02-27": {
-      "hebrewDay": 20,
-      "hebrewMonth": 6
+    "2027-10-20": {
+      "hebrewDay": 19,
+      "hebrewMonth": 1
     },
-    "2027-07-03": {
-      "hebrewDay": 28,
-      "hebrewMonth": 9
+    "2027-06-06": {
+      "hebrewMonth": 9,
+      "hebrewDay": 1
     },
-    "2027-01-23": {
-      "hebrewMonth": 5,
+    "2027-05-22": {
+      "hebrewMonth": 8,
       "hebrewDay": 15
     },
-    "2027-09-02": {
-      "hebrewMonth": 11,
-      "hebrewDay": 30
+    "2027-03-09": {
+      "hebrewDay": 30,
+      "hebrewMonth": 6
     },
     "2027-02-06": {
       "hebrewMonth": 5,
       "hebrewDay": 29
     },
-    "2027-04-26": {
-      "hebrewDay": 19,
-      "hebrewMonth": 7
+    "2027-09-03": {
+      "hebrewMonth": 12,
+      "hebrewDay": 1
     },
-    "2027-11-13": {
-      "hebrewDay": 13,
-      "hebrewMonth": 2
-    },
-    "2027-02-08": {
-      "hebrewDay": 1,
-      "hebrewMonth": 6
-    },
-    "2027-04-22": {
-      "hebrewMonth": 7,
-      "hebrewDay": 15
-    },
-    "2027-02-13": {
-      "hebrewMonth": 6,
-      "hebrewDay": 6
-    },
-    "2027-03-23": {
-      "hebrewDay": 14,
-      "hebrewMonth": 13
-    },
-    "2027-03-24": {
-      "hebrewMonth": 13,
-      "hebrewDay": 15
-    },
-    "2027-03-10": {
-      "hebrewDay": 1,
+    "2027-03-27": {
+      "hebrewDay": 18,
       "hebrewMonth": 13
     },
     "2027-10-19": {
       "hebrewMonth": 1,
       "hebrewDay": 18
     },
-    "2027-04-25": {
-      "hebrewDay": 18,
-      "hebrewMonth": 7
+    "2027-06-05": {
+      "hebrewDay": 29,
+      "hebrewMonth": 8
     },
-    "2027-11-27": {
-      "hebrewDay": 27,
-      "hebrewMonth": 2
+    "2027-10-02": {
+      "hebrewDay": 1,
+      "hebrewMonth": 1
     },
-    "2027-12-27": {
-      "hebrewMonth": 3,
-      "hebrewDay": 27
+    "2027-01-23": {
+      "hebrewMonth": 5,
+      "hebrewDay": 15
+    },
+    "2027-10-21": {
+      "hebrewDay": 20,
+      "hebrewMonth": 1
+    },
+    "2027-12-24": {
+      "hebrewDay": 24,
+      "hebrewMonth": 3
     },
     "2027-11-01": {
+      "hebrewMonth": 2,
+      "hebrewDay": 1
+    },
+    "2027-02-22": {
+      "hebrewDay": 15,
+      "hebrewMonth": 6
+    },
+    "2027-10-22": {
+      "hebrewDay": 21,
+      "hebrewMonth": 1
+    },
+    "2027-11-13": {
+      "hebrewMonth": 2,
+      "hebrewDay": 13
+    },
+    "2027-06-26": {
+      "hebrewDay": 21,
+      "hebrewMonth": 9
+    },
+    "2027-02-21": {
+      "hebrewMonth": 6,
+      "hebrewDay": 14
+    },
+    "2027-08-14": {
+      "hebrewDay": 11,
+      "hebrewMonth": 11
+    },
+    "2027-04-26": {
+      "hebrewDay": 19,
+      "hebrewMonth": 7
+    },
+    "2027-08-18": {
+      "hebrewDay": 15,
+      "hebrewMonth": 11
+    },
+    "2027-12-31": {
+      "hebrewMonth": 4,
+      "hebrewDay": 1
+    },
+    "2027-07-31": {
+      "hebrewDay": 26,
+      "hebrewMonth": 10
+    },
+    "2027-08-04": {
       "hebrewDay": 1,
-      "hebrewMonth": 2
+      "hebrewMonth": 11
+    },
+    "2027-04-23": {
+      "hebrewDay": 16,
+      "hebrewMonth": 7
+    },
+    "2027-04-21": {
+      "hebrewDay": 14,
+      "hebrewMonth": 7
+    },
+    "2027-12-30": {
+      "hebrewDay": 30,
+      "hebrewMonth": 3
     },
     "2027-08-11": {
       "hebrewMonth": 11,
       "hebrewDay": 8
     },
-    "2027-03-13": {
-      "hebrewDay": 4,
-      "hebrewMonth": 13
-    },
-    "2027-11-30": {
-      "hebrewMonth": 2,
-      "hebrewDay": 30
-    },
-    "2027-10-22": {
+    "2027-10-03": {
       "hebrewMonth": 1,
-      "hebrewDay": 21
+      "hebrewDay": 2
     },
-    "2027-07-06": {
-      "hebrewMonth": 10,
-      "hebrewDay": 1
+    "2027-09-04": {
+      "hebrewMonth": 12,
+      "hebrewDay": 2
     },
-    "2027-11-06": {
-      "hebrewMonth": 2,
-      "hebrewDay": 6
+    "2027-04-22": {
+      "hebrewDay": 15,
+      "hebrewMonth": 7
     },
-    "2027-10-21": {
-      "hebrewMonth": 1,
-      "hebrewDay": 20
-    },
-    "2027-04-08": {
+    "2027-04-17": {
       "hebrewMonth": 7,
-      "hebrewDay": 1
+      "hebrewDay": 10
+    },
+    "2027-04-25": {
+      "hebrewDay": 18,
+      "hebrewMonth": 7
+    },
+    "2027-09-11": {
+      "hebrewDay": 9,
+      "hebrewMonth": 12
+    },
+    "2027-05-21": {
+      "hebrewDay": 14,
+      "hebrewMonth": 8
+    },
+    "2027-10-01": {
+      "hebrewDay": 29,
+      "hebrewMonth": 12
+    },
+    "2027-03-20": {
+      "hebrewDay": 11,
+      "hebrewMonth": 13
     },
     "2027-07-05": {
       "hebrewMonth": 9,
       "hebrewDay": 30
     },
     "2027-02-07": {
-      "hebrewDay": 30,
-      "hebrewMonth": 5
-    },
-    "2027-06-12": {
-      "hebrewMonth": 9,
-      "hebrewDay": 7
-    },
-    "2027-09-03": {
-      "hebrewDay": 1,
-      "hebrewMonth": 12
-    },
-    "2027-12-25": {
-      "hebrewMonth": 3,
-      "hebrewDay": 25
-    },
-    "2027-01-16": {
-      "hebrewDay": 8,
-      "hebrewMonth": 5
-    },
-    "2027-07-24": {
-      "hebrewMonth": 10,
-      "hebrewDay": 19
-    },
-    "2027-12-29": {
-      "hebrewMonth": 3,
-      "hebrewDay": 29
-    },
-    "2027-09-18": {
-      "hebrewDay": 16,
-      "hebrewMonth": 12
-    },
-    "2027-05-07": {
-      "hebrewMonth": 7,
+      "hebrewMonth": 5,
       "hebrewDay": 30
     },
-    "2027-08-12": {
-      "hebrewDay": 9,
-      "hebrewMonth": 11
+    "2027-12-26": {
+      "hebrewDay": 26,
+      "hebrewMonth": 3
     },
-    "2027-04-28": {
+    "2027-04-27": {
       "hebrewMonth": 7,
-      "hebrewDay": 21
+      "hebrewDay": 20
     },
-    "2027-02-21": {
-      "hebrewMonth": 6,
-      "hebrewDay": 14
-    },
-    "2027-10-16": {
-      "hebrewMonth": 1,
-      "hebrewDay": 15
+    "2027-03-23": {
+      "hebrewDay": 14,
+      "hebrewMonth": 13
     },
     "2027-05-01": {
       "hebrewDay": 24,
       "hebrewMonth": 7
     },
-    "2027-12-04": {
-      "hebrewDay": 4,
-      "hebrewMonth": 3
-    },
-    "2027-12-18": {
-      "hebrewDay": 18,
-      "hebrewMonth": 3
-    },
-    "2027-06-26": {
-      "hebrewDay": 21,
-      "hebrewMonth": 9
-    },
-    "2027-10-31": {
-      "hebrewMonth": 1,
-      "hebrewDay": 30
-    },
-    "2027-01-30": {
-      "hebrewDay": 22,
-      "hebrewMonth": 5
-    },
-    "2027-09-11": {
-      "hebrewDay": 9,
-      "hebrewMonth": 12
-    },
-    "2027-05-15": {
-      "hebrewMonth": 8,
-      "hebrewDay": 8
-    },
-    "2027-08-07": {
-      "hebrewDay": 4,
-      "hebrewMonth": 11
-    },
-    "2027-04-03": {
-      "hebrewMonth": 13,
-      "hebrewDay": 25
-    },
-    "2027-05-22": {
-      "hebrewDay": 15,
-      "hebrewMonth": 8
-    },
-    "2027-10-11": {
-      "hebrewDay": 10,
-      "hebrewMonth": 1
-    },
-    "2027-04-27": {
-      "hebrewDay": 20,
-      "hebrewMonth": 7
-    },
-    "2027-12-28": {
-      "hebrewDay": 28,
-      "hebrewMonth": 3
-    },
-    "2027-10-23": {
-      "hebrewDay": 22,
-      "hebrewMonth": 1
-    },
-    "2027-10-02": {
-      "hebrewDay": 1,
-      "hebrewMonth": 1
-    },
-    "2027-01-02": {
-      "hebrewDay": 23,
-      "hebrewMonth": 4
-    },
-    "2027-06-06": {
-      "hebrewMonth": 9,
-      "hebrewDay": 1
-    },
-    "2027-10-01": {
-      "hebrewDay": 29,
-      "hebrewMonth": 12
-    },
-    "2027-08-21": {
-      "hebrewDay": 18,
-      "hebrewMonth": 11
-    },
     "2027-03-22": {
       "hebrewMonth": 13,
       "hebrewDay": 13
-    },
-    "2027-03-09": {
-      "hebrewMonth": 6,
-      "hebrewDay": 30
-    },
-    "2027-08-18": {
-      "hebrewMonth": 11,
-      "hebrewDay": 15
-    },
-    "2027-04-10": {
-      "hebrewDay": 3,
-      "hebrewMonth": 7
-    },
-    "2027-05-08": {
-      "hebrewMonth": 8,
-      "hebrewDay": 1
-    },
-    "2027-10-09": {
-      "hebrewMonth": 1,
-      "hebrewDay": 8
-    },
-    "2027-10-30": {
-      "hebrewDay": 29,
-      "hebrewMonth": 1
-    },
-    "2027-08-28": {
-      "hebrewMonth": 11,
-      "hebrewDay": 25
-    },
-    "2027-12-31": {
-      "hebrewMonth": 4,
-      "hebrewDay": 1
-    },
-    "2027-11-20": {
-      "hebrewDay": 20,
-      "hebrewMonth": 2
-    },
-    "2027-09-25": {
-      "hebrewDay": 23,
-      "hebrewMonth": 12
-    },
-    "2027-12-24": {
-      "hebrewDay": 24,
-      "hebrewMonth": 3
-    },
-    "2027-06-19": {
-      "hebrewMonth": 9,
-      "hebrewDay": 14
-    },
-    "2027-02-20": {
-      "hebrewDay": 13,
-      "hebrewMonth": 6
-    },
-    "2027-07-17": {
-      "hebrewDay": 12,
-      "hebrewMonth": 10
-    },
-    "2027-05-21": {
-      "hebrewMonth": 8,
-      "hebrewDay": 14
-    },
-    "2027-10-10": {
-      "hebrewDay": 9,
-      "hebrewMonth": 1
-    },
-    "2027-06-05": {
-      "hebrewMonth": 8,
-      "hebrewDay": 29
     },
     "2027-06-11": {
       "hebrewMonth": 9,
       "hebrewDay": 6
     },
-    "2027-03-20": {
+    "2027-03-24": {
       "hebrewMonth": 13,
+      "hebrewDay": 15
+    },
+    "2027-10-23": {
+      "hebrewMonth": 1,
+      "hebrewDay": 22
+    },
+    "2027-02-13": {
+      "hebrewDay": 6,
+      "hebrewMonth": 6
+    },
+    "2027-01-30": {
+      "hebrewMonth": 5,
+      "hebrewDay": 22
+    },
+    "2027-11-27": {
+      "hebrewMonth": 2,
+      "hebrewDay": 27
+    },
+    "2027-07-24": {
+      "hebrewMonth": 10,
+      "hebrewDay": 19
+    },
+    "2027-09-18": {
+      "hebrewMonth": 12,
+      "hebrewDay": 16
+    },
+    "2027-08-21": {
+      "hebrewDay": 18,
+      "hebrewMonth": 11
+    },
+    "2027-11-30": {
+      "hebrewMonth": 2,
+      "hebrewDay": 30
+    },
+    "2027-05-29": {
+      "hebrewDay": 22,
+      "hebrewMonth": 8
+    },
+    "2027-10-16": {
+      "hebrewDay": 15,
+      "hebrewMonth": 1
+    },
+    "2027-03-10": {
+      "hebrewDay": 1,
+      "hebrewMonth": 13
+    },
+    "2027-03-13": {
+      "hebrewMonth": 13,
+      "hebrewDay": 4
+    },
+    "2027-01-16": {
+      "hebrewDay": 8,
+      "hebrewMonth": 5
+    },
+    "2027-12-01": {
+      "hebrewMonth": 3,
+      "hebrewDay": 1
+    },
+    "2027-12-28": {
+      "hebrewMonth": 3,
+      "hebrewDay": 28
+    },
+    "2027-06-12": {
+      "hebrewDay": 7,
+      "hebrewMonth": 9
+    },
+    "2027-05-15": {
+      "hebrewDay": 8,
+      "hebrewMonth": 8
+    },
+    "2027-12-11": {
+      "hebrewMonth": 3,
       "hebrewDay": 11
+    },
+    "2027-11-06": {
+      "hebrewDay": 6,
+      "hebrewMonth": 2
+    },
+    "2027-12-25": {
+      "hebrewDay": 25,
+      "hebrewMonth": 3
+    },
+    "2027-10-10": {
+      "hebrewMonth": 1,
+      "hebrewDay": 9
+    },
+    "2027-12-29": {
+      "hebrewMonth": 3,
+      "hebrewDay": 29
+    },
+    "2027-01-09": {
+      "hebrewDay": 1,
+      "hebrewMonth": 5
     },
     "2027-05-25": {
       "hebrewDay": 18,
       "hebrewMonth": 8
     },
     "2027-10-18": {
-      "hebrewMonth": 1,
-      "hebrewDay": 17
-    },
-    "2027-12-11": {
-      "hebrewMonth": 3,
-      "hebrewDay": 11
-    },
-    "2027-12-01": {
-      "hebrewDay": 1,
-      "hebrewMonth": 3
-    },
-    "2027-04-21": {
-      "hebrewMonth": 7,
-      "hebrewDay": 14
-    },
-    "2027-04-23": {
-      "hebrewDay": 16,
-      "hebrewMonth": 7
-    },
-    "2027-10-20": {
-      "hebrewDay": 19,
+      "hebrewDay": 17,
       "hebrewMonth": 1
     },
-    "2027-12-30": {
-      "hebrewMonth": 3,
+    "2027-03-06": {
+      "hebrewMonth": 6,
+      "hebrewDay": 27
+    },
+    "2027-07-17": {
+      "hebrewMonth": 10,
+      "hebrewDay": 12
+    },
+    "2027-02-08": {
+      "hebrewMonth": 6,
+      "hebrewDay": 1
+    },
+    "2027-04-08": {
+      "hebrewMonth": 7,
+      "hebrewDay": 1
+    },
+    "2027-07-10": {
+      "hebrewDay": 5,
+      "hebrewMonth": 10
+    },
+    "2027-04-03": {
+      "hebrewDay": 25,
+      "hebrewMonth": 13
+    },
+    "2027-08-07": {
+      "hebrewMonth": 11,
+      "hebrewDay": 4
+    },
+    "2027-09-02": {
+      "hebrewMonth": 11,
       "hebrewDay": 30
     },
-    "2027-10-15": {
-      "hebrewDay": 14,
-      "hebrewMonth": 1
+    "2027-12-18": {
+      "hebrewMonth": 3,
+      "hebrewDay": 18
     },
-    "2027-01-09": {
-      "hebrewDay": 1,
-      "hebrewMonth": 5
+    "2027-06-19": {
+      "hebrewMonth": 9,
+      "hebrewDay": 14
     },
-    "2027-10-03": {
-      "hebrewMonth": 1,
-      "hebrewDay": 2
+    "2027-01-02": {
+      "hebrewDay": 23,
+      "hebrewMonth": 4
     },
     "2027-10-17": {
       "hebrewMonth": 1,
       "hebrewDay": 16
     },
-    "2027-08-04": {
-      "hebrewDay": 1,
-      "hebrewMonth": 11
+    "2027-10-31": {
+      "hebrewDay": 30,
+      "hebrewMonth": 1
     },
-    "2027-08-14": {
-      "hebrewMonth": 11,
-      "hebrewDay": 11
-    },
-    "2027-09-04": {
+    "2027-09-25": {
       "hebrewMonth": 12,
-      "hebrewDay": 2
+      "hebrewDay": 23
     },
-    "2027-12-26": {
-      "hebrewDay": 26,
-      "hebrewMonth": 3
+    "2027-04-28": {
+      "hebrewMonth": 7,
+      "hebrewDay": 21
     },
-    "2027-03-27": {
-      "hebrewMonth": 13,
-      "hebrewDay": 18
+    "2027-04-24": {
+      "hebrewDay": 17,
+      "hebrewMonth": 7
     },
-    "2027-07-31": {
-      "hebrewMonth": 10,
-      "hebrewDay": 26
+    "2027-08-12": {
+      "hebrewMonth": 11,
+      "hebrewDay": 9
     },
-    "2027-06-10": {
-      "hebrewMonth": 9,
-      "hebrewDay": 5
+    "2027-10-15": {
+      "hebrewMonth": 1,
+      "hebrewDay": 14
     },
-    "2027-02-22": {
-      "hebrewDay": 15,
+    "2027-10-09": {
+      "hebrewDay": 8,
+      "hebrewMonth": 1
+    },
+    "2027-02-27": {
+      "hebrewDay": 20,
       "hebrewMonth": 6
     },
-    "2027-05-29": {
-      "hebrewMonth": 8,
-      "hebrewDay": 22
+    "2027-12-27": {
+      "hebrewMonth": 3,
+      "hebrewDay": 27
     },
-    "2027-07-10": {
-      "hebrewMonth": 10,
-      "hebrewDay": 5
+    "2027-10-30": {
+      "hebrewMonth": 1,
+      "hebrewDay": 29
     },
-    "2027-04-17": {
-      "hebrewMonth": 7,
-      "hebrewDay": 10
+    "2027-02-20": {
+      "hebrewDay": 13,
+      "hebrewMonth": 6
+    },
+    "2027-07-06": {
+      "hebrewDay": 1,
+      "hebrewMonth": 10
+    },
+    "2027-11-20": {
+      "hebrewDay": 20,
+      "hebrewMonth": 2
+    },
+    "2027-05-08": {
+      "hebrewDay": 1,
+      "hebrewMonth": 8
+    },
+    "2027-07-03": {
+      "hebrewMonth": 9,
+      "hebrewDay": 28
+    },
+    "2027-04-10": {
+      "hebrewDay": 3,
+      "hebrewMonth": 7
+    },
+    "2027-10-11": {
+      "hebrewDay": 10,
+      "hebrewMonth": 1
+    },
+    "2027-08-28": {
+      "hebrewMonth": 11,
+      "hebrewDay": 25
+    },
+    "2027-05-07": {
+      "hebrewDay": 30,
+      "hebrewMonth": 7
     }
-  }
+  },
+  "events": [
+    {
+      "id": "shabbat",
+      "name": "שבת פרשת שמות",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "date": "2027-01-01",
+      "type": "SHABBAT"
+    },
+    {
+      "date": "2027-01-08",
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת וארא"
+    },
+    {
+      "id": "shabbat",
+      "isSecondDay": false,
+      "name": "שבת פרשת בא",
+      "requiresAlert": true,
+      "date": "2027-01-15",
+      "type": "SHABBAT"
+    },
+    {
+      "date": "2027-01-22",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "id": "shabbat",
+      "name": "שבת פרשת בשלח",
+      "requiresAlert": true
+    },
+    {
+      "isSecondDay": false,
+      "name": "שבת פרשת יתרו",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "date": "2027-01-29",
+      "type": "SHABBAT"
+    },
+    {
+      "type": "SHABBAT",
+      "date": "2027-02-05",
+      "name": "שבת פרשת משפטים",
+      "isSecondDay": false,
+      "id": "shabbat",
+      "requiresAlert": true
+    },
+    {
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "date": "2027-02-12",
+      "name": "שבת פרשת תרומה",
+      "requiresAlert": true,
+      "isSecondDay": false
+    },
+    {
+      "id": "shabbat",
+      "date": "2027-02-19",
+      "type": "SHABBAT",
+      "name": "שבת פרשת תצוה",
+      "isSecondDay": false,
+      "requiresAlert": true
+    },
+    {
+      "date": "2027-02-20",
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "name": "Purim Katan",
+      "id": "Purim_Katan"
+    },
+    {
+      "name": "Shushan Purim Katan",
+      "requiresAlert": false,
+      "id": "Shushan_Purim_Katan",
+      "type": "HOLIDAY",
+      "date": "2027-02-21",
+      "isSecondDay": false
+    },
+    {
+      "id": "shabbat",
+      "name": "שבת פרשת כי תשא",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "date": "2027-02-26",
+      "type": "SHABBAT"
+    },
+    {
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "date": "2027-03-05",
+      "requiresAlert": true,
+      "name": "שבת פרשת ויקהל",
+      "isSecondDay": false
+    },
+    {
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "date": "2027-03-12",
+      "name": "שבת פרשת פקודי"
+    },
+    {
+      "type": "SHABBAT",
+      "date": "2027-03-19",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "name": "שבת פרשת ויקרא",
+      "isSecondDay": false
+    },
+    {
+      "isSecondDay": false,
+      "name": "פורים",
+      "requiresAlert": false,
+      "id": "פורים",
+      "date": "2027-03-22",
+      "type": "HOLIDAY"
+    },
+    {
+      "name": "שושן פורים",
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "date": "2027-03-23",
+      "id": "שושן_פורים",
+      "requiresAlert": false
+    },
+    {
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "date": "2027-03-26",
+      "id": "shabbat",
+      "name": "שבת פרשת צו",
+      "requiresAlert": true
+    },
+    {
+      "type": "SHABBAT",
+      "date": "2027-04-02",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "isSecondDay": false,
+      "name": "שבת פרשת שמיני"
+    },
+    {
+      "id": "shabbat",
+      "date": "2027-04-09",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "name": "שבת פרשת תזריע",
+      "requiresAlert": true
+    },
+    {
+      "id": "shabbat",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "date": "2027-04-16",
+      "isSecondDay": false,
+      "name": "שבת פרשת מצרע"
+    },
+    {
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "date": "2027-04-21",
+      "type": "HOLIDAY",
+      "name": "חג הפסח (ליל הסדר)",
+      "id": "חג_הפסח_(ליל_הסדר)"
+    },
+    {
+      "id": "חול_המועד_פסח",
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "date": "2027-04-22",
+      "type": "HOLIDAY",
+      "name": "חול המועד פסח"
+    },
+    {
+      "date": "2027-04-23",
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "id": "שבת_-_חול_המועד_פסח",
+      "name": "שבת - חול המועד פסח",
+      "requiresAlert": true
+    },
+    {
+      "id": "חול_המועד_פסח",
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "date": "2027-04-24",
+      "name": "חול המועד פסח",
+      "isSecondDay": false
+    },
+    {
+      "requiresAlert": false,
+      "isSecondDay": false,
+      "name": "חול המועד פסח",
+      "id": "חול_המועד_פסח",
+      "date": "2027-04-25",
+      "type": "HOLIDAY"
+    },
+    {
+      "date": "2027-04-26",
+      "type": "HOLIDAY",
+      "id": "חול_המועד_פסח",
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "name": "חול המועד פסח"
+    },
+    {
+      "name": "שביעי של פסח",
+      "requiresAlert": true,
+      "id": "שביעי_של_פסח",
+      "isSecondDay": false,
+      "date": "2027-04-27",
+      "type": "HOLIDAY"
+    },
+    {
+      "requiresAlert": true,
+      "name": "שבת פרשת אחרי מות",
+      "isSecondDay": false,
+      "id": "shabbat",
+      "date": "2027-04-30",
+      "type": "SHABBAT"
+    },
+    {
+      "date": "2027-05-07",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "name": "שבת פרשת קדשים",
+      "id": "shabbat",
+      "isSecondDay": false
+    },
+    {
+      "id": "shabbat",
+      "type": "SHABBAT",
+      "date": "2027-05-14",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת אמור"
+    },
+    {
+      "name": "שבת פרשת בהר",
+      "id": "shabbat",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "date": "2027-05-21",
+      "requiresAlert": true
+    },
+    {
+      "name": "שבת פרשת בחקתי",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "date": "2027-05-28",
+      "isSecondDay": false
+    },
+    {
+      "date": "2027-06-04",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "id": "shabbat",
+      "name": "שבת פרשת במדבר",
+      "requiresAlert": true
+    },
+    {
+      "date": "2027-06-10",
+      "type": "HOLIDAY",
+      "id": "חג_השבועות",
+      "requiresAlert": true,
+      "name": "חג השבועות",
+      "isSecondDay": false
+    },
+    {
+      "date": "2027-06-11",
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "name": "שבת פרשת נשא",
+      "requiresAlert": false,
+      "isSecondDay": true
+    },
+    {
+      "isSecondDay": false,
+      "name": "שבת פרשת בהעלתך",
+      "id": "shabbat",
+      "date": "2027-06-18",
+      "requiresAlert": true,
+      "type": "SHABBAT"
+    },
+    {
+      "type": "SHABBAT",
+      "date": "2027-06-25",
+      "id": "shabbat",
+      "name": "שבת פרשת שלח־לך",
+      "requiresAlert": true,
+      "isSecondDay": false
+    },
+    {
+      "date": "2027-07-02",
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "name": "שבת פרשת קורח",
+      "isSecondDay": false
+    },
+    {
+      "type": "SHABBAT",
+      "date": "2027-07-09",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת חוקת",
+      "id": "shabbat"
+    },
+    {
+      "name": "שבת פרשת בלק",
+      "id": "shabbat",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "date": "2027-07-16",
+      "type": "SHABBAT"
+    },
+    {
+      "requiresAlert": true,
+      "name": "שבת פרשת פינחס",
+      "id": "shabbat",
+      "isSecondDay": false,
+      "date": "2027-07-23",
+      "type": "SHABBAT"
+    },
+    {
+      "isSecondDay": false,
+      "date": "2027-07-30",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "name": "שבת פרשת מטות־מסעי"
+    },
+    {
+      "isSecondDay": false,
+      "date": "2027-08-06",
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "name": "שבת פרשת דברים"
+    },
+    {
+      "id": "Tish’a_B’Av",
+      "date": "2027-08-11",
+      "type": "HOLIDAY",
+      "name": "Tish’a B’Av",
+      "isSecondDay": false,
+      "requiresAlert": false
+    },
+    {
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "date": "2027-08-13",
+      "isSecondDay": false,
+      "id": "shabbat",
+      "name": "שבת פרשת ואתחנן"
+    },
+    {
+      "isSecondDay": false,
+      "name": "Tu B’Av",
+      "requiresAlert": false,
+      "id": "Tu_B’Av",
+      "type": "HOLIDAY",
+      "date": "2027-08-17"
+    },
+    {
+      "isSecondDay": false,
+      "date": "2027-08-20",
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "name": "שבת פרשת עקב"
+    },
+    {
+      "id": "shabbat",
+      "isSecondDay": false,
+      "name": "שבת פרשת ראה",
+      "requiresAlert": true,
+      "date": "2027-08-27",
+      "type": "SHABBAT"
+    },
+    {
+      "id": "shabbat",
+      "name": "שבת פרשת שופטים",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "date": "2027-09-03",
+      "type": "SHABBAT"
+    },
+    {
+      "name": "שבת פרשת כי־תצא",
+      "id": "shabbat",
+      "date": "2027-09-10",
+      "type": "SHABBAT",
+      "isSecondDay": false,
+      "requiresAlert": true
+    },
+    {
+      "requiresAlert": true,
+      "name": "שבת פרשת כי־תבוא",
+      "id": "shabbat",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "date": "2027-09-17"
+    },
+    {
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "date": "2027-09-24",
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "name": "שבת פרשת נצבים־וילך"
+    },
+    {
+      "isSecondDay": false,
+      "name": "שבת - ראש השנה",
+      "id": "שבת_-_ראש_השנה",
+      "date": "2027-10-01",
+      "type": "HOLIDAY",
+      "requiresAlert": true
+    },
+    {
+      "name": "ראש השנה (יום ב')",
+      "id": "ראש_השנה_(יום_ב')",
+      "isSecondDay": true,
+      "requiresAlert": false,
+      "date": "2027-10-02",
+      "type": "HOLIDAY"
+    },
+    {
+      "name": "שבת פרשת האזינו",
+      "id": "shabbat",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "date": "2027-10-08"
+    },
+    {
+      "name": "יום הכיפורים",
+      "date": "2027-10-10",
+      "type": "HOLIDAY",
+      "id": "יום_הכיפורים",
+      "requiresAlert": true,
+      "isSecondDay": false
+    },
+    {
+      "date": "2027-10-15",
+      "type": "HOLIDAY",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "name": "שבת - חג הסוכות",
+      "id": "שבת_-_חג_הסוכות"
+    },
+    {
+      "name": "חול המועד סוכות",
+      "requiresAlert": false,
+      "id": "חול_המועד_סוכות",
+      "type": "HOLIDAY",
+      "date": "2027-10-16",
+      "isSecondDay": false
+    },
+    {
+      "name": "חול המועד סוכות",
+      "isSecondDay": false,
+      "id": "חול_המועד_סוכות",
+      "date": "2027-10-17",
+      "type": "HOLIDAY",
+      "requiresAlert": false
+    },
+    {
+      "type": "HOLIDAY",
+      "date": "2027-10-18",
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "id": "חול_המועד_סוכות",
+      "name": "חול המועד סוכות"
+    },
+    {
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "date": "2027-10-19",
+      "isSecondDay": false,
+      "id": "חול_המועד_סוכות",
+      "name": "חול המועד סוכות"
+    },
+    {
+      "name": "חול המועד סוכות",
+      "id": "חול_המועד_סוכות",
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "requiresAlert": false,
+      "date": "2027-10-20"
+    },
+    {
+      "name": "Sukkot VII (Hoshana Raba)",
+      "id": "Sukkot_VII_(Hoshana_Raba)",
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "date": "2027-10-21",
+      "requiresAlert": false
+    },
+    {
+      "date": "2027-10-22",
+      "type": "HOLIDAY",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת - שמיני עצרת - שמחת תורה",
+      "id": "שבת_-_שמיני_עצרת_-_שמחת_תורה"
+    },
+    {
+      "type": "SHABBAT",
+      "date": "2027-10-29",
+      "id": "shabbat",
+      "requiresAlert": true,
+      "isSecondDay": false,
+      "name": "שבת פרשת בראשית"
+    },
+    {
+      "id": "shabbat",
+      "name": "שבת פרשת נח",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "date": "2027-11-05",
+      "requiresAlert": true
+    },
+    {
+      "name": "שבת פרשת לך־לך",
+      "id": "shabbat",
+      "isSecondDay": false,
+      "requiresAlert": true,
+      "type": "SHABBAT",
+      "date": "2027-11-12"
+    },
+    {
+      "name": "שבת פרשת וירא",
+      "id": "shabbat",
+      "date": "2027-11-19",
+      "type": "SHABBAT",
+      "requiresAlert": true,
+      "isSecondDay": false
+    },
+    {
+      "type": "SHABBAT",
+      "date": "2027-11-26",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "isSecondDay": false,
+      "name": "שבת פרשת חיי שרה"
+    },
+    {
+      "date": "2027-12-03",
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "name": "שבת פרשת תולדות",
+      "isSecondDay": false,
+      "requiresAlert": true
+    },
+    {
+      "name": "שבת פרשת ויצא",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "isSecondDay": false,
+      "date": "2027-12-10",
+      "type": "SHABBAT"
+    },
+    {
+      "name": "שבת פרשת וישלח",
+      "requiresAlert": true,
+      "id": "shabbat",
+      "isSecondDay": false,
+      "type": "SHABBAT",
+      "date": "2027-12-17"
+    },
+    {
+      "name": "חנוכה (נר ראשון)",
+      "date": "2027-12-23",
+      "type": "HOLIDAY",
+      "id": "חנוכה_(נר_ראשון)",
+      "requiresAlert": false,
+      "isSecondDay": false
+    },
+    {
+      "date": "2027-12-24",
+      "type": "SHABBAT",
+      "id": "shabbat",
+      "name": "שבת פרשת וישב",
+      "requiresAlert": true,
+      "isSecondDay": false
+    },
+    {
+      "type": "HOLIDAY",
+      "date": "2027-12-25",
+      "id": "חנוכה",
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "name": "חנוכה"
+    },
+    {
+      "isSecondDay": false,
+      "name": "חנוכה",
+      "requiresAlert": false,
+      "type": "HOLIDAY",
+      "id": "חנוכה",
+      "date": "2027-12-26"
+    },
+    {
+      "isSecondDay": false,
+      "name": "חנוכה",
+      "id": "חנוכה",
+      "type": "HOLIDAY",
+      "date": "2027-12-27",
+      "requiresAlert": false
+    },
+    {
+      "requiresAlert": false,
+      "id": "חנוכה",
+      "isSecondDay": false,
+      "name": "חנוכה",
+      "date": "2027-12-28",
+      "type": "HOLIDAY"
+    },
+    {
+      "isSecondDay": false,
+      "type": "HOLIDAY",
+      "date": "2027-12-29",
+      "requiresAlert": false,
+      "id": "חנוכה",
+      "name": "חנוכה"
+    },
+    {
+      "id": "חנוכה",
+      "type": "HOLIDAY",
+      "date": "2027-12-30",
+      "isSecondDay": false,
+      "requiresAlert": false,
+      "name": "חנוכה"
+    }
+  ],
+  "year": 2027,
+  "updatedAt": "2026-08-14T15:26:28.890Z",
+  "region": "israel"
 }
