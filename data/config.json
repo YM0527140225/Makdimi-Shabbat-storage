@@ -1,60 +1,62 @@
 {
-  "version": 1790721697157,
-  "updatedAt": "2026-09-29T22:41:37.157Z",
+  "version": 1790722538961,
+  "updatedAt": "2026-09-29T22:55:38.961Z",
   "settings": {
-    "disableAudioBackup": false,
-    "publishedWindowsVersion": "1.0.66",
     "configVersion": 1765715807569,
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.makdimi.shabbat",
-    "pendingPublishPaths": [],
-    "dataVersion": 1790721697157,
-    "windowsInstallerDownloadUrl": "https://github.com/YM0527140225/Makdimi-Shabbat-storage/releases/download/makdimi-software/makdimi-shabbat-x64-setup.exe",
-    "allowPublicDeveloperContact": false,
+    "alertTitles": [
+      "הדלקת נרות | בעוד 20 דקות",
+      "הדלקת נרות | בעוד 10 דקות",
+      "הדלקת נרות:"
+    ],
+    "disableAudioBackup": false,
+    "lastPublished": "30.9.2026, 1:55:38",
     "alertTiming": [
       "END",
       "END",
       "END"
     ],
-    "lastPublished": "30.9.2026, 1:41:37",
-    "hasPendingChanges": false,
+    "pendingPublishPaths": [
+      "data/config.json"
+    ],
+    "dataVersion": 1790722538961,
     "genreAlertSettings": {
       "*מודיעין עילית": {
+        "alertTitles": [
+          "הדלקת נרות | בעוד 20 דקות",
+          "הדלקת נרות | בעוד 10 דקות",
+          "הדלקת נרות:"
+        ],
         "alertTiming": [
           "START",
           "END",
           "END"
-        ],
-        "alertTitles": [
-          "הדלקת נרות | בעוד 20 דקות",
-          "הדלקת נרות | בעוד 10 דקות",
-          "הדלקת נרות:"
-        ]
-      },
-      "*צופרים כרמיאל": {
-        "alertTiming": [
-          "END",
-          "END",
-          "END"
-        ],
-        "alertTitles": [
-          "הדלקת נרות | בעוד 20 דקות",
-          "הדלקת נרות | בעוד 10 דקות",
-          "הדלקת נרות:"
         ]
       },
       "מודיעין עילית": {
-        "alertTiming": [
-          "START",
-          "END",
-          "END"
-        ],
         "alertTitles": [
           "הדלקת נרות | בעוד 20 דקות",
           "הדלקת נרות | בעוד 10 דקות",
           "הדלקת נרות:"
+        ],
+        "alertTiming": [
+          "START",
+          "END",
+          "END"
         ]
       },
       "צופרים כרמיאל": {
+        "alertTitles": [
+          "הדלקת נרות | בעוד 20 דקות",
+          "הדלקת נרות | בעוד 10 דקות",
+          "הדלקת נרות:"
+        ],
+        "alertTiming": [
+          "END",
+          "END",
+          "END"
+        ]
+      },
+      "*צופרים כרמיאל": {
         "alertTitles": [
           "הדלקת נרות | בעוד 20 דקות",
           "הדלקת נרות | בעוד 10 דקות",
@@ -71,11 +73,11 @@
       "username": "YM0527140225",
       "repo": "Makdimi-Shabbat-storage"
     },
-    "alertTitles": [
-      "הדלקת נרות | בעוד 20 דקות",
-      "הדלקת נרות | בעוד 10 דקות",
-      "הדלקת נרות:"
-    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.makdimi.shabbat",
+    "hasPendingChanges": false,
+    "allowPublicDeveloperContact": false,
+    "publishedWindowsVersion": "1.0.66",
+    "windowsInstallerDownloadUrl": "https://github.com/YM0527140225/Makdimi-Shabbat-storage/releases/download/makdimi-software/makdimi-shabbat-x64-setup.exe",
     "genres": [
       "ashkenazi",
       "*מודיעין עילית",
@@ -153,7 +155,8 @@
       "קרליבך",
       "ישראלי",
       "חסידי"
-    ]
+    ],
+    "publishedAndroidVersion": "0"
   },
   "songs": [
     {
