@@ -1,19 +1,66 @@
 {
-  "version": 1794540214373,
-  "updatedAt": "2026-11-13T03:23:34.373Z",
+  "version": 1794542458659,
+  "updatedAt": "2026-11-13T04:00:58.659Z",
   "settings": {
-    "githubParams": {
-      "username": "YM0527140225",
-      "repo": "Makdimi-Shabbat-storage"
-    },
-    "configVersion": 1765715807569,
-    "hasPendingChanges": false,
-    "publishedWindowsVersion": "1.0.80",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.makdimi.shabbat",
     "publishedAndroidVersion": "1.0.25",
-    "windowsInstallerDownloadUrl": "https://github.com/YM0527140225/Makdimi-Shabbat-storage/releases/download/makdimi-software/%D7%9E%D7%A7%D7%93%D7%99%D7%9E%D7%99%20%D7%A9%D7%91%D7%AA.exe",
-    "lastPublished": "13.11.2026, 5:23:34",
+    "pendingPublishPaths": [
+      "data/config.json"
+    ],
+    "windowsInstallerDownloadUrl": "https://github.com/YM0527140225/Makdimi-Shabbat-storage/releases/download/makdimi-software/makdimi-shabbat-x64-setup.exe",
+    "genreAlertSettings": {
+      "*מודיעין עילית": {
+        "alertTitles": [
+          "הדלקת נרות | בעוד 20 דקות",
+          "הדלקת נרות | בעוד 10 דקות",
+          "הדלקת נרות:"
+        ],
+        "alertTiming": [
+          "START",
+          "END",
+          "END"
+        ]
+      },
+      "*צופרים כרמיאל": {
+        "alertTiming": [
+          "END",
+          "END",
+          "END"
+        ],
+        "alertTitles": [
+          "הדלקת נרות | בעוד 20 דקות",
+          "הדלקת נרות | בעוד 10 דקות",
+          "הדלקת נרות:"
+        ]
+      },
+      "מודיעין עילית": {
+        "alertTiming": [
+          "START",
+          "END",
+          "END"
+        ],
+        "alertTitles": [
+          "הדלקת נרות | בעוד 20 דקות",
+          "הדלקת נרות | בעוד 10 דקות",
+          "הדלקת נרות:"
+        ]
+      },
+      "צופרים כרמיאל": {
+        "alertTitles": [
+          "הדלקת נרות | בעוד 20 דקות",
+          "הדלקת נרות | בעוד 10 דקות",
+          "הדלקת נרות:"
+        ],
+        "alertTiming": [
+          "END",
+          "END",
+          "END"
+        ]
+      }
+    },
     "disableAudioBackup": false,
-    "allowPublicDeveloperContact": true,
+    "dataVersion": 1794542458660,
+    "hasPendingChanges": false,
     "genres": [
       "ashkenazi",
       "*מודיעין עילית",
@@ -92,185 +139,205 @@
       "ישראלי",
       "חסידי"
     ],
-    "alertTitles": [
-      "הדלקת נרות | בעוד 20 דקות",
-      "הדלקת נרות | בעוד 10 דקות",
-      "הדלקת נרות:"
-    ],
+    "allowPublicDeveloperContact": true,
+    "githubParams": {
+      "username": "YM0527140225",
+      "repo": "Makdimi-Shabbat-storage"
+    },
     "alertTiming": [
       "END",
       "END",
       "END"
     ],
-    "pendingPublishPaths": [
-      "data/config.json"
+    "alertTitles": [
+      "הדלקת נרות | בעוד 20 דקות",
+      "הדלקת נרות | בעוד 10 דקות",
+      "הדלקת נרות:"
     ],
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.makdimi.shabbat",
-    "dataVersion": 1794540214376,
-    "genreAlertSettings": {
-      "*צופרים כרמיאל": {
-        "alertTitles": [
-          "הדלקת נרות | בעוד 20 דקות",
-          "הדלקת נרות | בעוד 10 דקות",
-          "הדלקת נרות:"
-        ],
-        "alertTiming": [
-          "END",
-          "END",
-          "END"
-        ]
-      },
-      "מודיעין עילית": {
-        "alertTitles": [
-          "הדלקת נרות | בעוד 20 דקות",
-          "הדלקת נרות | בעוד 10 דקות",
-          "הדלקת נרות:"
-        ],
-        "alertTiming": [
-          "START",
-          "END",
-          "END"
-        ]
-      },
-      "צופרים כרמיאל": {
-        "alertTitles": [
-          "הדלקת נרות | בעוד 20 דקות",
-          "הדלקת נרות | בעוד 10 דקות",
-          "הדלקת נרות:"
-        ],
-        "alertTiming": [
-          "END",
-          "END",
-          "END"
-        ]
-      },
-      "*מודיעין עילית": {
-        "alertTitles": [
-          "הדלקת נרות | בעוד 20 דקות",
-          "הדלקת נרות | בעוד 10 דקות",
-          "הדלקת נרות:"
-        ],
-        "alertTiming": [
-          "START",
-          "END",
-          "END"
-        ]
-      }
-    }
+    "lastPublished": "13.11.2026, 6:00:58",
+    "publishedWindowsVersion": "1.0.81",
+    "configVersion": 1765715807569
   },
   "songs": [
     {
-      "id": "shavuot",
-      "alertIndex": 0,
+      "id": "simchat_torah",
+      "alertIndex": 2,
+      "genre": "חסידי",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/חסידי/עליה לתורה.mp3",
+      "fileName": "עליה לתורה.mp3",
+      "displayTitle": "עליה לתורה",
+      "imageUrl": null,
+      "duration": 92.090333,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_chol_hamoed",
+      "alertIndex": 1,
       "genre": "*כרמיאל",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
       "fileName": "10  שניות שקט.mp3",
       "displayTitle": null,
       "imageUrl": null,
+      "duration": 10.840816,
+      "isDefault": false
+    },
+    {
+      "id": "simchat_torah",
+      "alertIndex": 2,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/ashkenazi/שמחת תורה שיר שני.mp3",
+      "fileName": "שמחת תורה שיר שני.mp3",
+      "displayTitle": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1782685489910_hkn8ev.jpg",
+      "duration": 226.936259,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_shvii",
+      "alertIndex": 1,
+      "genre": "*מודיעין עילית",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/הכרזה_ליום_טוב_בלבד_עם_ניגון.mp3",
+      "fileName": "הכרזה_ליום_טוב_בלבד_עם_ניגון.mp3",
+      "displayTitle": null,
+      "imageUrl": "",
+      "duration": 132.24,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_shvii",
+      "alertIndex": 0,
+      "genre": "*מודיעין עילית",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/מוטי שטינמץ - חסל סידור פסח.mp3",
+      "fileName": "מוטי שטינמץ - חסל סידור פסח.mp3",
+      "displayTitle": null,
+      "imageUrl": "",
+      "duration": 335.621224,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "*כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
+      "fileName": "10  שניות שקט.mp3",
+      "displayTitle": "לכה דודי קמפה",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769276299604_sebhqr.jpg",
       "duration": 10.840816,
       "isDefault": false
     },
     {
       "id": "sukkot_chol_hamoed",
-      "alertIndex": 2,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/ashkenazi/סוכות התראה שניה.mp3",
-      "fileName": "סוכות התראה שניה.mp3",
-      "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781823285798_6f7nui.jpg",
-      "duration": 285.287846,
-      "isDefault": false
-    },
-    {
-      "id": "chanukah",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/audio%2F1765225647223_Ben_Zur___________________________.mp3?alt=media&token=3f6f5d11-9a9c-4a04-af8a-9d515e1ef532",
-      "fileName": "1765225647223_Ben_Zur___________________________.mp3",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/images%2F1765186345837_IMG_20240128_WA0012__1___1_.jpg?alt=media&token=d49553ea-a4f6-4281-8915-e211d6f277ff",
-      "duration": 0,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_shvii",
-      "alertIndex": 2,
-      "genre": "*מודיעין עילית",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/בצאת_ישראל_ממצריים (1).mp3",
-      "fileName": "בצאת_ישראל_ממצריים (1).mp3",
-      "displayTitle": null,
-      "imageUrl": "",
-      "duration": 353.985306,
-      "isDefault": false
-    },
-    {
-      "id": "rosh_hashana",
       "alertIndex": 1,
       "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
-      "fileName": "הכרזה ספרדי ימים נוראים.mp3",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/נגינה והכרזה.mp3",
+      "fileName": "נגינה והכרזה.mp3",
       "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781821740517_cstdac.jpg",
-      "duration": 49.486893,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 1,
-      "genre": "*מודיעין עילית",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/הכרזה_מיוחדת_לשבת_במודיעין_עילית.mp3",
-      "fileName": "הכרזה_מיוחדת_לשבת_במודיעין_עילית.mp3",
-      "displayTitle": "הכרזה",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781800336859_tpu8xf.jpg",
-      "duration": 59.636848,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_shvii",
-      "alertIndex": 2,
-      "genre": "*כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968991531_nqogu9.mp3",
-      "fileName": "בצאת ישראל AETrim1774946618312.mp3",
-      "displayTitle": null,
-      "imageUrl": null,
-      "duration": 260.205714,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_seder",
-      "alertIndex": 2,
-      "genre": "*מודיעין עילית",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968991531_nqogu9.mp3",
-      "fileName": "בצאת ישראל AETrim1774946618312.mp3",
-      "displayTitle": "בצאת ישראל - קמפה",
-      "imageUrl": "",
-      "duration": 260.205714,
-      "isDefault": false
-    },
-    {
-      "id": "rosh_hashana",
-      "alertIndex": 0,
-      "genre": "*צופרים כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/צופרים כרמיאל/10  שניות שקט.mp3",
-      "fileName": "10  שניות שקט.mp3",
-      "displayTitle": "ללא צליל",
-      "imageUrl": null,
-      "duration": 10.840816,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/ashkenazi/08 בא שבת - Bo Shabbos.mp3",
-      "fileName": "08 בא שבת - Bo Shabbos.mp3",
-      "displayTitle": "באה שבת - שוואקי.",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781800272152_5k1ko.png",
-      "duration": 336.039211,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781823275260_yu3vx8.jpg",
+      "duration": 55.607007,
       "isDefault": false
     },
     {
       "id": "shavuot",
       "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/נגינה והכרזה.mp3",
+      "fileName": "נגינה והכרזה.mp3",
+      "displayTitle": "ניגון והכרזה עשר דקות",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781821446528_f6fgta.jpg",
+      "duration": 55.607007,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 2,
+      "genre": "*צופרים כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/צופרים כרמיאל/שלום עליכם קצר איכות MP3.mp3",
+      "fileName": "שלום עליכם קצר איכות MP3.mp3",
+      "displayTitle": "שלום עליכם ספרדי קצר",
+      "imageUrl": null,
+      "duration": 164.003125,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 2,
+      "genre": "*כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/לכה דודי.mp3",
+      "fileName": "לכה דודי.mp3",
+      "displayTitle": "לכה דודי - קמפה",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1767883952504_ramhbe.png",
+      "duration": 278.277415,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_chol_hamoed",
+      "alertIndex": 1,
+      "genre": "*מודיעין עילית",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/הכרזה_מיוחדת_לשבת_במודיעין_עילית.mp3",
+      "fileName": "הכרזה_מיוחדת_לשבת_במודיעין_עילית.mp3",
+      "displayTitle": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/_04563962-5f62-4f4f-bc9e-681e9d41b94d.jpeg",
+      "duration": 59.663673,
+      "isDefault": false
+    },
+    {
+      "id": "simchat_torah",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/ashkenazi/שמחת תורה שיר ראשון.mp3",
+      "fileName": "שמחת תורה שיר ראשון.mp3",
+      "displayTitle": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781826250838_53rdvh.jpg",
+      "duration": 265.918299,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 1,
+      "genre": "*כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
+      "fileName": "10  שניות שקט.mp3",
+      "displayTitle": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769275919712_z9bd8q.jpg",
+      "duration": 10.840816,
+      "isDefault": false
+    },
+    {
+      "id": "shavuot",
+      "alertIndex": 2,
+      "genre": "*כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/כד יתבין.mp3",
+      "fileName": "כד יתבין.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 264.330862,
+      "isDefault": false
+    },
+    {
+      "id": "yom_kippur",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/בראש השנה.mp3",
+      "fileName": "בראש השנה.mp3",
+      "displayTitle": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781869778081_g0uusp.png",
+      "duration": 254.15,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/נגינה והכרזה.mp3",
+      "fileName": "נגינה והכרזה.mp3",
+      "displayTitle": "הכרזה",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781800336859_tpu8xf.jpg",
+      "duration": 55.607007,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_shvii",
+      "alertIndex": 0,
       "genre": "*כרמיאל",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
       "fileName": "10  שניות שקט.mp3",
@@ -280,14 +347,25 @@
       "isDefault": false
     },
     {
-      "id": "pesach_chol_hamoed",
-      "alertIndex": 0,
-      "genre": "*כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
-      "fileName": "10  שניות שקט.mp3",
-      "displayTitle": null,
+      "id": "simchat_torah",
+      "alertIndex": 2,
+      "genre": "מזרחי",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מזרחי/עליה לתורה.mp3",
+      "fileName": "עליה לתורה.mp3",
+      "displayTitle": "ניגון עליה לתורה ",
       "imageUrl": null,
-      "duration": 10.840816,
+      "duration": 92.090333,
+      "isDefault": false
+    },
+    {
+      "id": "simchat_torah",
+      "alertIndex": 1,
+      "genre": "חסידי",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/חסידי/שתרגילנו שמוליק קלין.mp3",
+      "fileName": "שתרגילנו שמוליק קלין.mp3",
+      "displayTitle": "שתרגילנו",
+      "imageUrl": null,
+      "duration": 114.503125,
       "isDefault": false
     },
     {
@@ -313,102 +391,47 @@
       "isDefault": false
     },
     {
-      "id": "sukkot_chol_hamoed",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/ashkenazi/סוכות התראה ראשונה.mp3",
-      "fileName": "סוכות התראה ראשונה.mp3",
+      "id": "pesach_shvii",
+      "alertIndex": 2,
+      "genre": "*מודיעין עילית",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/בצאת_ישראל_ממצריים (1).mp3",
+      "fileName": "בצאת_ישראל_ממצריים (1).mp3",
       "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781823266253_hoqzsg.jpg",
-      "duration": 262.972585,
+      "imageUrl": "",
+      "duration": 353.985306,
+      "isDefault": false
+    },
+    {
+      "id": "shavuot",
+      "alertIndex": 0,
+      "genre": "*כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
+      "fileName": "10  שניות שקט.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 10.840816,
       "isDefault": false
     },
     {
       "id": "shabbat",
       "alertIndex": 2,
-      "genre": "*מודיעין עילית",
+      "genre": "ashkenazi",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/לכה דודי.mp3",
       "fileName": "לכה דודי.mp3",
-      "displayTitle": "לכה דודי",
+      "displayTitle": "לכה דודי - קמפה",
       "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781800281229_dz7f35.jpg",
       "duration": 278.277415,
       "isDefault": false
     },
     {
-      "id": "yom_kippur",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/בראש השנה.mp3",
-      "fileName": "בראש השנה.mp3",
-      "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781869778081_g0uusp.png",
-      "duration": 254.15,
-      "isDefault": false
-    },
-    {
-      "id": "simchat_torah",
-      "alertIndex": 1,
-      "genre": "חסידי",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/חסידי/שתרגילנו שמוליק קלין.mp3",
-      "fileName": "שתרגילנו שמוליק קלין.mp3",
-      "displayTitle": "שתרגילנו",
-      "imageUrl": null,
-      "duration": 114.503125,
-      "isDefault": false
-    },
-    {
-      "id": "simchat_torah",
-      "alertIndex": 2,
-      "genre": "חסידי",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/חסידי/עליה לתורה.mp3",
-      "fileName": "עליה לתורה.mp3",
-      "displayTitle": "עליה לתורה",
-      "imageUrl": null,
-      "duration": 92.090333,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 1,
-      "genre": "*כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
-      "fileName": "10  שניות שקט.mp3",
-      "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769275919712_z9bd8q.jpg",
-      "duration": 10.840816,
-      "isDefault": false
-    },
-    {
-      "id": "shavuot",
-      "alertIndex": 2,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/והערב נא שיר שלישי.mp3",
-      "fileName": "והערב נא שיר שלישי.mp3",
-      "displayTitle": "והרב נא הדלקת נרות",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781821475116_unennd.jpg",
-      "duration": 396.428367,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_seder",
+      "id": "pesach_chol_hamoed",
       "alertIndex": 2,
       "genre": "*כרמיאל",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968991531_nqogu9.mp3",
       "fileName": "בצאת ישראל AETrim1774946618312.mp3",
       "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1768501735313.png",
-      "duration": 260.205714,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_shvii",
-      "alertIndex": 1,
-      "genre": "*כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
-      "fileName": "10  שניות שקט.mp3",
-      "displayTitle": null,
       "imageUrl": null,
-      "duration": 10.840816,
+      "duration": 260.205714,
       "isDefault": false
     },
     {
@@ -424,46 +447,13 @@
     },
     {
       "id": "shabbat",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/נגינה והכרזה.mp3",
-      "fileName": "נגינה והכרזה.mp3",
-      "displayTitle": "הכרזה",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781800336859_tpu8xf.jpg",
-      "duration": 55.607007,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 1,
-      "genre": "*צופרים כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
-      "fileName": "10  שניות שקט.mp3",
-      "displayTitle": "שקט",
-      "imageUrl": null,
-      "duration": 10.840816,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_seder",
-      "alertIndex": 1,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968923747_qkdugm.mp3",
-      "fileName": "08-והגדת-אונגר.mp3",
-      "displayTitle": "והגדת לבנך - אונגר",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781869899306_ffyhu5.jpg",
-      "duration": 59.567189,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "*צופרים כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
-      "fileName": "10  שניות שקט.mp3",
-      "displayTitle": "שקט",
-      "imageUrl": null,
-      "duration": 10.840816,
+      "alertIndex": 2,
+      "genre": "*מודיעין עילית",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/לכה דודי.mp3",
+      "fileName": "לכה דודי.mp3",
+      "displayTitle": "לכה דודי",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781800281229_dz7f35.jpg",
+      "duration": 278.277415,
       "isDefault": false
     },
     {
@@ -478,6 +468,83 @@
       "isDefault": false
     },
     {
+      "id": "pesach_seder",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774971517210_kq0c1e.mp3",
+      "fileName": "והראינו בביניונו - רכניץ.mp3",
+      "displayTitle": "והראינו בביניונו - רכניץ",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781869891172_jpml.jpg",
+      "duration": 175.519637,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_seder",
+      "alertIndex": 1,
+      "genre": "*מודיעין עילית",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968923747_qkdugm.mp3",
+      "fileName": "08-והגדת-אונגר.mp3",
+      "displayTitle": "והגדת לבנך - אונגר",
+      "imageUrl": "",
+      "duration": 59.567189,
+      "isDefault": false
+    },
+    {
+      "id": "rosh_hashana",
+      "alertIndex": 1,
+      "genre": "*צופרים כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/צופרים כרמיאל/10  שניות שקט.mp3",
+      "fileName": "10  שניות שקט.mp3",
+      "displayTitle": "ללא צליל",
+      "imageUrl": null,
+      "duration": 10.840816,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_seder",
+      "alertIndex": 0,
+      "genre": "*מודיעין עילית",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774971517210_kq0c1e.mp3",
+      "fileName": "והראינו בביניונו - רכניץ.mp3",
+      "displayTitle": "והראינו בבינינו - רכניץ",
+      "imageUrl": "",
+      "duration": 175.519637,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "חסידי",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/חסידי/פאר דיר.mp3",
+      "fileName": "פאר דיר.mp3",
+      "displayTitle": "פאר דיר ",
+      "imageUrl": null,
+      "duration": 195.321708,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_seder",
+      "alertIndex": 2,
+      "genre": "*מודיעין עילית",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968991531_nqogu9.mp3",
+      "fileName": "בצאת ישראל AETrim1774946618312.mp3",
+      "displayTitle": "בצאת ישראל - קמפה",
+      "imageUrl": "",
+      "duration": 260.205714,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_seder",
+      "alertIndex": 1,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968923747_qkdugm.mp3",
+      "fileName": "08-והגדת-אונגר.mp3",
+      "displayTitle": "והגדת לבנך - אונגר",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781869899306_ffyhu5.jpg",
+      "duration": 59.567189,
+      "isDefault": false
+    },
+    {
       "id": "rosh_hashana",
       "alertIndex": 2,
       "genre": "ashkenazi",
@@ -489,47 +556,112 @@
       "isDefault": false
     },
     {
-      "id": "simchat_torah",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/ashkenazi/שמחת תורה שיר ראשון.mp3",
-      "fileName": "שמחת תורה שיר ראשון.mp3",
-      "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781826250838_53rdvh.jpg",
-      "duration": 265.918299,
-      "isDefault": false
-    },
-    {
       "id": "pesach_seder",
-      "alertIndex": 1,
+      "alertIndex": 0,
       "genre": "*כרמיאל",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
       "fileName": "10  שניות שקט.mp3",
       "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1768501735313.png",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1768493945658.png",
       "duration": 10.840816,
       "isDefault": false
     },
     {
-      "id": "simchat_torah",
-      "alertIndex": 2,
+      "id": "shabbat",
+      "alertIndex": 1,
+      "genre": "*צופרים כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
+      "fileName": "10  שניות שקט.mp3",
+      "displayTitle": "שקט",
+      "imageUrl": null,
+      "duration": 10.840816,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
       "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/ashkenazi/שמחת תורה שיר שני.mp3",
-      "fileName": "שמחת תורה שיר שני.mp3",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/ashkenazi/08 בא שבת - Bo Shabbos.mp3",
+      "fileName": "08 בא שבת - Bo Shabbos.mp3",
+      "displayTitle": "באה שבת - שוואקי.",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781800272152_5k1ko.png",
+      "duration": 336.039211,
+      "isDefault": false
+    },
+    {
+      "id": "shabbat",
+      "alertIndex": 0,
+      "genre": "*צופרים כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
+      "fileName": "10  שניות שקט.mp3",
+      "displayTitle": "שקט",
+      "imageUrl": null,
+      "duration": 10.840816,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_chol_hamoed",
+      "alertIndex": 0,
+      "genre": "*כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
+      "fileName": "10  שניות שקט.mp3",
       "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1782685489910_hkn8ev.jpg",
-      "duration": 226.936259,
+      "imageUrl": null,
+      "duration": 10.840816,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_shvii",
+      "alertIndex": 2,
+      "genre": "*כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968991531_nqogu9.mp3",
+      "fileName": "בצאת ישראל AETrim1774946618312.mp3",
+      "displayTitle": null,
+      "imageUrl": null,
+      "duration": 260.205714,
       "isDefault": false
     },
     {
       "id": "shavuot",
-      "alertIndex": 1,
+      "alertIndex": 2,
       "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/נגינה והכרזה.mp3",
-      "fileName": "נגינה והכרזה.mp3",
-      "displayTitle": "ניגון והכרזה עשר דקות",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781821446528_f6fgta.jpg",
-      "duration": 55.607007,
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/והערב נא שיר שלישי.mp3",
+      "fileName": "והערב נא שיר שלישי.mp3",
+      "displayTitle": "והרב נא הדלקת נרות",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781821475116_unennd.jpg",
+      "duration": 396.428367,
+      "isDefault": false
+    },
+    {
+      "id": "simchat_torah",
+      "alertIndex": 0,
+      "genre": "חסידי",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/חסידי/ארי גולד & מוטי וייס - אהבת תורה.mp3",
+      "fileName": "ארי גולד & מוטי וייס - אהבת תורה.mp3",
+      "displayTitle": "אהבת תורה",
+      "imageUrl": null,
+      "duration": 220.6265,
+      "isDefault": false
+    },
+    {
+      "id": "rosh_hashana",
+      "alertIndex": 0,
+      "genre": "*צופרים כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/צופרים כרמיאל/10  שניות שקט.mp3",
+      "fileName": "10  שניות שקט.mp3",
+      "displayTitle": "ללא צליל",
+      "imageUrl": null,
+      "duration": 10.840816,
+      "isDefault": false
+    },
+    {
+      "id": "chanukah",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/audio%2F1765225647223_Ben_Zur___________________________.mp3?alt=media&token=3f6f5d11-9a9c-4a04-af8a-9d515e1ef532",
+      "fileName": "1765225647223_Ben_Zur___________________________.mp3",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shabat-20291.firebasestorage.app/o/images%2F1765186345837_IMG_20240128_WA0012__1___1_.jpg?alt=media&token=d49553ea-a4f6-4281-8915-e211d6f277ff",
+      "duration": 0,
       "isDefault": false
     },
     {
@@ -555,113 +687,91 @@
       "isDefault": false
     },
     {
-      "id": "pesach_seder",
-      "alertIndex": 0,
-      "genre": "*מודיעין עילית",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774971517210_kq0c1e.mp3",
-      "fileName": "והראינו בביניונו - רכניץ.mp3",
-      "displayTitle": "והראינו בבינינו - רכניץ",
-      "imageUrl": "",
-      "duration": 175.519637,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_seder",
-      "alertIndex": 1,
-      "genre": "*מודיעין עילית",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968923747_qkdugm.mp3",
-      "fileName": "08-והגדת-אונגר.mp3",
-      "displayTitle": "והגדת לבנך - אונגר",
-      "imageUrl": "",
-      "duration": 59.567189,
-      "isDefault": false
-    },
-    {
-      "id": "simchat_torah",
-      "alertIndex": 2,
-      "genre": "מזרחי",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מזרחי/עליה לתורה.mp3",
-      "fileName": "עליה לתורה.mp3",
-      "displayTitle": "ניגון עליה לתורה ",
-      "imageUrl": null,
-      "duration": 92.090333,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "חסידי",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/חסידי/פאר דיר.mp3",
-      "fileName": "פאר דיר.mp3",
-      "displayTitle": "פאר דיר ",
-      "imageUrl": null,
-      "duration": 195.321708,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 2,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/לכה דודי.mp3",
-      "fileName": "לכה דודי.mp3",
-      "displayTitle": "לכה דודי - קמפה",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781800281229_dz7f35.jpg",
-      "duration": 278.277415,
-      "isDefault": false
-    },
-    {
       "id": "pesach_chol_hamoed",
-      "alertIndex": 2,
+      "alertIndex": 0,
       "genre": "*מודיעין עילית",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/שלמה_יהודה_רכניץ_-_והראינו (1).mp3",
-      "fileName": "שלמה_יהודה_רכניץ_-_והראינו (1).mp3",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/17-השבעתי.mp3",
+      "fileName": "17-השבעתי.mp3",
       "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/_7cd1b454-4dd6-428a-9750-3b9732aa7fa5.jpeg",
-      "duration": 395.2845,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1767883952504_ramhbe.png",
+      "duration": 333.539438,
       "isDefault": false
     },
     {
-      "id": "pesach_chol_hamoed",
+      "id": "pesach_seder",
       "alertIndex": 2,
       "genre": "*כרמיאל",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968991531_nqogu9.mp3",
       "fileName": "בצאת ישראל AETrim1774946618312.mp3",
       "displayTitle": null,
-      "imageUrl": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1768501735313.png",
       "duration": 260.205714,
       "isDefault": false
     },
     {
       "id": "shabbat",
-      "alertIndex": 0,
-      "genre": "*כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
-      "fileName": "10  שניות שקט.mp3",
-      "displayTitle": "לכה דודי קמפה",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1769276299604_sebhqr.jpg",
-      "duration": 10.840816,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_shvii",
-      "alertIndex": 1,
-      "genre": "*מודיעין עילית",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/הכרזה_ליום_טוב_בלבד_עם_ניגון.mp3",
-      "fileName": "הכרזה_ליום_טוב_בלבד_עם_ניגון.mp3",
-      "displayTitle": null,
-      "imageUrl": "",
-      "duration": 132.24,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_chol_hamoed",
       "alertIndex": 1,
       "genre": "*מודיעין עילית",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/הכרזה_מיוחדת_לשבת_במודיעין_עילית.mp3",
       "fileName": "הכרזה_מיוחדת_לשבת_במודיעין_עילית.mp3",
+      "displayTitle": "הכרזה",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781800336859_tpu8xf.jpg",
+      "duration": 59.636848,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_seder",
+      "alertIndex": 2,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968991531_nqogu9.mp3",
+      "fileName": "בצאת ישראל AETrim1774946618312.mp3",
+      "displayTitle": "בצאת ישראל ממצרים - קמפה",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1782685483125_twgmw.jpg",
+      "duration": 260.205714,
+      "isDefault": false
+    },
+    {
+      "id": "sukkot_chol_hamoed",
+      "alertIndex": 2,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/ashkenazi/סוכות התראה שניה.mp3",
+      "fileName": "סוכות התראה שניה.mp3",
       "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/_04563962-5f62-4f4f-bc9e-681e9d41b94d.jpeg",
-      "duration": 59.663673,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781823285798_6f7nui.jpg",
+      "duration": 285.287846,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_seder",
+      "alertIndex": 1,
+      "genre": "*כרמיאל",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
+      "fileName": "10  שניות שקט.mp3",
+      "displayTitle": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1768501735313.png",
+      "duration": 10.840816,
+      "isDefault": false
+    },
+    {
+      "id": "sukkot_chol_hamoed",
+      "alertIndex": 0,
+      "genre": "ashkenazi",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/ashkenazi/סוכות התראה ראשונה.mp3",
+      "fileName": "סוכות התראה ראשונה.mp3",
+      "displayTitle": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781823266253_hoqzsg.jpg",
+      "duration": 262.972585,
+      "isDefault": false
+    },
+    {
+      "id": "simchat_torah",
+      "alertIndex": 1,
+      "genre": "מזרחי",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מזרחי/שתרגילנו שמוליק קלין.mp3",
+      "fileName": "שתרגילנו שמוליק קלין.mp3",
+      "displayTitle": "שתרגילנו שמוליק קלין",
+      "imageUrl": null,
+      "duration": 114.503125,
       "isDefault": false
     },
     {
@@ -677,6 +787,17 @@
     },
     {
       "id": "pesach_chol_hamoed",
+      "alertIndex": 2,
+      "genre": "*מודיעין עילית",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/שלמה_יהודה_רכניץ_-_והראינו (1).mp3",
+      "fileName": "שלמה_יהודה_רכניץ_-_והראינו (1).mp3",
+      "displayTitle": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/_7cd1b454-4dd6-428a-9750-3b9732aa7fa5.jpeg",
+      "duration": 395.2845,
+      "isDefault": false
+    },
+    {
+      "id": "pesach_shvii",
       "alertIndex": 1,
       "genre": "*כרמיאל",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
@@ -684,156 +805,51 @@
       "displayTitle": null,
       "imageUrl": null,
       "duration": 10.840816,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_seder",
-      "alertIndex": 0,
-      "genre": "*כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
-      "fileName": "10  שניות שקט.mp3",
-      "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/1768493945658.png",
-      "duration": 10.840816,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_shvii",
-      "alertIndex": 0,
-      "genre": "*מודיעין עילית",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/מוטי שטינמץ - חסל סידור פסח.mp3",
-      "fileName": "מוטי שטינמץ - חסל סידור פסח.mp3",
-      "displayTitle": null,
-      "imageUrl": "",
-      "duration": 335.621224,
-      "isDefault": false
-    },
-    {
-      "id": "simchat_torah",
-      "alertIndex": 0,
-      "genre": "חסידי",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/חסידי/ארי גולד & מוטי וייס - אהבת תורה.mp3",
-      "fileName": "ארי גולד & מוטי וייס - אהבת תורה.mp3",
-      "displayTitle": "אהבת תורה",
-      "imageUrl": null,
-      "duration": 220.6265,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_seder",
-      "alertIndex": 2,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774968991531_nqogu9.mp3",
-      "fileName": "בצאת ישראל AETrim1774946618312.mp3",
-      "displayTitle": "בצאת ישראל ממצרים - קמפה",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1782685483125_twgmw.jpg",
-      "duration": 260.205714,
-      "isDefault": false
-    },
-    {
-      "id": "shabbat",
-      "alertIndex": 2,
-      "genre": "*צופרים כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/צופרים כרמיאל/שלום עליכם קצר איכות MP3.mp3",
-      "fileName": "שלום עליכם קצר איכות MP3.mp3",
-      "displayTitle": "שלום עליכם ספרדי קצר",
-      "imageUrl": null,
-      "duration": 164.003125,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_chol_hamoed",
-      "alertIndex": 0,
-      "genre": "*מודיעין עילית",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מודיעין עילית/17-השבעתי.mp3",
-      "fileName": "17-השבעתי.mp3",
-      "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1767883952504_ramhbe.png",
-      "duration": 333.539438,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_seder",
-      "alertIndex": 0,
-      "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1774971517210_kq0c1e.mp3",
-      "fileName": "והראינו בביניונו - רכניץ.mp3",
-      "displayTitle": "והראינו בביניונו - רכניץ",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781869891172_jpml.jpg",
-      "duration": 175.519637,
-      "isDefault": false
-    },
-    {
-      "id": "shavuot",
-      "alertIndex": 2,
-      "genre": "*כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/כד יתבין.mp3",
-      "fileName": "כד יתבין.mp3",
-      "displayTitle": null,
-      "imageUrl": null,
-      "duration": 264.330862,
       "isDefault": false
     },
     {
       "id": "rosh_hashana",
       "alertIndex": 1,
-      "genre": "*צופרים כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/צופרים כרמיאל/10  שניות שקט.mp3",
-      "fileName": "10  שניות שקט.mp3",
-      "displayTitle": "ללא צליל",
-      "imageUrl": null,
-      "duration": 10.840816,
-      "isDefault": false
-    },
-    {
-      "id": "sukkot_chol_hamoed",
-      "alertIndex": 1,
       "genre": "ashkenazi",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/נגינה והכרזה.mp3",
-      "fileName": "נגינה והכרזה.mp3",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/f_1766149526552_rkr14.mp3",
+      "fileName": "הכרזה ספרדי ימים נוראים.mp3",
       "displayTitle": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781823275260_yu3vx8.jpg",
-      "duration": 55.607007,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1781821740517_cstdac.jpg",
+      "duration": 49.486893,
       "isDefault": false
     },
     {
-      "id": "shabbat",
-      "alertIndex": 2,
-      "genre": "*כרמיאל",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/לכה דודי.mp3",
-      "fileName": "לכה דודי.mp3",
-      "displayTitle": "לכה דודי - קמפה",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/images/f_1767883952504_ramhbe.png",
-      "duration": 278.277415,
-      "isDefault": false
-    },
-    {
-      "id": "pesach_shvii",
-      "alertIndex": 0,
+      "id": "shavuot",
+      "alertIndex": 1,
       "genre": "*כרמיאל",
       "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/10  שניות שקט.mp3",
       "fileName": "10  שניות שקט.mp3",
       "displayTitle": null,
       "imageUrl": null,
       "duration": 10.840816,
-      "isDefault": false
-    },
-    {
-      "id": "simchat_torah",
-      "alertIndex": 1,
-      "genre": "מזרחי",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/audio/מזרחי/שתרגילנו שמוליק קלין.mp3",
-      "fileName": "שתרגילנו שמוליק קלין.mp3",
-      "displayTitle": "שתרגילנו שמוליק קלין",
-      "imageUrl": null,
-      "duration": 114.503125,
       "isDefault": false
     }
   ],
   "dashboardText": "<p class=\"MsoNormal\" dir=\"RTL\"></p><div style=\"text-align: justify;\"></div><div style=\"text-align: justify;\"></div><p></p><p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center;\"><font face=\"times new roman, serif\" style=\"color: rgb(34, 34, 34); font-size: small; white-space: normal;\">&nbsp;</font><font size=\"4\" style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; white-space: normal;\">&nbsp;<font face=\"tahoma, sans-serif\">היישום כולל מערכת התראות מוזיקלית המאפשרת קבלת שבת ברוגע ובזמן, באמצעות שלוש מנגינות קבועות המתוזמנות לפני זמן כניסת שבת. המנגנון מסתנכרן אוטומטית עם זמני היום המקומיים ומזהה שבתות וחגים צמודים ללא צורך בהגדרה ידנית,&nbsp;</font></font></p><div dir=\"rtl\" style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; white-space: normal; text-align: center;\"><font size=\"4\" face=\"tahoma, sans-serif\">לפניות והוספת יישובים.</font></div><div dir=\"rtl\" style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; white-space: normal; text-align: center;\"><font size=\"4\" face=\"tahoma, sans-serif\">&nbsp;&nbsp;<span style=\"color: rgb(31, 31, 31); background-color: rgb(233, 238, 246);\">a228551339@gmail.com</span></font></div><div dir=\"rtl\" style=\"color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; white-space: normal; text-align: center;\"><font size=\"4\" face=\"tahoma, sans-serif\"><span style=\"color: rgb(31, 31, 31); background-color: rgb(233, 238, 246);\">מפעילים צופרים בשכונה ומעוניינים לבחור את המנגינות? פנו אלינו</span></font></div>",
   "dedications": [
     {
-      "profileImageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/dedications/f_1776024394974_gam2pu.png",
+      "showForeverInZchut": false,
+      "deathHebrewDay": 28,
+      "hideFromGeneralWhenZchut": false,
+      "triggers": [
+        {
+          "type": "forever"
+        },
+        {
+          "hebrewMonth": 7,
+          "hebrewDay": 28,
+          "type": "annual_week_containing",
+          "calendar": "hebrew"
+        }
+      ],
+      "showOnAlertOverlay": true,
+      "kind": "memorial",
+      "deathDateMode": "hebrew",
       "hebrewMemorialTriggerYmds": {
         "1": [
           "2027-04-29",
@@ -908,53 +924,37 @@
           "2036-04-25"
         ]
       },
-      "deathHebrewMonth": 7,
-      "deathHebrewDay": 28,
-      "deathDateMode": "hebrew",
-      "hebrewMemorialMaterializationMeta": {
-        "validThroughHebrewYear": 5796,
-        "computedAt": "2026-05-15T15:35:23.187Z",
-        "windowVersion": 2,
-        "source": "hebcal-core"
-      },
-      "showForeverInZchut": false,
-      "id": "4927bd04-6286-4a2f-a538-63192253690f",
-      "hideFromGeneralWhenZchut": false,
-      "triggers": [
-        {
-          "type": "forever"
-        },
-        {
-          "hebrewDay": 28,
-          "hebrewMonth": 7,
-          "calendar": "hebrew",
-          "type": "annual_week_containing"
-        }
-      ],
-      "createdAt": "2026-04-12T18:24:21.537Z",
-      "deathYearLabel": "תשפ\"ג",
-      "sortOrder": 0,
+      "profileImageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/dedications/f_1776024394974_gam2pu.png",
       "displayName": "שמואל נחום ז\"ל בן ר' משה סגל",
-      "showOnAlertOverlay": true,
-      "kind": "memorial"
+      "id": "4927bd04-6286-4a2f-a538-63192253690f",
+      "deathHebrewMonth": 7,
+      "sortOrder": 0,
+      "deathYearLabel": "תשפ\"ג",
+      "hebrewMemorialMaterializationMeta": {
+        "windowVersion": 2,
+        "validThroughHebrewYear": 5796,
+        "source": "hebcal-core",
+        "computedAt": "2026-05-15T15:35:23.187Z"
+      },
+      "createdAt": "2026-04-12T18:24:21.537Z"
     },
     {
+      "displayName": "לוח שנה \"עיתים לבינה\"",
       "triggers": [
         {
           "type": "forever"
         }
       ],
-      "hideFromGeneralWhenZchut": false,
-      "kind": "success",
       "nickname": "כל הזמנים בנדיבותם",
-      "sortOrder": 1,
-      "displayName": "לוח שנה \"עיתים לבינה\"",
-      "profileImageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/dedications/f_1778586576795_pki83p.png",
+      "id": "5b26fa91-d669-4e3e-b585-321cd42f7dff",
+      "kind": "success",
       "deathDateMode": "hebrew",
+      "profileImageUrl": "https://cdn.jsdelivr.net/gh/YM0527140225/Makdimi-Shabbat-storage@main/dedications/f_1778586576795_pki83p.png",
+      "showOnAlertOverlay": false,
+      "sortOrder": 1,
       "createdAt": "2026-05-12T11:32:18.301Z",
       "showForeverInZchut": false,
-      "id": "5b26fa91-d669-4e3e-b585-321cd42f7dff",
-      "showOnAlertOverlay": false
+      "hideFromGeneralWhenZchut": false
     }
   ],
   "availableCities": [
